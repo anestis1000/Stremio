@@ -18,7 +18,7 @@
 namespace lt = libtorrent;
 namespace fs = std::filesystem;
 namespace {
-std::string quoted(std::string const& value) {
+std::string jsonString(std::string const& value) {
     std::string out = "\"";
     for (unsigned char c : value) {
         if (c == '"' || c == '\\') { out += '\\'; out += c; }
@@ -31,7 +31,7 @@ std::string quoted(std::string const& value) {
     return out + '"';
 }
 char *result(std::string const& value) { return strdup(value.c_str()); }
-char *failure(std::string const& message) { return result("{\"error\":" + quoted(message) + "}"); }
+char *failure(std::string const& message) { return result("{\"error\":" + jsonString(message) + "}"); }
 std::string hex(lt::sha1_hash const& hash) {
     static char const digits[] = "0123456789abcdef"; std::string out;
     for (int i = 0; i < 20; ++i) { auto c = static_cast<unsigned char>(hash[i]); out += digits[c >> 4]; out += digits[c & 15]; }
@@ -61,7 +61,7 @@ struct Engine {
     lt::session session;
     explicit Engine(std::string directory) : resumeDirectory(std::move(directory)), session(settings()) { fs::create_directories(resumeDirectory); }
     lt::torrent_handle handle(char const* hash) {
-        auto h = session.find_torrent(lt::info_hash_t(parseHash(hash)));
+        auto h = session.find_torrent(parseHash(hash));
         if (!h.is_valid()) throw std::runtime_error("Torrent is no longer available");
         return h;
     }
@@ -92,9 +92,9 @@ struct Engine {
         params.flags |= lt::torrent_flags::sequential_download;
         params.flags |= lt::torrent_flags::duplicate_is_error;
         lt::error_code error; auto handle = session.add_torrent(params, error);
-        if (error == lt::errors::duplicate_torrent) handle = session.find_torrent(lt::info_hash_t(hash));
+        if (error == lt::errors::duplicate_torrent) handle = session.find_torrent(hash);
         else if (error) return failure(error.message());
-        handle.resume(); return result("{\"id\":" + quoted(hashText) + "}");
+        handle.resume(); return result("{\"id\":" + jsonString(hashText) + "}");
     }
 };
 }
@@ -116,17 +116,17 @@ char *st_snapshot(void *p) {
         for (auto h : engine.session.get_torrents()) {
             auto s = h.status(); auto ti = h.torrent_file();
             if (!first) out << ','; first = false;
-            out << "{\"id\":" << quoted(hex(h.info_hashes().v1)) << ",\"name\":" << quoted(s.name)
+            out << "{\"id\":" << jsonString(hex(h.info_hashes().v1)) << ",\"name\":" << jsonString(s.name)
                 << ",\"progress\":" << s.progress << ",\"downloadRate\":" << s.download_payload_rate
                 << ",\"downloaded\":" << s.total_wanted_done << ",\"total\":" << s.total_wanted << ",\"peers\":" << s.num_peers
                 << ",\"paused\":" << ((s.flags & lt::torrent_flags::paused) ? "true" : "false")
                 << ",\"finished\":" << (s.is_finished ? "true" : "false") << ",\"metadata\":" << (ti ? "true" : "false")
-                << ",\"error\":" << quoted(s.errc ? s.errc.message() : "") << ",\"files\":[";
+                << ",\"error\":" << jsonString(s.errc ? s.errc.message() : "") << ",\"files\":[";
             if (ti) {
                 std::vector<std::int64_t> progress; h.file_progress(progress); auto const& files = ti->files();
                 for (int i = 0; i < files.num_files(); ++i) {
                     auto index = lt::file_index_t{i}; if (i) out << ',';
-                    out << "{\"index\":" << i << ",\"path\":" << quoted(files.file_path(index)) << ",\"bytes\":" << files.file_size(index)
+                    out << "{\"index\":" << i << ",\"path\":" << jsonString(files.file_path(index)) << ",\"bytes\":" << files.file_size(index)
                         << ",\"downloaded\":" << (i < static_cast<int>(progress.size()) ? progress[i] : 0) << '}';
                 }
             }

@@ -1,0 +1,4 @@
+module NativeTorrent {
+    header "NativeTorrent.h"
+    export *
+}

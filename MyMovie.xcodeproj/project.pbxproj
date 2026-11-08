@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		B00000000000000000000003 /* MPVKit in Frameworks */ = {isa = PBXBuildFile; productRef = B00000000000000000000002 /* MPVKit */; };
+		B00000000000000000000006 /* NativeTorrent in Frameworks */ = {isa = PBXBuildFile; productRef = B00000000000000000000005 /* NativeTorrent */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B00000000000000000000003 /* MPVKit in Frameworks */,
+				B00000000000000000000006 /* NativeTorrent in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -98,6 +100,7 @@
 			name = MyMovie;
 			packageProductDependencies = (
 				B00000000000000000000002 /* MPVKit */,
+				B00000000000000000000005 /* NativeTorrent */,
 			);
 			productName = MyMovie;
 			productReference = A00000000000000000000011 /* MyMovie.app */;
@@ -155,6 +158,7 @@
 			mainGroup = A00000000000000000000003;
 			packageReferences = (
 				B00000000000000000000001 /* XCRemoteSwiftPackageReference "MPVKit" */,
+				B00000000000000000000004 /* XCLocalSwiftPackageReference "Packages/NativeTorrent" */,
 			);
 			productRefGroup = A00000000000000000000004 /* Products */;
 			projectDirPath = "";
@@ -353,6 +357,13 @@
 		};
 /* End XCConfigurationList section */
 
+/* Begin XCLocalSwiftPackageReference section */
+		B00000000000000000000004 /* XCLocalSwiftPackageReference "Packages/NativeTorrent" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = Packages/NativeTorrent;
+		};
+/* End XCLocalSwiftPackageReference section */
+
 /* Begin XCRemoteSwiftPackageReference section */
 		B00000000000000000000001 /* XCRemoteSwiftPackageReference "MPVKit" */ = {
 			isa = XCRemoteSwiftPackageReference;
@@ -369,6 +380,11 @@
 			isa = XCSwiftPackageProductDependency;
 			package = B00000000000000000000001 /* XCRemoteSwiftPackageReference "MPVKit" */;
 			productName = MPVKit;
+		};
+		B00000000000000000000005 /* NativeTorrent */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = B00000000000000000000004 /* XCLocalSwiftPackageReference "Packages/NativeTorrent" */;
+			productName = NativeTorrent;
 		};
 /* End XCSwiftPackageProductDependency section */
 	};
