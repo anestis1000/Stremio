@@ -1,0 +1,16 @@
+{
+  "repository": "dscho/innoextract",
+  "commit": "376a13e7c41cc5528b6088d0dd16ec1b323a8d37",
+  "pull_request": "https://github.com/dscharrer/innoextract/pull/210",
+  "local_patch": "Removed the obsolete boost_system CMake component; installed Boost.System is header-only. Parser code unchanged.",
+  "tool_sha256": "4453c21438945976c586efc1472a53b8cf3d7d55b42807073b967a198d0f106c",
+  "tool_path": "/tmp/stremio-innoextract-210/build/innoextract",
+  "command": [
+    "/tmp/stremio-innoextract-210/build/innoextract",
+    "--extract",
+    "--output-dir",
+    "/tmp/stremio-extracted-v5.0.27-arm64",
+    "/Users/a.tsoulfas/Desktop/StremioSetup-v5.0.27_arm64.exe"
+  ],
+  "extraction_exit_code": 0
+}

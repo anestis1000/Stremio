@@ -1,0 +1,362 @@
+{
+  "sha": "3f3743087b11e81374cf943aaf1e041af1c97ee3",
+  "url": "https://api.github.com/repos/Stremio/stremio-brand/git/trees/3f3743087b11e81374cf943aaf1e041af1c97ee3",
+  "tree": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "952f931d4f1ea34d79655e4f5608f3dc603b7181",
+      "size": 350,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/952f931d4f1ea34d79655e4f5608f3dc603b7181"
+    },
+    {
+      "path": "Stremur",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "13ba44ea0d0c5d8b133e355a260365ac3d46e743",
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/trees/13ba44ea0d0c5d8b133e355a260365ac3d46e743"
+    },
+    {
+      "path": "Stremur/Stremur-Error.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2466b0ee4f2257fc62118ef588e89d32d079b5dc",
+      "size": 9929538,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/2466b0ee4f2257fc62118ef588e89d32d079b5dc"
+    },
+    {
+      "path": "Stremur/Stremur-Mad scientist.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a41ed0074f9d55f51deb7c0ef4599d1074a5bc7f",
+      "size": 3503825,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/a41ed0074f9d55f51deb7c0ef4599d1074a5bc7f"
+    },
+    {
+      "path": "Stremur/Stremur-Tinkerer_steampunk.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "982d9dcb4b755ed93b599f4c03c6d35d8da1b635",
+      "size": 10982434,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/982d9dcb4b755ed93b599f4c03c6d35d8da1b635"
+    },
+    {
+      "path": "Stremur/Stremur-empty-content.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bd603442459b0c6f9fc994b3ef1b5be8b0d2379b",
+      "size": 8754090,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/bd603442459b0c6f9fc994b3ef1b5be8b0d2379b"
+    },
+    {
+      "path": "Stremur/Stremur-helping.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d81cf0a56de9ece7f08a78701e0f33936dfb4daf",
+      "size": 8448541,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/d81cf0a56de9ece7f08a78701e0f33936dfb4daf"
+    },
+    {
+      "path": "Stremur/Stremur-mouse-remote.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f807cfc24856dd9f08e03ef770cc8965e05a623d",
+      "size": 11798544,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/f807cfc24856dd9f08e03ef770cc8965e05a623d"
+    },
+    {
+      "path": "Stremur/Stremur-tinkerer-one.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c963cb801a244132c1ab84ee30038db9cfffe086",
+      "size": 10176002,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/c963cb801a244132c1ab84ee30038db9cfffe086"
+    },
+    {
+      "path": "Stremur/Stremur_Knight.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cc03b46bd7a19f94bf64f9fbc335cf5dd537a90e",
+      "size": 10368128,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/cc03b46bd7a19f94bf64f9fbc335cf5dd537a90e"
+    },
+    {
+      "path": "Stremur/Stremur_Playful.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "547ffcb1385078d8996efd58e17da13827bc1769",
+      "size": 9852199,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/547ffcb1385078d8996efd58e17da13827bc1769"
+    },
+    {
+      "path": "favicons",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d99e22bb846b440a45540c0d120f741a345f8407",
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/trees/d99e22bb846b440a45540c0d120f741a345f8407"
+    },
+    {
+      "path": "favicons/stremio-favicon-32px.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c2113818fffce64be65d718dc2943dbfe8858c9b",
+      "size": 1551,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/c2113818fffce64be65d718dc2943dbfe8858c9b"
+    },
+    {
+      "path": "favicons/stremio-favicon-96px.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3aaec4cbdfa7a8b8cd07bb69355b9020a5d14fc9",
+      "size": 3492,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/3aaec4cbdfa7a8b8cd07bb69355b9020a5d14fc9"
+    },
+    {
+      "path": "favicons/stremio-service-dicon-white-gb.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9058d703e2eb34e56745601923c07b2955ad3509",
+      "size": 11618,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/9058d703e2eb34e56745601923c07b2955ad3509"
+    },
+    {
+      "path": "favicons/stremio-service-dicon-white-gb@256px.icns",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5b7cdb3f66b49b3e432f6add983653b4aba0f897",
+      "size": 92315,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/5b7cdb3f66b49b3e432f6add983653b4aba0f897"
+    },
+    {
+      "path": "favicons/stremio-service-dicon-white-gb@256px.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2ac926e25f0e7b7bac228ddef9d9b634c933af5c",
+      "size": 14232,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/2ac926e25f0e7b7bac228ddef9d9b634c933af5c"
+    },
+    {
+      "path": "favicons/stremio-service-tray-white-cog.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a3597d60caa70d9f6f380d2a9a0c5d92358b435f",
+      "size": 1927,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/a3597d60caa70d9f6f380d2a9a0c5d92358b435f"
+    },
+    {
+      "path": "favicons/stremio-service-tray-white.ico",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6be25260e31933970f81bde784c4834bc43f8968",
+      "size": 4286,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/6be25260e31933970f81bde784c4834bc43f8968"
+    },
+    {
+      "path": "logo-presentation.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7d321219d48b9c83025702481e1569f2a68366e7",
+      "size": 199624,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/7d321219d48b9c83025702481e1569f2a68366e7"
+    },
+    {
+      "path": "logos",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a4eba9a99fa884a2290c13b8ad38d227740d2403",
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/trees/a4eba9a99fa884a2290c13b8ad38d227740d2403"
+    },
+    {
+      "path": "logos/PNG",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a2bb4b05fdd7a7bf1f60879fdb239e9dcc5918f4",
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/trees/a2bb4b05fdd7a7bf1f60879fdb239e9dcc5918f4"
+    },
+    {
+      "path": "logos/PNG/dapp tray w32.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0e6f1e3fdda384b5b0479b103a8a1cbfc709eae0",
+      "size": 673,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/0e6f1e3fdda384b5b0479b103a8a1cbfc709eae0"
+    },
+    {
+      "path": "logos/PNG/logotype-on-a-dark-bg.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "982fdf26a17a998f9c705d3e47b78e174d0f58ea",
+      "size": 10897,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/982fdf26a17a998f9c705d3e47b78e174d0f58ea"
+    },
+    {
+      "path": "logos/PNG/stremio-black.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "242b03604d399bd83b89859a156bb4640b718375",
+      "size": 1999,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/242b03604d399bd83b89859a156bb4640b718375"
+    },
+    {
+      "path": "logos/PNG/stremio-grey.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ed3252e63791b6adac79a1f7adfb73d992da7859",
+      "size": 2001,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/ed3252e63791b6adac79a1f7adfb73d992da7859"
+    },
+    {
+      "path": "logos/PNG/stremio-logo-800px.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b00affe54627d695bbe563c984a3785419c612ab",
+      "size": 23814,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/b00affe54627d695bbe563c984a3785419c612ab"
+    },
+    {
+      "path": "logos/PNG/stremio-logotype-dark-theme.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "09e8a8deb8aa75a0256f6dae2fd5b51d3e968d64",
+      "size": 24513,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/09e8a8deb8aa75a0256f6dae2fd5b51d3e968d64"
+    },
+    {
+      "path": "logos/PNG/stremio-logotype-full-white.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8c9588937a28c66148431a19b1188d0a176813bb",
+      "size": 16846,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/8c9588937a28c66148431a19b1188d0a176813bb"
+    },
+    {
+      "path": "logos/PNG/stremio-logotype-light-theme.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4ddacf7fe1256c2489d95cb40a625e70e56c5778",
+      "size": 25954,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/4ddacf7fe1256c2489d95cb40a625e70e56c5778"
+    },
+    {
+      "path": "logos/PNG/stremio-symbol-1024.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "988983024439f96e0f3253d7a5c5e89d9b2d34c4",
+      "size": 77255,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/988983024439f96e0f3253d7a5c5e89d9b2d34c4"
+    },
+    {
+      "path": "logos/PNG/stremio-symbol-2000px-black.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5b440d94b667e9aa72ef15cedb472a47006fa397",
+      "size": 77244,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/5b440d94b667e9aa72ef15cedb472a47006fa397"
+    },
+    {
+      "path": "logos/PNG/stremio-symbol-2000px-white.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c8adf538f9a6dfe7c1749d83ec03f6d6f93d6217",
+      "size": 31676,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/c8adf538f9a6dfe7c1749d83ec03f6d6f93d6217"
+    },
+    {
+      "path": "logos/PNG/stremio-symbol-padding@2000px-black.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3c3d7ddbe577987b879097b3c9f335c9026e37d6",
+      "size": 61569,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/3c3d7ddbe577987b879097b3c9f335c9026e37d6"
+    },
+    {
+      "path": "logos/PNG/stremio-symbol-padding@2000px-white.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "52b9c79605a44960a6f0bd06aad3a4867236ecd1",
+      "size": 62016,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/52b9c79605a44960a6f0bd06aad3a4867236ecd1"
+    },
+    {
+      "path": "logos/PNG/stremio_tray_black.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8117d7eeb48f926ad6dec81836d1301ee699161c",
+      "size": 5553,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/8117d7eeb48f926ad6dec81836d1301ee699161c"
+    },
+    {
+      "path": "logos/PNG/stremio_tray_white.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8aacfb8f248c48a641573e0bfc6809a572718a23",
+      "size": 5781,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/8aacfb8f248c48a641573e0bfc6809a572718a23"
+    },
+    {
+      "path": "logos/SVG",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bdfc5aa1129835d11f2935a0e9934fb4cd8047f7",
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/trees/bdfc5aa1129835d11f2935a0e9934fb4cd8047f7"
+    },
+    {
+      "path": "logos/SVG/stremio-icon-big-vector.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5decc6774efac12653d28c82af21b2966b38d8be",
+      "size": 139199,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/5decc6774efac12653d28c82af21b2966b38d8be"
+    },
+    {
+      "path": "logos/SVG/stremio-logo-800px.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d4267f22ca758f8d00da3e514b9bd071b5060971",
+      "size": 1156,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/d4267f22ca758f8d00da3e514b9bd071b5060971"
+    },
+    {
+      "path": "logos/SVG/stremio-logo-horizontal-black.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "65422060aa9d6f3a008c4377fedb5d3036edb733",
+      "size": 7126,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/65422060aa9d6f3a008c4377fedb5d3036edb733"
+    },
+    {
+      "path": "logos/SVG/stremio-logo-horizontal-white.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8ecd3340af178016c66eaf9a937623e8515aaad9",
+      "size": 7222,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/8ecd3340af178016c66eaf9a937623e8515aaad9"
+    },
+    {
+      "path": "logos/SVG/stremio-logo-icon-only-fullcolor.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ecaa25f35648d9f5857d4c347103e2bfd9a1ce4b",
+      "size": 979,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/ecaa25f35648d9f5857d4c347103e2bfd9a1ce4b"
+    },
+    {
+      "path": "logos/SVG/stremio-logotype-black.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "24ef12d9cb82928b567957243b5a1e3b307ffe20",
+      "size": 6213,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/24ef12d9cb82928b567957243b5a1e3b307ffe20"
+    },
+    {
+      "path": "logos/SVG/stremio-logotype-white.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9dd5cf877456bac612aca94900c3c0538e77abb6",
+      "size": 6309,
+      "url": "https://api.github.com/repos/Stremio/stremio-brand/git/blobs/9dd5cf877456bac612aca94900c3c0538e77abb6"
+    }
+  ],
+  "truncated": false
+}

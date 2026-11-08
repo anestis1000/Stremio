@@ -1,0 +1,690 @@
+{
+  "sha": "d640dc18c006649059d3c338b83e4f6376f395b5",
+  "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/trees/d640dc18c006649059d3c338b83e4f6376f395b5",
+  "tree": [
+    {
+      "path": ".github",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d897de076df1bf80c62bd0d8f9e2ab7cdb6f44e9",
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/trees/d897de076df1bf80c62bd0d8f9e2ab7cdb6f44e9"
+    },
+    {
+      "path": ".github/workflows",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "30e65c89bb890bc6ca9840880a52210c4e0deb4a",
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/trees/30e65c89bb890bc6ca9840880a52210c4e0deb4a"
+    },
+    {
+      "path": ".github/workflows/test.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a75c89bfcc2622df1b4171aee7d91ba918b142cf",
+      "size": 903,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/a75c89bfcc2622df1b4171aee7d91ba918b142cf"
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "981913b3a0fd4b5b111dff3069dc3785e52964c9",
+      "size": 37,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/981913b3a0fd4b5b111dff3069dc3785e52964c9"
+    },
+    {
+      "path": "Cargo.lock",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7adf8de35968ce006e66661a79fddb69eec36e1e",
+      "size": 65092,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/7adf8de35968ce006e66661a79fddb69eec36e1e"
+    },
+    {
+      "path": "Cargo.toml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9fe7f3363f963a4b7d23f1263a2c68090bf9ea30",
+      "size": 1261,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/9fe7f3363f963a4b7d23f1263a2c68090bf9ea30"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "49f4cf1b69d5efd54b8577be11baba2d6d8a85b0",
+      "size": 1847,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/49f4cf1b69d5efd54b8577be11baba2d6d8a85b0"
+    },
+    {
+      "path": "bin-arm64",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2089886b02803f06e756fcc639fc666173c5282d",
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/trees/2089886b02803f06e756fcc639fc666173c5282d"
+    },
+    {
+      "path": "bin-arm64/ffmpeg.exe",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fc5e61db49010fd23cd868a8f38730625ab89d22",
+      "size": 47626216,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/fc5e61db49010fd23cd868a8f38730625ab89d22"
+    },
+    {
+      "path": "bin-arm64/ffprobe.exe",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cafed81134e8a64139679db00109277dc8607f56",
+      "size": 47515112,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/cafed81134e8a64139679db00109277dc8607f56"
+    },
+    {
+      "path": "bin-arm64/stremio-runtime.exe",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "825d98abb26d4faebe96af2e3b9d35b5f82fd763",
+      "size": 64472040,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/825d98abb26d4faebe96af2e3b9d35b5f82fd763"
+    },
+    {
+      "path": "bin",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "11dea6070c7b369630e0ecea10d0e8a9d6226929",
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/trees/11dea6070c7b369630e0ecea10d0e8a9d6226929"
+    },
+    {
+      "path": "bin/avcodec-58.dll",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ec783a50563ac8687f1356ac08ae14b12941f784",
+      "size": 45232128,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/ec783a50563ac8687f1356ac08ae14b12941f784"
+    },
+    {
+      "path": "bin/avdevice-58.dll",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6fa85d40647352b7a85176378edaaf38c978573d",
+      "size": 1579008,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/6fa85d40647352b7a85176378edaaf38c978573d"
+    },
+    {
+      "path": "bin/avfilter-7.dll",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "32baf9d4f2882554c5b89471c7c63a9f86716b2c",
+      "size": 9615872,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/32baf9d4f2882554c5b89471c7c63a9f86716b2c"
+    },
+    {
+      "path": "bin/avformat-58.dll",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4ac7b34efc0bf71aa1a653075c1e54509ad8fb6e",
+      "size": 6064128,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/4ac7b34efc0bf71aa1a653075c1e54509ad8fb6e"
+    },
+    {
+      "path": "bin/avutil-56.dll",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ff8d066b3e011073be1e70dc98ded9489dbbae53",
+      "size": 899072,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/ff8d066b3e011073be1e70dc98ded9489dbbae53"
+    },
+    {
+      "path": "bin/ffmpeg.exe",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d15417de74f986d76a8cce5f638e445b81bc4638",
+      "size": 326504,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/d15417de74f986d76a8cce5f638e445b81bc4638"
+    },
+    {
+      "path": "bin/ffprobe.exe",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2cf0e5417456affd956b4453fcf508b326bf6770",
+      "size": 173928,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/2cf0e5417456affd956b4453fcf508b326bf6770"
+    },
+    {
+      "path": "bin/postproc-55.dll",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1355a2bcf77b75a49a416c789643fbb6dbd7eae7",
+      "size": 131584,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/1355a2bcf77b75a49a416c789643fbb6dbd7eae7"
+    },
+    {
+      "path": "bin/stremio-runtime.exe",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2360561f30d7503236905fdeb3857df55faab648",
+      "size": 21796232,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/2360561f30d7503236905fdeb3857df55faab648"
+    },
+    {
+      "path": "bin/swresample-3.dll",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8a7d66bd47569839f46538d1dc5f0666fe8a66a7",
+      "size": 121856,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/8a7d66bd47569839f46538d1dc5f0666fe8a66a7"
+    },
+    {
+      "path": "bin/swscale-5.dll",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f38622358431131ed01e7188d5c74a142b201a67",
+      "size": 575488,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/f38622358431131ed01e7188d5c74a142b201a67"
+    },
+    {
+      "path": "bin/vcruntime140.dll",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "31f7ae71ed105bd336a0975cfa613133f95889ad",
+      "size": 130688,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/31f7ae71ed105bd336a0975cfa613133f95889ad"
+    },
+    {
+      "path": "bin/vcruntime140_1.dll",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "566a3f220423ee9e12f28f18ff3610d383f0a49c",
+      "size": 60064,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/566a3f220423ee9e12f28f18ff3610d383f0a49c"
+    },
+    {
+      "path": "build-arm64.ps1",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2b635ccbc17d2dcf2905edb3d951b4a8ec8bc3a1",
+      "size": 249,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/2b635ccbc17d2dcf2905edb3d951b4a8ec8bc3a1"
+    },
+    {
+      "path": "build.ps1",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c241b3ea3488090ff0945e1e42bf424aa5f2f389",
+      "size": 238,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/c241b3ea3488090ff0945e1e42bf424aa5f2f389"
+    },
+    {
+      "path": "build.rs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d81f5c7885cdd1dcf2ccffe269609b234faf72f6",
+      "size": 2217,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/d81f5c7885cdd1dcf2ccffe269609b234faf72f6"
+    },
+    {
+      "path": "generate_descriptor.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d812bd795da5bfedd760ed59ed9946b024e92d2",
+      "size": 11271,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/3d812bd795da5bfedd760ed59ed9946b024e92d2"
+    },
+    {
+      "path": "images",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "58e7d10c3999831b7b64a95cf55b634a6375faaa",
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/trees/58e7d10c3999831b7b64a95cf55b634a6375faaa"
+    },
+    {
+      "path": "images/StremioRuntime.ico",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1fe84340e0d1e8ebf08f8d60e7756d748ec76d48",
+      "size": 107361,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/1fe84340e0d1e8ebf08f8d60e7756d748ec76d48"
+    },
+    {
+      "path": "images/stremio.ico",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "17ef6fc7068859925fa2dab861627a0c74c6b282",
+      "size": 108418,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/17ef6fc7068859925fa2dab861627a0c74c6b282"
+    },
+    {
+      "path": "images/stremio.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "28d3ccb4e1c64006152b4945c5826172084fb75a",
+      "size": 16502,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/28d3ccb4e1c64006152b4945c5826172084fb75a"
+    },
+    {
+      "path": "images/stremio_gray.ico",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f82fefd6db6cc4165bffd08ee4f77993277b6af4",
+      "size": 104636,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/f82fefd6db6cc4165bffd08ee4f77993277b6af4"
+    },
+    {
+      "path": "images/windows-installer-header.bmp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7c91914b42a9dab3c5a2116e8f6163ea0d70086e",
+      "size": 13134,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/7c91914b42a9dab3c5a2116e8f6163ea0d70086e"
+    },
+    {
+      "path": "images/windows-installer.bmp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c4aec08889b38eed52d5689bf39fc40c1263e724",
+      "size": 206038,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/c4aec08889b38eed52d5689bf39fc40c1263e724"
+    },
+    {
+      "path": "libmpv-2_arm64.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "54a362c20ebc00a60ed7f7fa3710ee9b94ba19e2",
+      "size": 37269538,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/54a362c20ebc00a60ed7f7fa3710ee9b94ba19e2"
+    },
+    {
+      "path": "libmpv-2_x64.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a6ac3abeb687275dc3721941aadd776c5077b07f",
+      "size": 45284389,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/a6ac3abeb687275dc3721941aadd776c5077b07f"
+    },
+    {
+      "path": "mpv-arm64",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e698ad1047ad05b7287a5692017d9ee673628a97",
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/trees/e698ad1047ad05b7287a5692017d9ee673628a97"
+    },
+    {
+      "path": "mpv-arm64/libmpv-2.def",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "86107436cf1cc381956f1fa105292a9dbf2b6994",
+      "size": 29344,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/86107436cf1cc381956f1fa105292a9dbf2b6994"
+    },
+    {
+      "path": "mpv-arm64/libmpv-2.dll",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e414e23668e4570b2f2d17acfdfe016ec0dbc158",
+      "size": 51411456,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/e414e23668e4570b2f2d17acfdfe016ec0dbc158"
+    },
+    {
+      "path": "mpv-arm64/libmpv-2.exp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d5ac5cd4e6b5ecf738ad9894e78d566fb9556dca",
+      "size": 89471,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/d5ac5cd4e6b5ecf738ad9894e78d566fb9556dca"
+    },
+    {
+      "path": "mpv-arm64/mpv.lib",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cf54902ba2cff5bf00fce24f81ee25edb88754aa",
+      "size": 148244,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/cf54902ba2cff5bf00fce24f81ee25edb88754aa"
+    },
+    {
+      "path": "mpv-x64",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6448b92e326ed10a435c95c3b6c656d49600da60",
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/trees/6448b92e326ed10a435c95c3b6c656d49600da60"
+    },
+    {
+      "path": "mpv-x64/mpv.def",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "70aeb315f3c58a6b70d2d41bb89b414ebae3e80c",
+      "size": 20054,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/70aeb315f3c58a6b70d2d41bb89b414ebae3e80c"
+    },
+    {
+      "path": "mpv-x64/mpv.exp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "74f22b83918bb53004ab1730bd77644549033a86",
+      "size": 109166,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/74f22b83918bb53004ab1730bd77644549033a86"
+    },
+    {
+      "path": "mpv-x64/mpv.lib",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "425dd9dcf237599690cb4c057b38c2852efc4c1f",
+      "size": 172264,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/425dd9dcf237599690cb4c057b38c2852efc4c1f"
+    },
+    {
+      "path": "rust-toolchain.toml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3b7031f356783e82417a52b693d5680e8595deb4",
+      "size": 98,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/3b7031f356783e82417a52b693d5680e8595deb4"
+    },
+    {
+      "path": "server.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "621be62c4020aaaf49659a3154cb6a15745fd903",
+      "size": 6785528,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/621be62c4020aaaf49659a3154cb6a15745fd903"
+    },
+    {
+      "path": "setup",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5d9f0bc1e78b2e794a70151797b6be7a056a4552",
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/trees/5d9f0bc1e78b2e794a70151797b6be7a056a4552"
+    },
+    {
+      "path": "setup/CodeDependencies.iss",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "df0d24bd007965a53ba0b07ace31981f6a57ba01",
+      "size": 37850,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/df0d24bd007965a53ba0b07ace31981f6a57ba01"
+    },
+    {
+      "path": "setup/FileAssociations.iss",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "52bdb012ca729047b22689d4bded04077181f317",
+      "size": 7444,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/52bdb012ca729047b22689d4bded04077181f317"
+    },
+    {
+      "path": "setup/Stremio-arm64.iss",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "032d70160925bb647c14196f2a0866f58e2c6c55",
+      "size": 10863,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/032d70160925bb647c14196f2a0866f58e2c6c55"
+    },
+    {
+      "path": "setup/Stremio.iss",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ff325a6ab6689cea3421ea9d52a447b57fa14029",
+      "size": 11685,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/ff325a6ab6689cea3421ea9d52a447b57fa14029"
+    },
+    {
+      "path": "setup/create_setup.bat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7284d7a0cf9d8958467cab2d5a4be831304c440b",
+      "size": 297,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/7284d7a0cf9d8958467cab2d5a4be831304c440b"
+    },
+    {
+      "path": "src",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bdb634a1a92ae2ad97e0dacdfc2820fe03fd1f8c",
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/trees/bdb634a1a92ae2ad97e0dacdfc2820fe03fd1f8c"
+    },
+    {
+      "path": "src/main.rs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2e83703332e2e7655f026bb00c999760c116b15b",
+      "size": 3826,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/2e83703332e2e7655f026bb00c999760c116b15b"
+    },
+    {
+      "path": "src/stremio_app",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2c5f88a9199da8f732c7d818533627046b93f2f4",
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/trees/2c5f88a9199da8f732c7d818533627046b93f2f4"
+    },
+    {
+      "path": "src/stremio_app/app.rs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cc912b751349c7d2f9b0e3b9cb41a06a2befeb76",
+      "size": 36916,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/cc912b751349c7d2f9b0e3b9cb41a06a2befeb76"
+    },
+    {
+      "path": "src/stremio_app/constants.rs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "969bcd34101c5a522ac5d566e74ec4992fd11445",
+      "size": 4260,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/969bcd34101c5a522ac5d566e74ec4992fd11445"
+    },
+    {
+      "path": "src/stremio_app/discord.rs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "65cea0348238563ef385d33b332721830104612e",
+      "size": 5752,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/65cea0348238563ef385d33b332721830104612e"
+    },
+    {
+      "path": "src/stremio_app/external_player.rs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3706254a308c89a7ca6d5b60911de48dd689ef2e",
+      "size": 7158,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/3706254a308c89a7ca6d5b60911de48dd689ef2e"
+    },
+    {
+      "path": "src/stremio_app/gpu_video_processing.rs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6e228094cb5ebdec537e29873963c51068a8376a",
+      "size": 6489,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/6e228094cb5ebdec537e29873963c51068a8376a"
+    },
+    {
+      "path": "src/stremio_app/ipc.rs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f1efa688806fc5d27dde8259c1a65c74a876bf84",
+      "size": 5730,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/f1efa688806fc5d27dde8259c1a65c74a876bf84"
+    },
+    {
+      "path": "src/stremio_app/mod.rs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eec1ff3dd49bbc3da9b9c352cad05ff479802363",
+      "size": 454,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/eec1ff3dd49bbc3da9b9c352cad05ff479802363"
+    },
+    {
+      "path": "src/stremio_app/named_pipe.rs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f28fc5886e60c746ebbb48bdb03fae127806a245",
+      "size": 13163,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/f28fc5886e60c746ebbb48bdb03fae127806a245"
+    },
+    {
+      "path": "src/stremio_app/open_media.rs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "094abc11f11ee4c24d5f777b20a1600703d2a46f",
+      "size": 4384,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/094abc11f11ee4c24d5f777b20a1600703d2a46f"
+    },
+    {
+      "path": "src/stremio_app/splash.rs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3ff4b9ee244e4d678013597e330325273d9cf389",
+      "size": 974,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/3ff4b9ee244e4d678013597e330325273d9cf389"
+    },
+    {
+      "path": "src/stremio_app/stremio_player",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7c5e3baea40aa9ae9a9e7367824da714cd485b55",
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/trees/7c5e3baea40aa9ae9a9e7367824da714cd485b55"
+    },
+    {
+      "path": "src/stremio_app/stremio_player/communication.rs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dbaca9704a6e0650cb6396f04924844290685b94",
+      "size": 11107,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/dbaca9704a6e0650cb6396f04924844290685b94"
+    },
+    {
+      "path": "src/stremio_app/stremio_player/communication_tests.rs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d5db279461424d933d9e0165f0446501bd3d0547",
+      "size": 9514,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/d5db279461424d933d9e0165f0446501bd3d0547"
+    },
+    {
+      "path": "src/stremio_app/stremio_player/mod.rs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "06da4189608e35e6586cb435e0fcd68b8b8df0eb",
+      "size": 251,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/06da4189608e35e6586cb435e0fcd68b8b8df0eb"
+    },
+    {
+      "path": "src/stremio_app/stremio_player/player.rs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6832e123d5d46eb54a186500768905a5e4dd5791",
+      "size": 33728,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/6832e123d5d46eb54a186500768905a5e4dd5791"
+    },
+    {
+      "path": "src/stremio_app/stremio_server",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b1dd1a23d19f42d21ba6f907bdcf2d2ff4dc4069",
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/trees/b1dd1a23d19f42d21ba6f907bdcf2d2ff4dc4069"
+    },
+    {
+      "path": "src/stremio_app/stremio_server/job.rs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5ac9e73b46d0627b14d428fd8141f6ff635b391e",
+      "size": 2707,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/5ac9e73b46d0627b14d428fd8141f6ff635b391e"
+    },
+    {
+      "path": "src/stremio_app/stremio_server/mod.rs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "22cf4d8be6d221f6ed7175105f61a9ff4f1f3606",
+      "size": 99,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/22cf4d8be6d221f6ed7175105f61a9ff4f1f3606"
+    },
+    {
+      "path": "src/stremio_app/stremio_server/process.rs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eb39b0475baf0c6666d6699f5328143dec7c5feb",
+      "size": 14594,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/eb39b0475baf0c6666d6699f5328143dec7c5feb"
+    },
+    {
+      "path": "src/stremio_app/stremio_server/server.rs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e6dc233985fb088e8f29e2735220fe9731323d4a",
+      "size": 2014,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/e6dc233985fb088e8f29e2735220fe9731323d4a"
+    },
+    {
+      "path": "src/stremio_app/stremio_wevbiew",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "56a4baca4c5d78dc032ab08670e7e163bffda993",
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/trees/56a4baca4c5d78dc032ab08670e7e163bffda993"
+    },
+    {
+      "path": "src/stremio_app/stremio_wevbiew/mod.rs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9f9d4a9baabd18b9ffbb6e05e0685b38a3e9e207",
+      "size": 45,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/9f9d4a9baabd18b9ffbb6e05e0685b38a3e9e207"
+    },
+    {
+      "path": "src/stremio_app/stremio_wevbiew/wevbiew.rs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "85acafd6b5e088ca3fb862add31058075d8df9fd",
+      "size": 18650,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/85acafd6b5e088ca3fb862add31058075d8df9fd"
+    },
+    {
+      "path": "src/stremio_app/systray.rs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8063fac31c28a6fa14e23ad5a93f5a0af928eb48",
+      "size": 977,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/8063fac31c28a6fa14e23ad5a93f5a0af928eb48"
+    },
+    {
+      "path": "src/stremio_app/updater.rs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "943f3c0c3651bbdee8561544fcf1c3696ae10f00",
+      "size": 4286,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/943f3c0c3651bbdee8561544fcf1c3696ae10f00"
+    },
+    {
+      "path": "src/stremio_app/window_helper.rs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f6bc7ff69b00619ed45e2f18cc971697ec43620f",
+      "size": 7144,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/f6bc7ff69b00619ed45e2f18cc971697ec43620f"
+    },
+    {
+      "path": "src/stremio_app/window_settings.rs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "76179ea30ce58d64fc9716b5b746bb0e6d9af3fb",
+      "size": 4567,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/76179ea30ce58d64fc9716b5b746bb0e6d9af3fb"
+    },
+    {
+      "path": "stremiover.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d16516e0c9a0793cf39b64386feb28e6d23b6a7f",
+      "size": 2713,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/d16516e0c9a0793cf39b64386feb28e6d23b6a7f"
+    },
+    {
+      "path": "upload.ps1",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "848319209053a5700e64afce4e288714cca2d40b",
+      "size": 322,
+      "url": "https://api.github.com/repos/Stremio/stremio-shell-ng/git/blobs/848319209053a5700e64afce4e288714cca2d40b"
+    }
+  ],
+  "truncated": false
+}

@@ -1,0 +1,107 @@
+{
+  "path": "/Users/a.tsoulfas/Desktop/StremioSetup-v5.0.27_arm64.exe",
+  "bytes": 77417072,
+  "sha256": "4efa0bacd5b658be998868db10907ba155beb1c9cdc352eb9d6fd875c6affe23",
+  "rea_evidence_id": "ev_c0a649f21463953c518db95cb56f20b0f95816138dedf922ae437b52d0feb8ad",
+  "machine": "0x14c",
+  "format": "PE32",
+  "certificate_table": {
+    "offset": 77405832,
+    "bytes": 11240,
+    "signature_verified": false
+  },
+  "version_resource": {
+    "key": "VS_VERSION_INFO",
+    "value": "bd04effe00000100000000000000000000000000000000003f000000000000000400000001000000000000000000000000000000",
+    "children": [
+      {
+        "key": "StringFileInfo",
+        "value": "",
+        "children": [
+          {
+            "key": "000004b0",
+            "value": "",
+            "children": [
+              {
+                "key": "Comments",
+                "value": "This installation was built with Inno Setup.",
+                "children": []
+              },
+              {
+                "key": "CompanyName",
+                "value": "Smart Code OOD",
+                "children": []
+              },
+              {
+                "key": "FileDescription",
+                "value": "Stremio Setup",
+                "children": []
+              },
+              {
+                "key": "FileVersion",
+                "value": "",
+                "children": []
+              },
+              {
+                "key": "LegalCopyright",
+                "value": "Copyright \u00a9 2026 Smart Code OOD",
+                "children": []
+              },
+              {
+                "key": "OriginalFileName",
+                "value": "",
+                "children": []
+              },
+              {
+                "key": "ProductName",
+                "value": "Stremio",
+                "children": []
+              },
+              {
+                "key": "ProductVersion",
+                "value": "5.0.27",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "VarFileInfo",
+        "value": "",
+        "children": [
+          {
+            "key": "Translation",
+            "value": "0000b004",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "inno_markers": [
+    {
+      "offset": 719764,
+      "text": "Inno Setup Setup Data (6.4.3)"
+    },
+    {
+      "offset": 76282672,
+      "text": "Inno Setup Setup Data (6.4.3)"
+    }
+  ],
+  "extraction_probe": {
+    "command": [
+      "innoextract",
+      "--list",
+      "/Users/a.tsoulfas/Desktop/StremioSetup-v5.0.27_arm64.exe"
+    ],
+    "exit_code": 2,
+    "stdout": "Done with 1 error and 3 warnings.\n",
+    "stderr": "Warning: Unexpected setup data version: 6.4.3\nWarning: Unexpected Alpha Format value: 68\nWarning: Unexpected Auto Boolean value: 18\nStream error while parsing setup headers!\n \u251c\u2500 detected setup version: 6.4.3\n \u2514\u2500 error reason: ios_base::clear: unspecified iostream_category error\nIf you are sure the setup file is not corrupted, consider \nfiling a bug report at https://innoextract.constexpr.org/issues\n"
+  },
+  "limitations": [
+    "Installer bootstrap only; payload architecture and dependency versions are unverified.",
+    "Embedded certificate presence is not signature validation.",
+    "Version strings are metadata, not publisher authentication."
+  ]
+}

@@ -1,0 +1,1977 @@
+[
+  {
+    "path": "sources/organization-repositories.json",
+    "bytes": 706297,
+    "sha256": "644e1d421fdae6921cdbd524a5f6852b321cdf77a577c874302a0458ca9c0e23"
+  },
+  {
+    "path": "sources/server-docker/Dockerfile",
+    "bytes": 2134,
+    "sha256": "d695b658ba86152c4490c5a60e9cd5aec3644318ecf0e03b4514274f4f62b254"
+  },
+  {
+    "path": "sources/server-docker/LICENSE.md",
+    "bytes": 17894,
+    "sha256": "e7ea3adeab955103a837b692ca0017cb3abbed0d3dccbfa499d6b2b825d698c3"
+  },
+  {
+    "path": "sources/server-docker/README.md",
+    "bytes": 4640,
+    "sha256": "e99f70e895864b102a0fdeff63af528a68e31e4fd2861f389376b2fb233d8d42"
+  },
+  {
+    "path": "sources/server-docker-tree.json",
+    "bytes": 3011,
+    "sha256": "5ccc2c250a9249f083c6e2e9e3d2f0271ba97a3dd02702a371a6cb1c70b5ca1d"
+  },
+  {
+    "path": "sources/server-docker.json",
+    "bytes": 5965,
+    "sha256": "4a99b7da6238577589a5af8c19a823d5b85b623820ea94f15823294a9b5f348f"
+  },
+  {
+    "path": "sources/shell-ng-commits.json",
+    "bytes": 71590,
+    "sha256": "368a1ad5c49c4589ac169f3064166076f43d449773094e7d4222f680a2dc1d76"
+  },
+  {
+    "path": "sources/shell-ng-releases.json",
+    "bytes": 15529,
+    "sha256": "978c276c541364b9b3ecfe406df4b711904cdc9adfac5619ea1750c0632e8486"
+  },
+  {
+    "path": "sources/shell-ng-tags.json",
+    "bytes": 12299,
+    "sha256": "056fa8860d85310f6c7fa4705a6435be2a723c759500c532124c8c1c205d8f43"
+  },
+  {
+    "path": "sources/shell-ng-v5.0.27-tree.json",
+    "bytes": 25753,
+    "sha256": "ea918f06a090026cf2c123dd2ee086ba550856fe77b6671cfaf9e93b5e0a60af"
+  },
+  {
+    "path": "sources/stremio-addon-sdk/LICENSE.md",
+    "bytes": 1110,
+    "sha256": "22584fcd1da294428887b53b9fe0d9a75a03e42f83254b22dfe8c8df2317d622"
+  },
+  {
+    "path": "sources/stremio-addon-sdk/README.md",
+    "bytes": 10025,
+    "sha256": "8de723fbb4b75d68d59efbb162153da57587c0704b78e43f4df4d284de31c988"
+  },
+  {
+    "path": "sources/stremio-addon-sdk/docs/README.md",
+    "bytes": 5574,
+    "sha256": "5cdd4e62b74fc51ca058d1fa73bf2d57e179f0d5ca2111689cd886e4d32268df"
+  },
+  {
+    "path": "sources/stremio-addon-sdk/docs/advanced.md",
+    "bytes": 15320,
+    "sha256": "15c7a6207c43d42ecc9a149a16161f80471fb365e44b03840f726450f3f856b7"
+  },
+  {
+    "path": "sources/stremio-addon-sdk/docs/api/README.md",
+    "bytes": 3878,
+    "sha256": "db6b0cf08978146ee80bf1c6758e79c502fb5793b12eae7673165e0875f9ead2"
+  },
+  {
+    "path": "sources/stremio-addon-sdk/docs/api/requests/defineCatalogHandler.md",
+    "bytes": 3713,
+    "sha256": "ccc4c91e515ad3aedea59fd484d295c4e3e480d211ab4cfc4232b186f59287d2"
+  },
+  {
+    "path": "sources/stremio-addon-sdk/docs/api/requests/defineLibraryHandler.md",
+    "bytes": 2157,
+    "sha256": "d840647944d79316724ad6a28fd4a0a0f3f977845193eeaff5fd13e0f396bbb0"
+  },
+  {
+    "path": "sources/stremio-addon-sdk/docs/api/requests/defineMetaHandler.md",
+    "bytes": 2123,
+    "sha256": "3f1d9141146633b396a8e484c6c931e08579de5b17693add6dc70150056eb19b"
+  },
+  {
+    "path": "sources/stremio-addon-sdk/docs/api/requests/definePlayerHandler.md",
+    "bytes": 2148,
+    "sha256": "0f060023dbf569f4999d0be9c3d302bdcf6941bf7c56c9f52fc729dde117677d"
+  },
+  {
+    "path": "sources/stremio-addon-sdk/docs/api/requests/defineResourceHandler.md",
+    "bytes": 2143,
+    "sha256": "7375fc2c34f011af4b58e46be8e56efeee55f2c94b84a3b7c4b62cf726ecb275"
+  },
+  {
+    "path": "sources/stremio-addon-sdk/docs/api/requests/defineStreamHandler.md",
+    "bytes": 2538,
+    "sha256": "79d651d4cdfd4d456e102cab8ce97c548a2bdd508b4044ee330170743103b83d"
+  },
+  {
+    "path": "sources/stremio-addon-sdk/docs/api/requests/defineSubtitlesHandler.md",
+    "bytes": 2440,
+    "sha256": "12821ddac7cefd4581ab8ea54e079008fec8541ccd4f0885e0c537783a59d7dc"
+  },
+  {
+    "path": "sources/stremio-addon-sdk/docs/api/responses/addon_catalog.md",
+    "bytes": 405,
+    "sha256": "35958761917c56f9bec88b65527cea795354cc57fa85e24f3392c3e19c9b3ffc"
+  },
+  {
+    "path": "sources/stremio-addon-sdk/docs/api/responses/content.types.md",
+    "bytes": 790,
+    "sha256": "a781198ae752af382fce293c64a3d31b336e4e0b9b374fb31393857ca427c2f7"
+  },
+  {
+    "path": "sources/stremio-addon-sdk/docs/api/responses/event_response.md",
+    "bytes": 323,
+    "sha256": "30b429b094752e584c0c8c3796a6f573d01c76f442a517c472ca11aaffa9b664"
+  },
+  {
+    "path": "sources/stremio-addon-sdk/docs/api/responses/manifest.md",
+    "bytes": 11168,
+    "sha256": "1908d42bab80633f370953562435e7ba1b2894b6b3a38daf35735e458cdd9f5a"
+  },
+  {
+    "path": "sources/stremio-addon-sdk/docs/api/responses/meta.links.md",
+    "bytes": 1170,
+    "sha256": "600d5fc04d5f7b931e4443366314bf7a7d2d21fa8b719baa8970589a8282dbec"
+  },
+  {
+    "path": "sources/stremio-addon-sdk/docs/api/responses/meta.md",
+    "bytes": 10115,
+    "sha256": "db2dedd85c6d89bba80fecf99ff88929834b6b7b9cda44e58cbddb38117b6d9c"
+  },
+  {
+    "path": "sources/stremio-addon-sdk/docs/api/responses/stream.md",
+    "bytes": 6939,
+    "sha256": "6bf67644eece77e6bceb2501de20e67bdd1585b48bc65dca8a92d06a411201ce"
+  },
+  {
+    "path": "sources/stremio-addon-sdk/docs/api/responses/subtitles.md",
+    "bytes": 2074,
+    "sha256": "8e1cbf826054114555e6b102993dae1d14702c62886a4eb0909528809213871d"
+  },
+  {
+    "path": "sources/stremio-addon-sdk/docs/deep-links.md",
+    "bytes": 2593,
+    "sha256": "5f78bb627ef38e9e7be3b02824432b3c87d929514d986e2211fcfc0346c18cb7"
+  },
+  {
+    "path": "sources/stremio-addon-sdk/docs/deploying/README.md",
+    "bytes": 2168,
+    "sha256": "f2f3a5941c31cf045ac40dd733e3e4371daa52a7c3870625da3c3ac637fccfdf"
+  },
+  {
+    "path": "sources/stremio-addon-sdk/docs/deploying/beamup.md",
+    "bytes": 1904,
+    "sha256": "18aad33df7679cf2aae74cdf5d776e98b34721e5d0c4d3d8a7177118b5c5a9f5"
+  },
+  {
+    "path": "sources/stremio-addon-sdk/docs/deploying/glitch.md",
+    "bytes": 3399,
+    "sha256": "0a1714edd64b533138345b35efd373a5d30c9131378e2ddcae61a2ce6d77cffc"
+  },
+  {
+    "path": "sources/stremio-addon-sdk/docs/deploying/now.md",
+    "bytes": 1710,
+    "sha256": "bedf87c72c50057a3c8c2b75ba2b00fc486dfd1a63a9e9525958fda18553fa8e"
+  },
+  {
+    "path": "sources/stremio-addon-sdk/docs/epg.md",
+    "bytes": 8074,
+    "sha256": "0c7f8e7059ba82e5101aee11e9de959de7d19fca86dd3b952b1763e9feec7f19"
+  },
+  {
+    "path": "sources/stremio-addon-sdk/docs/examples.md",
+    "bytes": 1977,
+    "sha256": "b917b96d3846b80160c0e6ad8a8ac02168e4196530dba46b541fc8ef049008f0"
+  },
+  {
+    "path": "sources/stremio-addon-sdk/docs/protocol.md",
+    "bytes": 10441,
+    "sha256": "1d28440b061a7bdb16bb25f335cb1d6139d2b1cb641fb122202b2e6cea18857a"
+  },
+  {
+    "path": "sources/stremio-addon-sdk/docs/testing.md",
+    "bytes": 1432,
+    "sha256": "a5bd05f8702e7729edff8c47122a8ef6b5c896f6cde3a4ea2af8b23387c75d8c"
+  },
+  {
+    "path": "sources/stremio-addon-sdk/package.json",
+    "bytes": 1273,
+    "sha256": "a7a2d846f443c9fc1c15186ea8ec1380a147e8de24bb1db28eef2ca9c5136c23"
+  },
+  {
+    "path": "sources/stremio-addon-sdk-tree.json",
+    "bytes": 18606,
+    "sha256": "096365c4e6c0100e0dc93df582b6cfa0abb0e17d8e4cb0ad95f014bb5aaba8df"
+  },
+  {
+    "path": "sources/stremio-addon-sdk.json",
+    "bytes": 7247,
+    "sha256": "8ecef48e0451aba79df178c35d10d587cb78ff4d6583b657c541b7e49e2df721"
+  },
+  {
+    "path": "sources/stremio-brand/README.md",
+    "bytes": 350,
+    "sha256": "a0a2f4eb8ba8c7ea9a8fad93b3c523201a11746a70a2687838860ac232bc485f"
+  },
+  {
+    "path": "sources/stremio-brand-tree.json",
+    "bytes": 13799,
+    "sha256": "67fcbdced022cb1e7b5a3cad6d4f2c78d1fc38e68f9101eda00b605f8e821ae2"
+  },
+  {
+    "path": "sources/stremio-brand.json",
+    "bytes": 6789,
+    "sha256": "e809f1d680d10606b1cb10348d532f4b9465e6e1d900d7fe40bbf7c8a14921fb"
+  },
+  {
+    "path": "sources/stremio-colors/README.md",
+    "bytes": 12603,
+    "sha256": "3f6805d846bf95e388c47393ce94e15eaa18576f8b1d554b16c35528de63ecc7"
+  },
+  {
+    "path": "sources/stremio-colors/package.json",
+    "bytes": 568,
+    "sha256": "f6d9befd2b4a88311e7e3d358dc6873a44b4601183dedfa0570a96f8af32d0a8"
+  },
+  {
+    "path": "sources/stremio-colors-tree.json",
+    "bytes": 7053,
+    "sha256": "d9910d96d1a007e2afd111a9a114e88894644a47790ba476ab2d228c38081308"
+  },
+  {
+    "path": "sources/stremio-colors.json",
+    "bytes": 5789,
+    "sha256": "1393903fe9bc13598300d60e99b611cbb0c96323fb60f3309e6f592b68ea02bb"
+  },
+  {
+    "path": "sources/stremio-core/Cargo.toml",
+    "bytes": 2656,
+    "sha256": "2eed16407a4ddba9da78483f71e23f2b80776d4ec4dc59251481b167b30ccdb1"
+  },
+  {
+    "path": "sources/stremio-core/LICENSE.md",
+    "bytes": 1110,
+    "sha256": "22584fcd1da294428887b53b9fe0d9a75a03e42f83254b22dfe8c8df2317d622"
+  },
+  {
+    "path": "sources/stremio-core/README.md",
+    "bytes": 6066,
+    "sha256": "9d434826fddb4718635085ac0e8a4bf35d7aa50abb41edea354d6dd3634be64e"
+  },
+  {
+    "path": "sources/stremio-core/src/addon_transport/http_transport/http_transport.rs",
+    "bytes": 4120,
+    "sha256": "862b17e64605ad4c816602f5f49263253c24629182237af2477eb622c89ffdf5"
+  },
+  {
+    "path": "sources/stremio-core/src/constants.rs",
+    "bytes": 6291,
+    "sha256": "2666b12b76f58879c09044df327414c58b2e91253315037807a7479c90b83b59"
+  },
+  {
+    "path": "sources/stremio-core/src/lib.rs",
+    "bytes": 720,
+    "sha256": "3ac22e4d1aaf214bf74b075547bcc2641b9305dd755afd1f2b0850d774786771"
+  },
+  {
+    "path": "sources/stremio-core/src/models/ctx/ctx.rs",
+    "bytes": 17517,
+    "sha256": "3292941f4b449bf9360e3dd97eac61529e4e7754312fdb486fb0e05152737137"
+  },
+  {
+    "path": "sources/stremio-core/src/models/ctx/error.rs",
+    "bytes": 2929,
+    "sha256": "5717e8cc80702958cb9b8fbc5a9f9cad00a74cd737389ba801f9593a8ee1184b"
+  },
+  {
+    "path": "sources/stremio-core/src/models/ctx/mod.rs",
+    "bytes": 467,
+    "sha256": "b051fcec14b4dd8712a25c9948da51aa6b652951a168cabe626324281be9d821"
+  },
+  {
+    "path": "sources/stremio-core/src/models/ctx/update_events.rs",
+    "bytes": 6272,
+    "sha256": "b280a195cf5db7b20299cbf8c026630256b76ae7c1bc2107a25ce0abd447384a"
+  },
+  {
+    "path": "sources/stremio-core/src/models/ctx/update_library.rs",
+    "bytes": 25823,
+    "sha256": "e7b336f41ec5186df55bc05f04aabdaa6daab10a51bac5aedd60d9612f4efc17"
+  },
+  {
+    "path": "sources/stremio-core/src/models/ctx/update_notifications.rs",
+    "bytes": 17113,
+    "sha256": "aa5e74b6e3c81f65eabfc1956621b5df0729af10f5ac24f5d586eb59be5fb8ee"
+  },
+  {
+    "path": "sources/stremio-core/src/models/ctx/update_profile.rs",
+    "bytes": 26383,
+    "sha256": "cf30a679d6415da8e67ca6c05ea1e6b3b776b4476ea6d966f5fbfd2362a17a07"
+  },
+  {
+    "path": "sources/stremio-core/src/models/ctx/update_search_history.rs",
+    "bytes": 2677,
+    "sha256": "8c862c7bf0cfcc369b0607592bf3bab80929900090904e68c28156ae3cf8b8d2"
+  },
+  {
+    "path": "sources/stremio-core/src/models/ctx/update_streaming_server_urls.rs",
+    "bytes": 2473,
+    "sha256": "da9828dea9c14b524faeab8e4d2d477361048c917b26d4c17e69e20300a13154"
+  },
+  {
+    "path": "sources/stremio-core/src/models/ctx/update_streams.rs",
+    "bytes": 4707,
+    "sha256": "70929d9a1a7676706937fd0c55ff9dbafc1bb08dc9da432b01b0cd51f80d6400"
+  },
+  {
+    "path": "sources/stremio-core/src/models/ctx/update_trakt_addon.rs",
+    "bytes": 4599,
+    "sha256": "09ca8d61a962e6776d33cce12a2485608ebedac2569031507cabcb6b138d9215"
+  },
+  {
+    "path": "sources/stremio-core/src/types/addon/descriptor.rs",
+    "bytes": 1015,
+    "sha256": "8d309957326b4b47b28a87889eb81209faaec7d29ff6a8b0a9250e2e12f6d564"
+  },
+  {
+    "path": "sources/stremio-core/src/types/addon/manifest.rs",
+    "bytes": 16459,
+    "sha256": "9ed26cf50e8ee0fb61b00d2975a60af7d0c851a0564fe03e98c0629838b843a7"
+  },
+  {
+    "path": "sources/stremio-core/src/types/addon/mod.rs",
+    "bytes": 145,
+    "sha256": "2be68175646c1050b742ea5c7411517e6e6098c2b4509b981a17fc42a07a349a"
+  },
+  {
+    "path": "sources/stremio-core/src/types/addon/request.rs",
+    "bytes": 18458,
+    "sha256": "2444bbc194083eb996dbaf4c2c2b39fa16b6762a58890cdc0c48a4ebba56be58"
+  },
+  {
+    "path": "sources/stremio-core/src/types/addon/response.rs",
+    "bytes": 12596,
+    "sha256": "bdae845eb75550dee82eb7f6c72519d44218cda3930e23bfcf0ca012a1d9b1ad"
+  },
+  {
+    "path": "sources/stremio-core/src/types/api/fetch_api.rs",
+    "bytes": 901,
+    "sha256": "d888908f1fc1b44e3377413ffc78eea476ed4f9d221af6ccb05c0158b818b131"
+  },
+  {
+    "path": "sources/stremio-core-tree.json",
+    "bytes": 104632,
+    "sha256": "5f89a340903c646e8a8ab0ae8db25c18ba499ebbbed80b719ce79f1e660f06a4"
+  },
+  {
+    "path": "sources/stremio-core.json",
+    "bytes": 6940,
+    "sha256": "99d606757b36985959b27483a5290573992fdc99d1f48bc07d86a614c0ff17bb"
+  },
+  {
+    "path": "sources/stremio-icons/README.md",
+    "bytes": 244,
+    "sha256": "ea35e27843bc448f00d72dd02f9fce1891805b11122686b2fe17022550fc89c7"
+  },
+  {
+    "path": "sources/stremio-icons/package.json",
+    "bytes": 966,
+    "sha256": "a1821b7cc71bd34d23e6ccf66e9258fbe313448fa1aa616fcd87aea249c0fadb"
+  },
+  {
+    "path": "sources/stremio-icons-tree.json",
+    "bytes": 54019,
+    "sha256": "0a5c0288f34ab918b81b698b2a0b92799861e39d573b880d7f09c756ff8f736e"
+  },
+  {
+    "path": "sources/stremio-icons.json",
+    "bytes": 6795,
+    "sha256": "e5b61f65476214d1e94a262e2bd810b3212c9aa93ce9bc5522f928f55a64b7dc"
+  },
+  {
+    "path": "sources/stremio-official-addons/Cargo.toml",
+    "bytes": 77,
+    "sha256": "c392906ad912bfe04b2c03910cbc56c4ddef0e74b895907b4a6b47bed4e08a46"
+  },
+  {
+    "path": "sources/stremio-official-addons/LICENSE.md",
+    "bytes": 1110,
+    "sha256": "22584fcd1da294428887b53b9fe0d9a75a03e42f83254b22dfe8c8df2317d622"
+  },
+  {
+    "path": "sources/stremio-official-addons/README.md",
+    "bytes": 5633,
+    "sha256": "d2d4d059a2e383d68e3f9e2aa0689a037021a348dc28dc0c8cec7eb95e5edda9"
+  },
+  {
+    "path": "sources/stremio-official-addons/package.json",
+    "bytes": 885,
+    "sha256": "5a99061d616eccfbf387ff0d42bce0b2a344e47606b2b49d38517b1443a67f49"
+  },
+  {
+    "path": "sources/stremio-official-addons-tree.json",
+    "bytes": 8720,
+    "sha256": "1954846368b4c8cf2ce5bb8829d43180592832cbed21611a6467aaae7eb6a942"
+  },
+  {
+    "path": "sources/stremio-official-addons.json",
+    "bytes": 6369,
+    "sha256": "e59d087e3f0fe5622b53ef5f485a94bb24d51dac98b3d6ec08811d63d722a01b"
+  },
+  {
+    "path": "sources/stremio-service/Cargo.toml",
+    "bytes": 5731,
+    "sha256": "eabfd5d350dff5490304506051dc83eb3bc7db90bb3ab9c8c4c5acbae1117c18"
+  },
+  {
+    "path": "sources/stremio-service/LICENSE.md",
+    "bytes": 17895,
+    "sha256": "aef8b4222b79d0dbf6bf17cfff71c90a6a6bb8917a4162abe417b469ed22da2e"
+  },
+  {
+    "path": "sources/stremio-service/README.md",
+    "bytes": 7131,
+    "sha256": "5beffc98f441204e7e34e9091712c2c0da5bbb820b421fcd3198a594557a1171"
+  },
+  {
+    "path": "sources/stremio-service/src/main.rs",
+    "bytes": 860,
+    "sha256": "092a0bd53315ccea46fad27d3bab9e5eadb0d8634a8d596ab17e6f80ee5fe879"
+  },
+  {
+    "path": "sources/stremio-service-tree.json",
+    "bytes": 25661,
+    "sha256": "f46decd1bf6b227083556d687d93cdf6053a527907b7eef712887b20aa1a1e7c"
+  },
+  {
+    "path": "sources/stremio-service.json",
+    "bytes": 5970,
+    "sha256": "1e4c166f96c54884c31e70a44a935fefb0a4ce886f7386e22bf694c11bba9425"
+  },
+  {
+    "path": "sources/stremio-shell/LICENSE.md",
+    "bytes": 34904,
+    "sha256": "585e25ef8f5946a52bf2aed68d5becfc38be94a8663aa01c1b31d88aa57f1de3"
+  },
+  {
+    "path": "sources/stremio-shell/README.md",
+    "bytes": 2604,
+    "sha256": "627a53002c768e784f8cac8c047ea7763d2176276d599c4c413a2214c26492c0"
+  },
+  {
+    "path": "sources/stremio-shell-ng/.github/workflows/test.yml",
+    "bytes": 903,
+    "sha256": "d15b1659501e0fa93446df12e363c694c90a2a18e2effd4628620339f69092fd"
+  },
+  {
+    "path": "sources/stremio-shell-ng/Cargo.toml",
+    "bytes": 1261,
+    "sha256": "44dad95afdd43e4e592cb6d733d0cb97dd9fa60320294f061d71de846639a045"
+  },
+  {
+    "path": "sources/stremio-shell-ng/README.md",
+    "bytes": 1847,
+    "sha256": "fa9759f197891ecdd8ef8a0bd881f5966f61be77382dcd3418f845424adb7432"
+  },
+  {
+    "path": "sources/stremio-shell-ng/build-arm64.ps1",
+    "bytes": 249,
+    "sha256": "5aba9b1dcf7f1cecf430c2482039138fd3f3a7541b41193c24a510c7d31cedb9"
+  },
+  {
+    "path": "sources/stremio-shell-ng/build.ps1",
+    "bytes": 238,
+    "sha256": "f760a2e3c67f6d5df203a6ff8a30e436af5e6111b3f2258f166112bc9385ea0d"
+  },
+  {
+    "path": "sources/stremio-shell-ng/build.rs",
+    "bytes": 2217,
+    "sha256": "6fddcffed72227e769bc5b2cab1330b66c743c10ea3b5d89a6a9c658e3c25f75"
+  },
+  {
+    "path": "sources/stremio-shell-ng/generate_descriptor.js",
+    "bytes": 11271,
+    "sha256": "c2c851e2f447c99175f83093ecd4fb8b3dee212df5c5ab28578a092e5b3667c1"
+  },
+  {
+    "path": "sources/stremio-shell-ng/rust-toolchain.toml",
+    "bytes": 98,
+    "sha256": "3913a31e5b890bbae59f3cb2a1837dfddd29a0a36c988aa030afd9f45b3dd448"
+  },
+  {
+    "path": "sources/stremio-shell-ng/server.js",
+    "bytes": 6785528,
+    "sha256": "b368d339709584879f024fa5fabe499e583b25881b2375a6192625c5277aa5b0"
+  },
+  {
+    "path": "sources/stremio-shell-ng/setup/CodeDependencies.iss",
+    "bytes": 37850,
+    "sha256": "69c28e6b5df2b4139ef33262ca9966647e238f9a7885d4bcd9e9ed357be15879"
+  },
+  {
+    "path": "sources/stremio-shell-ng/setup/FileAssociations.iss",
+    "bytes": 7444,
+    "sha256": "4794d66f040deeeba92e1b8701faeb798bb886ca020144d10db85cad4114e7fd"
+  },
+  {
+    "path": "sources/stremio-shell-ng/setup/Stremio-arm64.iss",
+    "bytes": 10863,
+    "sha256": "d2592cf671f449c9497dab717495bf530dd0ec1ee4f9928ebca3165d1995b3eb"
+  },
+  {
+    "path": "sources/stremio-shell-ng/setup/Stremio.iss",
+    "bytes": 11685,
+    "sha256": "155feff254ef7b1fedad1b378f9ecccf0c19f4f2e6a953821b92ce6391caec54"
+  },
+  {
+    "path": "sources/stremio-shell-ng/src/main.rs",
+    "bytes": 3826,
+    "sha256": "0187890939a6b66361a5e86a85135b0b1e8c5ae1419248cc5e04036693a1bf52"
+  },
+  {
+    "path": "sources/stremio-shell-ng/src/stremio_app/app.rs",
+    "bytes": 36916,
+    "sha256": "cc1bae16d718480853689900dde8b3f5743bb2f4186991cd47993228af8a561d"
+  },
+  {
+    "path": "sources/stremio-shell-ng/src/stremio_app/constants.rs",
+    "bytes": 4260,
+    "sha256": "227e5db8b8d9448734c78f6097d13d72ab05edb9be7af5d6767e8b0ad49ae14f"
+  },
+  {
+    "path": "sources/stremio-shell-ng/src/stremio_app/discord.rs",
+    "bytes": 5752,
+    "sha256": "172265d748448e4bd2905275fce655b7dc5a673c2ba9edb6bb1cd480ef8989a1"
+  },
+  {
+    "path": "sources/stremio-shell-ng/src/stremio_app/external_player.rs",
+    "bytes": 7158,
+    "sha256": "dcd4acbc2a08d4f067edbbf917b989216b6e60eef2bee5dcb6b9dc888d15b9fe"
+  },
+  {
+    "path": "sources/stremio-shell-ng/src/stremio_app/gpu_video_processing.rs",
+    "bytes": 6489,
+    "sha256": "54588c44b159f1b186a9e9130144d6ba70c117a5b2d5fd42c1a53d5332069ab9"
+  },
+  {
+    "path": "sources/stremio-shell-ng/src/stremio_app/ipc.rs",
+    "bytes": 5730,
+    "sha256": "7b6699a3b3e7facb5c3ff52f2cf0b4eab3a97c2eb7cb2050962bda514c264dae"
+  },
+  {
+    "path": "sources/stremio-shell-ng/src/stremio_app/mod.rs",
+    "bytes": 454,
+    "sha256": "b38f469835a3b410ebcbde34c2702892a85035a776b2d16777e81ac028a4aad1"
+  },
+  {
+    "path": "sources/stremio-shell-ng/src/stremio_app/named_pipe.rs",
+    "bytes": 13163,
+    "sha256": "3778e2d8af474b420062ac1bd3dfe81c40e73f5e0b783d54946b8d473d94d5ba"
+  },
+  {
+    "path": "sources/stremio-shell-ng/src/stremio_app/open_media.rs",
+    "bytes": 4384,
+    "sha256": "ccf269ffd9debdea4fd41e85e623f91d19725759042afdee93228b5863dfc616"
+  },
+  {
+    "path": "sources/stremio-shell-ng/src/stremio_app/splash.rs",
+    "bytes": 974,
+    "sha256": "d221253ddb5898a2c486f07a9a97ee3f70e7df3e25317c3754f93332ecaa0bfc"
+  },
+  {
+    "path": "sources/stremio-shell-ng/src/stremio_app/stremio_player/communication.rs",
+    "bytes": 11107,
+    "sha256": "ca5da2e87dad91a467f073d2563e64cffffda755c0b1df4708a9e0cf76fe78cd"
+  },
+  {
+    "path": "sources/stremio-shell-ng/src/stremio_app/stremio_player/communication_tests.rs",
+    "bytes": 9514,
+    "sha256": "a7962477b20c80e75d58f5e146f4be806f6a0008f2b46880010ca58009bd5202"
+  },
+  {
+    "path": "sources/stremio-shell-ng/src/stremio_app/stremio_player/mod.rs",
+    "bytes": 251,
+    "sha256": "7e4dd61f0759a04e231551b2543e5628e93a325d68506aa62bf99917228f6f66"
+  },
+  {
+    "path": "sources/stremio-shell-ng/src/stremio_app/stremio_player/player.rs",
+    "bytes": 33728,
+    "sha256": "c67ce4d8f3ad2de0a6f041d67b3e1f6a02eb1c3aa0dadfe79e29ab2fef07ee53"
+  },
+  {
+    "path": "sources/stremio-shell-ng/src/stremio_app/stremio_server/job.rs",
+    "bytes": 2707,
+    "sha256": "fb0c28c349559521e3536e33a6ca7e8bce0109bb9ca598217bbb111153b5350d"
+  },
+  {
+    "path": "sources/stremio-shell-ng/src/stremio_app/stremio_server/mod.rs",
+    "bytes": 99,
+    "sha256": "15a4117431bd2c82609401947c8ee1aa5971b43018e479906d10e081c011bff9"
+  },
+  {
+    "path": "sources/stremio-shell-ng/src/stremio_app/stremio_server/process.rs",
+    "bytes": 14594,
+    "sha256": "be7446e434fa07bece7ef5d7a7d0be06f391fc85961d5c6e01630c2d7b9d978a"
+  },
+  {
+    "path": "sources/stremio-shell-ng/src/stremio_app/stremio_server/server.rs",
+    "bytes": 2014,
+    "sha256": "59ff8dfba1e28d0b040690f8bbea426dfd8313494f7f25eee87f88efdd06d0b6"
+  },
+  {
+    "path": "sources/stremio-shell-ng/src/stremio_app/stremio_wevbiew/mod.rs",
+    "bytes": 45,
+    "sha256": "0c572d419d9d86b4f5aa3389f074e624f76b1dc822c1872a43778021360c1517"
+  },
+  {
+    "path": "sources/stremio-shell-ng/src/stremio_app/stremio_wevbiew/wevbiew.rs",
+    "bytes": 18650,
+    "sha256": "31207524d8ae47fa39b85c233725ffaa51d03317cce8df7f8ee20b20581d480c"
+  },
+  {
+    "path": "sources/stremio-shell-ng/src/stremio_app/systray.rs",
+    "bytes": 977,
+    "sha256": "6ad16deddc4f2ad495d2f1596e5d0e37f43c3f4fadb2ece99513040aba5e59a3"
+  },
+  {
+    "path": "sources/stremio-shell-ng/src/stremio_app/updater.rs",
+    "bytes": 4286,
+    "sha256": "eb775a507761351765ddfa5ef771d15ccb005d87cd0a7422f6bcc582a7af92a0"
+  },
+  {
+    "path": "sources/stremio-shell-ng/src/stremio_app/window_helper.rs",
+    "bytes": 7144,
+    "sha256": "3abe7709a7646b29e839c8ebc710ea36d9e235052236db50595e2db727c948fe"
+  },
+  {
+    "path": "sources/stremio-shell-ng/src/stremio_app/window_settings.rs",
+    "bytes": 4567,
+    "sha256": "96dee0e6460d8714f697bfe954343086615bda8fffaad8b44d0d3cca2cf33e48"
+  },
+  {
+    "path": "sources/stremio-shell-ng/stremiover.js",
+    "bytes": 2713,
+    "sha256": "3d093ce69fb3e6acc37e9e3a9d3b189e77cae5fa34ec3c6788ff00f12eebb441"
+  },
+  {
+    "path": "sources/stremio-shell-ng/upload.ps1",
+    "bytes": 322,
+    "sha256": "f4f42d2677f90d339daf7030aa4b83b4ae18b179c3d0974f98f0ad5e6e940c6e"
+  },
+  {
+    "path": "sources/stremio-shell-ng-tree.json",
+    "bytes": 25753,
+    "sha256": "80f22a11312fb1592212081b14da51f598938696d236250ed60042394bf4d464"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/Cargo.lock",
+    "bytes": 65092,
+    "sha256": "bce15c6c77eb665646553ea5708935877375d19ee89482c9a72cb3acf58b2ca3"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/Cargo.toml",
+    "bytes": 1261,
+    "sha256": "44dad95afdd43e4e592cb6d733d0cb97dd9fa60320294f061d71de846639a045"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/README.md",
+    "bytes": 1847,
+    "sha256": "fa9759f197891ecdd8ef8a0bd881f5966f61be77382dcd3418f845424adb7432"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/build-arm64.ps1",
+    "bytes": 249,
+    "sha256": "5aba9b1dcf7f1cecf430c2482039138fd3f3a7541b41193c24a510c7d31cedb9"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/build.ps1",
+    "bytes": 238,
+    "sha256": "f760a2e3c67f6d5df203a6ff8a30e436af5e6111b3f2258f166112bc9385ea0d"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/build.rs",
+    "bytes": 2217,
+    "sha256": "6fddcffed72227e769bc5b2cab1330b66c743c10ea3b5d89a6a9c658e3c25f75"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/generate_descriptor.js",
+    "bytes": 11271,
+    "sha256": "c2c851e2f447c99175f83093ecd4fb8b3dee212df5c5ab28578a092e5b3667c1"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/rust-toolchain.toml",
+    "bytes": 98,
+    "sha256": "3913a31e5b890bbae59f3cb2a1837dfddd29a0a36c988aa030afd9f45b3dd448"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/setup/CodeDependencies.iss",
+    "bytes": 37850,
+    "sha256": "69c28e6b5df2b4139ef33262ca9966647e238f9a7885d4bcd9e9ed357be15879"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/setup/FileAssociations.iss",
+    "bytes": 7444,
+    "sha256": "4794d66f040deeeba92e1b8701faeb798bb886ca020144d10db85cad4114e7fd"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/setup/Stremio-arm64.iss",
+    "bytes": 10863,
+    "sha256": "d2592cf671f449c9497dab717495bf530dd0ec1ee4f9928ebca3165d1995b3eb"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/setup/Stremio.iss",
+    "bytes": 11685,
+    "sha256": "155feff254ef7b1fedad1b378f9ecccf0c19f4f2e6a953821b92ce6391caec54"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/src/main.rs",
+    "bytes": 3826,
+    "sha256": "0187890939a6b66361a5e86a85135b0b1e8c5ae1419248cc5e04036693a1bf52"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/src/stremio_app/app.rs",
+    "bytes": 36916,
+    "sha256": "cc1bae16d718480853689900dde8b3f5743bb2f4186991cd47993228af8a561d"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/src/stremio_app/constants.rs",
+    "bytes": 4260,
+    "sha256": "227e5db8b8d9448734c78f6097d13d72ab05edb9be7af5d6767e8b0ad49ae14f"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/src/stremio_app/discord.rs",
+    "bytes": 5752,
+    "sha256": "172265d748448e4bd2905275fce655b7dc5a673c2ba9edb6bb1cd480ef8989a1"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/src/stremio_app/external_player.rs",
+    "bytes": 7158,
+    "sha256": "dcd4acbc2a08d4f067edbbf917b989216b6e60eef2bee5dcb6b9dc888d15b9fe"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/src/stremio_app/gpu_video_processing.rs",
+    "bytes": 6489,
+    "sha256": "54588c44b159f1b186a9e9130144d6ba70c117a5b2d5fd42c1a53d5332069ab9"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/src/stremio_app/ipc.rs",
+    "bytes": 5730,
+    "sha256": "7b6699a3b3e7facb5c3ff52f2cf0b4eab3a97c2eb7cb2050962bda514c264dae"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/src/stremio_app/mod.rs",
+    "bytes": 454,
+    "sha256": "b38f469835a3b410ebcbde34c2702892a85035a776b2d16777e81ac028a4aad1"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/src/stremio_app/named_pipe.rs",
+    "bytes": 13163,
+    "sha256": "3778e2d8af474b420062ac1bd3dfe81c40e73f5e0b783d54946b8d473d94d5ba"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/src/stremio_app/open_media.rs",
+    "bytes": 4384,
+    "sha256": "ccf269ffd9debdea4fd41e85e623f91d19725759042afdee93228b5863dfc616"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/src/stremio_app/splash.rs",
+    "bytes": 974,
+    "sha256": "d221253ddb5898a2c486f07a9a97ee3f70e7df3e25317c3754f93332ecaa0bfc"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/src/stremio_app/stremio_player/communication.rs",
+    "bytes": 11107,
+    "sha256": "ca5da2e87dad91a467f073d2563e64cffffda755c0b1df4708a9e0cf76fe78cd"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/src/stremio_app/stremio_player/communication_tests.rs",
+    "bytes": 9514,
+    "sha256": "a7962477b20c80e75d58f5e146f4be806f6a0008f2b46880010ca58009bd5202"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/src/stremio_app/stremio_player/mod.rs",
+    "bytes": 251,
+    "sha256": "7e4dd61f0759a04e231551b2543e5628e93a325d68506aa62bf99917228f6f66"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/src/stremio_app/stremio_player/player.rs",
+    "bytes": 32893,
+    "sha256": "6385c815442d3fde0f7403582a8f96fbe9e9031fb76936abed0761b3ca20da4c"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/src/stremio_app/stremio_server/job.rs",
+    "bytes": 2707,
+    "sha256": "fb0c28c349559521e3536e33a6ca7e8bce0109bb9ca598217bbb111153b5350d"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/src/stremio_app/stremio_server/mod.rs",
+    "bytes": 99,
+    "sha256": "15a4117431bd2c82609401947c8ee1aa5971b43018e479906d10e081c011bff9"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/src/stremio_app/stremio_server/process.rs",
+    "bytes": 14594,
+    "sha256": "be7446e434fa07bece7ef5d7a7d0be06f391fc85961d5c6e01630c2d7b9d978a"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/src/stremio_app/stremio_server/server.rs",
+    "bytes": 2014,
+    "sha256": "59ff8dfba1e28d0b040690f8bbea426dfd8313494f7f25eee87f88efdd06d0b6"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/src/stremio_app/stremio_wevbiew/mod.rs",
+    "bytes": 45,
+    "sha256": "0c572d419d9d86b4f5aa3389f074e624f76b1dc822c1872a43778021360c1517"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/src/stremio_app/stremio_wevbiew/wevbiew.rs",
+    "bytes": 18650,
+    "sha256": "31207524d8ae47fa39b85c233725ffaa51d03317cce8df7f8ee20b20581d480c"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/src/stremio_app/systray.rs",
+    "bytes": 977,
+    "sha256": "6ad16deddc4f2ad495d2f1596e5d0e37f43c3f4fadb2ece99513040aba5e59a3"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/src/stremio_app/updater.rs",
+    "bytes": 4286,
+    "sha256": "eb775a507761351765ddfa5ef771d15ccb005d87cd0a7422f6bcc582a7af92a0"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/src/stremio_app/window_helper.rs",
+    "bytes": 7144,
+    "sha256": "3abe7709a7646b29e839c8ebc710ea36d9e235052236db50595e2db727c948fe"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/src/stremio_app/window_settings.rs",
+    "bytes": 4567,
+    "sha256": "96dee0e6460d8714f697bfe954343086615bda8fffaad8b44d0d3cca2cf33e48"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/stremiover.js",
+    "bytes": 2713,
+    "sha256": "3d093ce69fb3e6acc37e9e3a9d3b189e77cae5fa34ec3c6788ff00f12eebb441"
+  },
+  {
+    "path": "sources/stremio-shell-ng-v5.0.27/upload.ps1",
+    "bytes": 322,
+    "sha256": "f4f42d2677f90d339daf7030aa4b83b4ae18b179c3d0974f98f0ad5e6e940c6e"
+  },
+  {
+    "path": "sources/stremio-shell-ng.json",
+    "bytes": 6927,
+    "sha256": "ee60e8c1364a85f7adb7779e63d5cda53df9b8b3bcbe569d90701a582806de5e"
+  },
+  {
+    "path": "sources/stremio-shell-tree.json",
+    "bytes": 43712,
+    "sha256": "dab0b84e8f82c4b73ceaae137f0a7e1ae2da68d30c960ff47f24426571775c92"
+  },
+  {
+    "path": "sources/stremio-shell.json",
+    "bytes": 7011,
+    "sha256": "fa5a785661ab23c4b5711826ddc09b81e937c7f453f28f129a967d6e3004bc67"
+  },
+  {
+    "path": "sources/stremio-video/README.md",
+    "bytes": 69,
+    "sha256": "68c6256850b51cc6058fd74a876dcd45fd18055f8583272fe382c9f68bca66a5"
+  },
+  {
+    "path": "sources/stremio-video/package.json",
+    "bytes": 1083,
+    "sha256": "88d139a927bb6eaab84ffd1226f130e8ec84944656b065c45e1185f4ed62d9d3"
+  },
+  {
+    "path": "sources/stremio-video/src/index.js",
+    "bytes": 78,
+    "sha256": "5b5f3e21af6c54fe9f42ba30832f2fecd3164ccda4a4844f6e86ef28117968e0"
+  },
+  {
+    "path": "sources/stremio-video-tree.json",
+    "bytes": 23542,
+    "sha256": "388d64d82f98e1f668819655ce0d36c8cd015e07e1f6e82246ec10b6785d4f80"
+  },
+  {
+    "path": "sources/stremio-video.json",
+    "bytes": 6796,
+    "sha256": "9fe50e978fcac4f5db44a761a4fe0622425c8de6f7e90e3052411fc2949fac49"
+  },
+  {
+    "path": "sources/stremio-web/LICENSE.md",
+    "bytes": 17895,
+    "sha256": "aef8b4222b79d0dbf6bf17cfff71c90a6a6bb8917a4162abe417b469ed22da2e"
+  },
+  {
+    "path": "sources/stremio-web/README.md",
+    "bytes": 4591,
+    "sha256": "2ca5561c6af2ebbf6227fec0de57c308561f81ed932d97fd64f6c9f9319f0536"
+  },
+  {
+    "path": "sources/stremio-web/package.json",
+    "bytes": 3393,
+    "sha256": "23b4c85aaa5dfa03df7730cbba1dd388de1e4c7770faa8113a060c859dc4f0ce"
+  },
+  {
+    "path": "sources/stremio-web/src/App/App.js",
+    "bytes": 7449,
+    "sha256": "d44c0dab43f9da82df019ee6d4e414244e1577737b006d645522bde567ff44e3"
+  },
+  {
+    "path": "sources/stremio-web/src/App/DeepLinkHandler.js",
+    "bytes": 1337,
+    "sha256": "729a6542d9fe002571b66e30f92db86d8453884b1c21e51f57c416eb2e57787b"
+  },
+  {
+    "path": "sources/stremio-web/src/App/GamepadModal/GamepadDiagram.tsx",
+    "bytes": 17207,
+    "sha256": "54e5404f250169a786e3dbac98cb05333f4bf16fb6bf6e741993a1a29b7b5225"
+  },
+  {
+    "path": "sources/stremio-web/src/App/GamepadModal/GamepadModal.tsx",
+    "bytes": 7592,
+    "sha256": "c82cffaaf7da35deb4273c31287fec5fc75c2b39b45bfbfe86c6f0d14d84d443"
+  },
+  {
+    "path": "sources/stremio-web/src/App/GamepadModal/index.ts",
+    "bytes": 121,
+    "sha256": "2c16229d196642bb3a8eca02b0607de5f7c52a01c663568309cb34cc3edba66d"
+  },
+  {
+    "path": "sources/stremio-web/src/App/GamepadModal/styles.less",
+    "bytes": 4783,
+    "sha256": "793efb4e90663a1e92417e408be39d8ff95011f85af616f2b6ac381161d95515"
+  },
+  {
+    "path": "sources/stremio-web/src/App/SearchParamsHandler.js",
+    "bytes": 4143,
+    "sha256": "be55a7de363ac9dddd25f0d990a33ee1d4070333b30b54681cd77695105f9e4a"
+  },
+  {
+    "path": "sources/stremio-web/src/App/ServicesToaster.js",
+    "bytes": 2656,
+    "sha256": "097b502a1d15a669367092b0076d6ac59808a00dd6eb655e41d90f573f27257f"
+  },
+  {
+    "path": "sources/stremio-web/src/App/ShellOpenHandler.ts",
+    "bytes": 4822,
+    "sha256": "89e409582ee7dcdd3c8caffe37cdc4edc69fe0f4ba025fd842857318914efa14"
+  },
+  {
+    "path": "sources/stremio-web/src/App/ShortcutsModal/ShortcutsModal.tsx",
+    "bytes": 1976,
+    "sha256": "3731bb5277b366f949d6e59013e27797f2573a4d9f4eddd714518481c9b84dfd"
+  },
+  {
+    "path": "sources/stremio-web/src/App/ShortcutsModal/index.ts",
+    "bytes": 78,
+    "sha256": "a925369d31767b41fade7b36f2a334d4461a1dda7fccc0e0dd36497ca36de433"
+  },
+  {
+    "path": "sources/stremio-web/src/App/ShortcutsModal/styles.less",
+    "bytes": 2196,
+    "sha256": "e182c28f1057e9b888a633f07379e1f162e3bd36c6728ca2da84500fc736f1d8"
+  },
+  {
+    "path": "sources/stremio-web/src/App/StreamingServerUrlModal/StreamingServerUrlModal.tsx",
+    "bytes": 3102,
+    "sha256": "95e9b2fe8b5d8ec498549d2aeb993e1013c91f298a92f9bed9f15ec3fa483465"
+  },
+  {
+    "path": "sources/stremio-web/src/App/StreamingServerUrlModal/index.ts",
+    "bytes": 155,
+    "sha256": "343a6e5e2a2152d381263b94a5534e15b9e08e6b1b63778d69600f433926e548"
+  },
+  {
+    "path": "sources/stremio-web/src/App/StreamingServerUrlModal/styles.less",
+    "bytes": 4888,
+    "sha256": "0930def58bdc9f6118e5efcace2c3a80ab3ca778a3c24eabac77cb5e42e26e40"
+  },
+  {
+    "path": "sources/stremio-web/src/App/UpdaterBanner/UpdaterBanner.tsx",
+    "bytes": 1198,
+    "sha256": "71f7e21011debdd0fb46dcd8f5454395526565dad396eef7d218808c49b0ad58"
+  },
+  {
+    "path": "sources/stremio-web/src/App/UpdaterBanner/index.ts",
+    "bytes": 75,
+    "sha256": "9997256cc69b38396617a69b0b70930735215d1266f0866cebe2885c953426a0"
+  },
+  {
+    "path": "sources/stremio-web/src/App/WebUpdateScreen/WebUpdateScreen.less",
+    "bytes": 3148,
+    "sha256": "de5cd28207c641b8c5c4a00945a3aa6df4799b88d88fb55d39d2c1ae58a78ac9"
+  },
+  {
+    "path": "sources/stremio-web/src/App/WebUpdateScreen/WebUpdateScreen.tsx",
+    "bytes": 2029,
+    "sha256": "9fe58c3c023e5cc62f91128f4b6ee0bf901232adde4662254d11234687cbd1b4"
+  },
+  {
+    "path": "sources/stremio-web/src/App/WebUpdateScreen/index.ts",
+    "bytes": 82,
+    "sha256": "7909078c8b154657aac88552a28e6af66cb217762176adaf9ead08f09dbe1c74"
+  },
+  {
+    "path": "sources/stremio-web/src/App/WebUpdateScreen/useServiceWorkerUpdater.ts",
+    "bytes": 6248,
+    "sha256": "eeb765ccafedfee2b01b0b8388add759d5ec77bc4c0d1d178afcc5ed5f1a70e6"
+  },
+  {
+    "path": "sources/stremio-web/src/App/index.js",
+    "bytes": 102,
+    "sha256": "860e97df9b8e4ab3c1084f847e1ea2b052ce4639ddd046fa98dd7bdc34c68e5d"
+  },
+  {
+    "path": "sources/stremio-web/src/App/styles.less",
+    "bytes": 8864,
+    "sha256": "0291a70e1f42d1f5c99d5467f53dfa06f3c4d6c31141fbf2c458a5837d10d3f3"
+  },
+  {
+    "path": "sources/stremio-web/src/App/useInterfaceScale.ts",
+    "bytes": 2293,
+    "sha256": "08a7828dff66d71a999fe1b5973120929739ca170a17bc1210097d7ff9c220ce"
+  },
+  {
+    "path": "sources/stremio-web/src/common/CONSTANTS.js",
+    "bytes": 4048,
+    "sha256": "2242979631134080fd006587f647809d45a6e8263ff6fff93f84163f9609f8f4"
+  },
+  {
+    "path": "sources/stremio-web/src/common/CoreSuspender.js",
+    "bytes": 2492,
+    "sha256": "a4b81a5c2cfe689a74bceadef8ed34315fae8dc1f564778748a810b068388253"
+  },
+  {
+    "path": "sources/stremio-web/src/common/Discord/Discord.tsx",
+    "bytes": 4316,
+    "sha256": "f5cbca8a098f66ccedfc685f4b9092ede8904247600ed87809e00c74432ad153"
+  },
+  {
+    "path": "sources/stremio-web/src/common/Discord/activity.ts",
+    "bytes": 3353,
+    "sha256": "a0b9c3cbd004bd4c661637527db908594f845a7225d9f1396a9c8bc1758687b2"
+  },
+  {
+    "path": "sources/stremio-web/src/common/Discord/index.ts",
+    "bytes": 252,
+    "sha256": "19db6d91a3033130d3cd00d1d1bd61c4721269069143d4f2b56c39ee9d1abc01"
+  },
+  {
+    "path": "sources/stremio-web/src/common/EPG/constants.ts",
+    "bytes": 397,
+    "sha256": "3d8fdd032b30f5f6355049d2234352854b372e82ef5e2e7b2e94ea92266d86e9"
+  },
+  {
+    "path": "sources/stremio-web/src/common/EPG/index.ts",
+    "bytes": 191,
+    "sha256": "b50293dee5792141aaa68052839a789a93deec753bddb593bd78eba8f13f092b"
+  },
+  {
+    "path": "sources/stremio-web/src/common/EPG/types.ts",
+    "bytes": 953,
+    "sha256": "359a171ef9b838d46096b9a551f4a37f8d2e59b4f72ec9b52e6acd24d4c4bc25"
+  },
+  {
+    "path": "sources/stremio-web/src/common/EPG/useEpgNow.ts",
+    "bytes": 1997,
+    "sha256": "55c814d37f9caace3cb59cabdea5f84b1a6ffb4089491d4b15124ed3bfdf6a04"
+  },
+  {
+    "path": "sources/stremio-web/src/common/EPG/useLiveRefresh.ts",
+    "bytes": 655,
+    "sha256": "13bb7bc789b7de001a421f6236d0f03d8433d7453ce80cc4af04f51a8841ae28"
+  },
+  {
+    "path": "sources/stremio-web/src/common/EPG/utils.ts",
+    "bytes": 7083,
+    "sha256": "aba72264c6733a5f19eacbfa3980de1d14805deac27423c5eae049084495173c"
+  },
+  {
+    "path": "sources/stremio-web/src/common/FileDrop/FileDrop.tsx",
+    "bytes": 4273,
+    "sha256": "9eab47111f0f8f7b3ac25ea5175357ac0f7ace9e3f3ba3cb3751a88711e3e0d1"
+  },
+  {
+    "path": "sources/stremio-web/src/common/FileDrop/index.ts",
+    "bytes": 194,
+    "sha256": "cc4ec78603fe025751b28461d6ee1935bdc4735236c9edf2be10af19c3d59591"
+  },
+  {
+    "path": "sources/stremio-web/src/common/FileDrop/styles.less",
+    "bytes": 489,
+    "sha256": "62f5c0989e5b263bbe0655414889236c1680934f24c29c656d7a568f2dacb1d6"
+  },
+  {
+    "path": "sources/stremio-web/src/common/FileDrop/useFileDropListener.ts",
+    "bytes": 464,
+    "sha256": "4c8170ca11df806c95994e50cfaea81591fc6ba5f3552e596a75d1a07aed611c"
+  },
+  {
+    "path": "sources/stremio-web/src/common/FileDrop/utils.ts",
+    "bytes": 729,
+    "sha256": "1313ce186c68a38e6f7694664a0261a64135209c0a0982b94205385061d319bb"
+  },
+  {
+    "path": "sources/stremio-web/src/common/Fullscreen/FullscreenContext.ts",
+    "bytes": 534,
+    "sha256": "f98b82a66a4fff55535b65691cdb81fa4121d9259ba4803a21b7175f23c08cdd"
+  },
+  {
+    "path": "sources/stremio-web/src/common/Fullscreen/FullscreenProvider.tsx",
+    "bytes": 4962,
+    "sha256": "6607ed8e9fff626ff00eefeaec30a849215599b1420ed3220b652b406b9c0464"
+  },
+  {
+    "path": "sources/stremio-web/src/common/Fullscreen/index.ts",
+    "bytes": 226,
+    "sha256": "5255a1613be9a4da3037e547f38058eeb87d4f65f7a8c57dea1c21628d1d05a8"
+  },
+  {
+    "path": "sources/stremio-web/src/common/Fullscreen/useFullscreen.ts",
+    "bytes": 384,
+    "sha256": "a53212ac62900feeaee2eef6317bff285c031064d189b439995f1359fddc210f"
+  },
+  {
+    "path": "sources/stremio-web/src/common/Platform/Platform.tsx",
+    "bytes": 1358,
+    "sha256": "6600bf4f9a06c9c49b9e002651c001558a07f08b3675232b3a31949778eb5a26"
+  },
+  {
+    "path": "sources/stremio-web/src/common/Platform/device.ts",
+    "bytes": 1510,
+    "sha256": "241394bc994d90542f0ef1a237bdd4ed66ee8240a620c76e2c359abfd816626d"
+  },
+  {
+    "path": "sources/stremio-web/src/common/Platform/index.ts",
+    "bytes": 111,
+    "sha256": "423e5bc765b6e156c5bfaf7f5da1338f8b7eaba8321fef03afea280db8864ece"
+  },
+  {
+    "path": "sources/stremio-web/src/common/Platform/shell/global.d.ts",
+    "bytes": 560,
+    "sha256": "1a4479f457cf6e611230564d22c3822e8197cdee7e0a02a2258212c48dd93051"
+  },
+  {
+    "path": "sources/stremio-web/src/common/Platform/shell/shell.d.ts",
+    "bytes": 886,
+    "sha256": "eb7621b99fa3981693038550d588563750e08130766273c4ebcbc40641d93d42"
+  },
+  {
+    "path": "sources/stremio-web/src/common/Platform/shell/useShell.ts",
+    "bytes": 5030,
+    "sha256": "2c7012f26d75d0f21613babbb9fefeb092c6ab39d2500c97e0f9002b2833bd8d"
+  },
+  {
+    "path": "sources/stremio-web/src/common/Shortcuts/Shortcuts.tsx",
+    "bytes": 4470,
+    "sha256": "c0fad672f28c55ecabec623f0e802bf379e79a9737b907db817d347e079b99d9"
+  },
+  {
+    "path": "sources/stremio-web/src/common/Shortcuts/index.ts",
+    "bytes": 310,
+    "sha256": "d56b12ab2d2ef4321b47a824fe5b0c9a9a82ef53a786c119ffeacdf7a80679ba"
+  },
+  {
+    "path": "sources/stremio-web/src/common/Shortcuts/keyboard.ts",
+    "bytes": 1904,
+    "sha256": "9ce39b67dd200cb6a70b5083cb7f00779ad20dbb29727fe67797b8fc03d4bec8"
+  },
+  {
+    "path": "sources/stremio-web/src/common/Shortcuts/shortcuts.json",
+    "bytes": 4283,
+    "sha256": "09e43d97d508f4c4a10daf6e9908ee0407871ffc2ed91f9012087dc64a88e368"
+  },
+  {
+    "path": "sources/stremio-web/src/common/Shortcuts/types.d.ts",
+    "bytes": 173,
+    "sha256": "033a729446bbef1213ecb25d851f92d05c64254a288b621af0826e9badc1eb3a"
+  },
+  {
+    "path": "sources/stremio-web/src/common/Shortcuts/useShortcut.ts",
+    "bytes": 441,
+    "sha256": "d656bc246c9e5e84458b03d3bc8d42c7f0a9d680cc70f5e9f2da08031c2f1a39"
+  },
+  {
+    "path": "sources/stremio-web/src/common/Toast/ToastContext.js",
+    "bytes": 329,
+    "sha256": "1b7a54ba160ab2a660d6a1b8be97b4b0c5c5c0641cee6fbd4762f5cfe12159c4"
+  },
+  {
+    "path": "sources/stremio-web/src/common/Toast/ToastItem/ToastItem.js",
+    "bytes": 3580,
+    "sha256": "c86cf835ca2d48607425e527eadc3c0839616a87985a0de4f6412fa64dcafca3"
+  },
+  {
+    "path": "sources/stremio-web/src/common/Toast/ToastItem/index.js",
+    "bytes": 120,
+    "sha256": "3180cd852ed54caee575d18a299e2c22cd573dde013acd1775490cb9470b98d6"
+  },
+  {
+    "path": "sources/stremio-web/src/common/Toast/ToastItem/styles.less",
+    "bytes": 2106,
+    "sha256": "45fb5d368fedb63e3b04d20ccac0bba3530f5d6a00d703851525b877885455a9"
+  },
+  {
+    "path": "sources/stremio-web/src/common/Toast/ToastProvider.js",
+    "bytes": 2973,
+    "sha256": "5292a353e1e3936c8a21ee37137a61b8e3be9381ec24a738a4eeec8cd0c06664"
+  },
+  {
+    "path": "sources/stremio-web/src/common/Toast/index.js",
+    "bytes": 194,
+    "sha256": "67c151a32e2f4ab2bfcd79b50c69b7f9aa2533ad118e19802f3f78af7e608b9a"
+  },
+  {
+    "path": "sources/stremio-web/src/common/Toast/useToast.d.ts",
+    "bytes": 182,
+    "sha256": "881f7ba8351db3f5608999f090d67c58e3af2c4a6772316955233baac01278d0"
+  },
+  {
+    "path": "sources/stremio-web/src/common/Toast/useToast.js",
+    "bytes": 229,
+    "sha256": "6d4b3d204a702d0a8666431b12569c17d35b920347ea91a5625d8af4b127a9fd"
+  },
+  {
+    "path": "sources/stremio-web/src/common/Tooltips/Tooltip/Tooltip.js",
+    "bytes": 1962,
+    "sha256": "1ae28bab2db0599f60a96e5e7ad9939db2dde26bbd82106d316980bb12c90ca6"
+  },
+  {
+    "path": "sources/stremio-web/src/common/Tooltips/Tooltip/index.js",
+    "bytes": 115,
+    "sha256": "6add323a6ccd96b37b6a34644c79c2554dc1c496b39a4fb6fede950ac23e9394"
+  },
+  {
+    "path": "sources/stremio-web/src/common/Tooltips/Tooltip/styles.less",
+    "bytes": 192,
+    "sha256": "df94e53d7ea6d8c146be7e3c61e32166a01c7f840731ccd65cc41b2d148c075f"
+  },
+  {
+    "path": "sources/stremio-web/src/common/Tooltips/TooltipContext.js",
+    "bytes": 173,
+    "sha256": "5a4003d1149ea88ba905840746c99f341777361e7fa742c4ee454c5faa0ef02b"
+  },
+  {
+    "path": "sources/stremio-web/src/common/Tooltips/TooltipItem/TooltipItem.js",
+    "bytes": 2314,
+    "sha256": "b7e3ba9226741c13513f2263cde2330510747a2b845a4884054b54f4acbd17ba"
+  },
+  {
+    "path": "sources/stremio-web/src/common/Tooltips/TooltipItem/index.js",
+    "bytes": 127,
+    "sha256": "42122c1b6ad431d3306f4b872845ad6cb3a1e2bf445682f86b940e0874ff57c3"
+  },
+  {
+    "path": "sources/stremio-web/src/common/Tooltips/TooltipItem/styles.less",
+    "bytes": 154,
+    "sha256": "3399a6dc7c53e1f844415c974482c7a0e393b01a382e2baca315423bf0993300"
+  },
+  {
+    "path": "sources/stremio-web/src/common/Tooltips/TooltipProvider.js",
+    "bytes": 1879,
+    "sha256": "538462acdab148a541e5ccc06d44c7740faa34d7a5367ef26dfc3228cd2a18d2"
+  },
+  {
+    "path": "sources/stremio-web/src/common/Tooltips/index.js",
+    "bytes": 198,
+    "sha256": "31093743b6619df47ae3ae4f2501ebacc5c8320a4454cebb2a0241af85e38e21"
+  },
+  {
+    "path": "sources/stremio-web/src/common/Tooltips/useTooltip.js",
+    "bytes": 239,
+    "sha256": "541724d06b28afe1b896bef858a7b62d2a0e744c4436cd55f51e44b0070ffca4"
+  },
+  {
+    "path": "sources/stremio-web/src/common/animations.less",
+    "bytes": 1726,
+    "sha256": "091baab756eb9c85d3419d73e3ebb3c9026a55f15011e53460048f281aeb3f7f"
+  },
+  {
+    "path": "sources/stremio-web/src/common/getMetaDetailsHref.ts",
+    "bytes": 652,
+    "sha256": "2460bf3e44de7517d1f25cb424186d15dc8a3b8699ab5be837abd0f0457fc32a"
+  },
+  {
+    "path": "sources/stremio-web/src/common/getVisibleChildrenRange.js",
+    "bytes": 1042,
+    "sha256": "0ea8916912c9b41a8746d2e01261214dc5a9dc6e1d50b9562dafc8d95b94e1ca"
+  },
+  {
+    "path": "sources/stremio-web/src/common/index.js",
+    "bytes": 3013,
+    "sha256": "4aaba7b29cc660c7fc2e389c28b0f404a7d20127914dad9e4a65ed0d1fc8dfaa"
+  },
+  {
+    "path": "sources/stremio-web/src/common/interfaceLanguages.json",
+    "bytes": 4122,
+    "sha256": "c590299b0685b57f6da684b43677a67a05d66efee08ad8cf9ff91c70e78f83df"
+  },
+  {
+    "path": "sources/stremio-web/src/common/interfaceScale.ts",
+    "bytes": 1927,
+    "sha256": "3d774df750571360028c4ae4f04d0ff919b66d3b009b0056b98464d12b15d255"
+  },
+  {
+    "path": "sources/stremio-web/src/common/languageNames.json",
+    "bytes": 5100,
+    "sha256": "583f9c4a90621533430c44495bb19c7ca29b45f12b1d959c4f7ca5a09d006f0c"
+  },
+  {
+    "path": "sources/stremio-web/src/common/languages.ts",
+    "bytes": 636,
+    "sha256": "2b731b249c4f53142c27292e6129c6ead4c27d106f0b82dcc1f8ac9fccafa152"
+  },
+  {
+    "path": "sources/stremio-web/src/common/routesRegexp.js",
+    "bytes": 1427,
+    "sha256": "0ecfebaa9eea343c94d067e763219fd826909e775907dfb949f2748baecb109d"
+  },
+  {
+    "path": "sources/stremio-web/src/common/screen-sizes.less",
+    "bytes": 1105,
+    "sha256": "05376517850fa2c6aa1a2dffbb3c0c7db8a91f282dcd3785efc0c9f00a836ac4"
+  },
+  {
+    "path": "sources/stremio-web/src/common/useAnimationFrame.js",
+    "bytes": 607,
+    "sha256": "7fa4fc9f769d44d947bcbfa35038e4b669340796d89375fb4a417abf3474d3dc"
+  },
+  {
+    "path": "sources/stremio-web/src/common/useBinaryState.d.ts",
+    "bytes": 150,
+    "sha256": "e327a1a4d960c591f33f877e0a5c96abcb2be33aef2ca9707d7cc086501c3860"
+  },
+  {
+    "path": "sources/stremio-web/src/common/useBinaryState.js",
+    "bytes": 505,
+    "sha256": "4dc5682e1dd400836efc03a5aaf149a9800b5585a4ecf7f20ae5dee4edc4ec11"
+  },
+  {
+    "path": "sources/stremio-web/src/common/useInstallPrompt.ts",
+    "bytes": 1284,
+    "sha256": "1663a5a987eaf492f4f37868568061f7aa52b15fa933c5ed44a48221fb6bc528"
+  },
+  {
+    "path": "sources/stremio-web/src/common/useInterval.ts",
+    "bytes": 555,
+    "sha256": "55f59137381ab92ceed62d546551c74796113d2b4a3b475e0e14ca8446df9dcd"
+  },
+  {
+    "path": "sources/stremio-web/src/common/useLanguageSorting.ts",
+    "bytes": 1494,
+    "sha256": "6227067ed1a16810a937954d0573908c323b32bf84e5a4f31bc1a454408005f6"
+  },
+  {
+    "path": "sources/stremio-web/src/common/useLiveRef.js",
+    "bytes": 280,
+    "sha256": "c447b0d98321ce576e2ac75784da4160c69867bc108645ecfc6a918e6caf023a"
+  },
+  {
+    "path": "sources/stremio-web/src/common/useMediaQuery.ts",
+    "bytes": 701,
+    "sha256": "88eddb36ea60cc4dbbcfbeae132820fbf55a58c6a673203749b138240e4b4708"
+  },
+  {
+    "path": "sources/stremio-web/src/common/useModelState.js",
+    "bytes": 2916,
+    "sha256": "47652d5abd42a6db58a579ca6519a903abea841feda52cdd8bccb21184e2b75b"
+  },
+  {
+    "path": "sources/stremio-web/src/common/useNotifications.d.ts",
+    "bytes": 80,
+    "sha256": "cfe64d0c20ee50648f8270732f1c56f826625ee78c9fb978c7fe50fb57d3a4b7"
+  },
+  {
+    "path": "sources/stremio-web/src/common/useNotifications.js",
+    "bytes": 275,
+    "sha256": "d67f459de2100afee0a038a67996b795c4e356efd0dbc6729608272c9d38d7be"
+  },
+  {
+    "path": "sources/stremio-web/src/common/useOnScrollToBottom.js",
+    "bytes": 683,
+    "sha256": "8138ca4f509305a4b126774067f87544c6fc3c880d2709976a3aa0a1ec021c96"
+  },
+  {
+    "path": "sources/stremio-web/src/common/useOrientation.ts",
+    "bytes": 304,
+    "sha256": "671f7652c054b2ea3caddf8a0b78a2f2b5912ff84d8e2340f5129ab16186caa0"
+  },
+  {
+    "path": "sources/stremio-web/src/common/useOutsideClick.ts",
+    "bytes": 807,
+    "sha256": "b503ea2b520aceabc18bf1191a134b8cfef6494ad8568e7c81bd01abc5ebb154"
+  },
+  {
+    "path": "sources/stremio-web/src/common/usePWA.js",
+    "bytes": 385,
+    "sha256": "d34a0e889e741820195f8065f93b8725f113cf8ed8df083dd3edab4d02531583"
+  },
+  {
+    "path": "sources/stremio-web/src/common/usePlayUrl.ts",
+    "bytes": 2380,
+    "sha256": "a5941afbdc5999aee8bdc1a224f6f9407d0918bb5540ee49c367eed291b4eecf"
+  },
+  {
+    "path": "sources/stremio-web/src/common/useProfile.d.ts",
+    "bytes": 62,
+    "sha256": "cc924b7d14a7118f365b5dd937fba27cb9e33c64c01d9aefbf0f35ee55feba87"
+  },
+  {
+    "path": "sources/stremio-web/src/common/useProfile.js",
+    "bytes": 581,
+    "sha256": "570e7076419afd31190ae877b71aeb733c174e5aa724ef71462a055370604f4e"
+  },
+  {
+    "path": "sources/stremio-web/src/common/useRouteFocused.ts",
+    "bytes": 1054,
+    "sha256": "c678ac4f6f67f83aa47c7dfcb9917fa3eb6eb0888badb8796c73777da6ab33c3"
+  },
+  {
+    "path": "sources/stremio-web/src/common/useSettings.ts",
+    "bytes": 754,
+    "sha256": "98470219c4348584c2a324c74cf3137ad98b75f2318e300ec381e2c25cf488c4"
+  },
+  {
+    "path": "sources/stremio-web/src/common/useStreamingServer.d.ts",
+    "bytes": 86,
+    "sha256": "59228b20aa288abcfabe3686ca057d90cf04e920493c67f06d845ef434ff405d"
+  },
+  {
+    "path": "sources/stremio-web/src/common/useStreamingServer.js",
+    "bytes": 246,
+    "sha256": "130236e113ccd9eda4986c7c86f528d085c60eef57b5565ff26df306643c6c7d"
+  },
+  {
+    "path": "sources/stremio-web/src/common/useTimeout.ts",
+    "bytes": 548,
+    "sha256": "bbe5268c157b9ecb613554e398b35573faacfd69a7e59b2daa956fc856e47b48"
+  },
+  {
+    "path": "sources/stremio-web/src/common/useTorrent.js",
+    "bytes": 2619,
+    "sha256": "eaef81ed5a559e52378444002ebb8d9ce1f3360b32d76c277e031f4c0f40ce50"
+  },
+  {
+    "path": "sources/stremio-web/src/common/useTranslate.js",
+    "bytes": 1247,
+    "sha256": "d41eec4131ea948b6e59b15eeee3337f39974a67f833c2c50d153ca576f88d81"
+  },
+  {
+    "path": "sources/stremio-web/src/common/useVisibleCatalogs.ts",
+    "bytes": 2095,
+    "sha256": "097811d9ac0b2a97cefdf81fc34f8f7d779cfd02328985996f7994e338b6a4d3"
+  },
+  {
+    "path": "sources/stremio-web/src/components/MetaItem/styles.less",
+    "bytes": 11664,
+    "sha256": "feb15ea982a18d51dd7921e89f25ee209cf81d7f2fa05811a5d38d1706e1900c"
+  },
+  {
+    "path": "sources/stremio-web/src/components/NavBar/HorizontalNavBar/styles.less",
+    "bytes": 3157,
+    "sha256": "74650fd29ead49291e036c0f8404b6b7aafa09895485afae08e015e83c26ec8c"
+  },
+  {
+    "path": "sources/stremio-web/src/components/NavBar/VerticalNavBar/styles.less",
+    "bytes": 1328,
+    "sha256": "57a2da93c5af43e406cead305a9eb351d7299c142854e49c90518bd536116703"
+  },
+  {
+    "path": "sources/stremio-web/src/core/CoreContext.ts",
+    "bytes": 544,
+    "sha256": "4cceff8409414732df15b0f92bfde24ae48df51302105b752d856111f91ba7a7"
+  },
+  {
+    "path": "sources/stremio-web/src/core/CoreProvider.tsx",
+    "bytes": 3533,
+    "sha256": "b92787e201e87fe239972bc4cde802afbe15614e5d0bc402c1394dd14e9484a4"
+  },
+  {
+    "path": "sources/stremio-web/src/core/Error/Error.tsx",
+    "bytes": 1412,
+    "sha256": "3c8627b90dcc102dcfbe6633a61be43fd905c2e776cdb1f3103318f3e2b1cd5b"
+  },
+  {
+    "path": "sources/stremio-web/src/core/Error/index.ts",
+    "bytes": 100,
+    "sha256": "c94970f7578d2b4bbea12413c8db113c2555cbce3f889021362a0eb7cb779769"
+  },
+  {
+    "path": "sources/stremio-web/src/core/Error/styles.less",
+    "bytes": 2509,
+    "sha256": "71c22055262f44baff6cfc5f86eccea4a6eba323ece3a9d4adddc72127d9c30c"
+  },
+  {
+    "path": "sources/stremio-web/src/core/createTransport.ts",
+    "bytes": 1168,
+    "sha256": "4f1e231d32bdfef52ad53787cd0d81f059f382ab8574d346780c8f2644a09de4"
+  },
+  {
+    "path": "sources/stremio-web/src/core/global.d.ts",
+    "bytes": 217,
+    "sha256": "b3c740c3c14dac0c155b6a91efb701cd63b8ce057f230764f693b224c48a0dde"
+  },
+  {
+    "path": "sources/stremio-web/src/core/index.ts",
+    "bytes": 120,
+    "sha256": "2e1ad5512e63c7506d8d753f850bceb5e1116969c21acb1feef587a83dd8f696"
+  },
+  {
+    "path": "sources/stremio-web/src/core/types/Addon.d.ts",
+    "bytes": 609,
+    "sha256": "653c9339f7c98e5dbdbc188367517ef45c354a6acab046042a14d02201100567"
+  },
+  {
+    "path": "sources/stremio-web/src/core/types/LibraryItem.d.ts",
+    "bytes": 761,
+    "sha256": "1613b6b82c5b706927df5fd93e31f6d97345349af85130562bce49efc09988b2"
+  },
+  {
+    "path": "sources/stremio-web/src/core/types/MetaItem.d.ts",
+    "bytes": 685,
+    "sha256": "18665009b352e31bdaca6d9045cf78635be2077c9acc93afbf6006864e22619c"
+  },
+  {
+    "path": "sources/stremio-web/src/core/types/Selectable.d.ts",
+    "bytes": 445,
+    "sha256": "d721da056f0beefc71fab10653beca1f6422af2fa36c43e7b39a2711d989aa34"
+  },
+  {
+    "path": "sources/stremio-web/src/core/types/Stream.d.ts",
+    "bytes": 362,
+    "sha256": "17fa252c5bd09bfff160f3ad82df5604627d631aabda143d360f4faff7d803f7"
+  },
+  {
+    "path": "sources/stremio-web/src/core/types/Video.d.ts",
+    "bytes": 879,
+    "sha256": "cfc86e57da104d2b4d35444775e2321550b661480578b1d8a030a5a8e56a7b6c"
+  },
+  {
+    "path": "sources/stremio-web/src/core/types/common.d.ts",
+    "bytes": 1500,
+    "sha256": "4e4a4e3e2daa71093eb528ec9e3fe984b9c5fee5651cfe423b9390ff350b6bd8"
+  },
+  {
+    "path": "sources/stremio-web/src/core/types/models/Board.d.ts",
+    "bytes": 32,
+    "sha256": "4e03563084efe6a12c7292f6dc4b9643d535130032ebcebdf25d4e77031e40ee"
+  },
+  {
+    "path": "sources/stremio-web/src/core/types/models/Calendar.d.ts",
+    "bytes": 1081,
+    "sha256": "ce2a5a6f8a7cfb2f050bd9a7f33490f2a71bc3b0664e51c912e58e21253fd53c"
+  },
+  {
+    "path": "sources/stremio-web/src/core/types/models/CatalogsWithExtra.d.ts",
+    "bytes": 318,
+    "sha256": "ded7ee46d1b692e1b7438f65e9f1143fe2a6ec0911a839fb34faccdbcf68e5ed"
+  },
+  {
+    "path": "sources/stremio-web/src/core/types/models/Ctx.d.ts",
+    "bytes": 2126,
+    "sha256": "6d85aedbbeac345a5acc886cc4d470cc40318e42e941430e880cbfdbf9a79493"
+  },
+  {
+    "path": "sources/stremio-web/src/core/types/models/DataExport.d.ts",
+    "bytes": 53,
+    "sha256": "5a705118077d0206b155a258ce6490c1329ef8c650aefc4ffb20bd96c5c887f6"
+  },
+  {
+    "path": "sources/stremio-web/src/core/types/models/Discover.d.ts",
+    "bytes": 703,
+    "sha256": "7e06885f65f3f8f1011f799a59b06f5fbb835322ee1217a658f43a87d40611a4"
+  },
+  {
+    "path": "sources/stremio-web/src/core/types/models/InstalledAddons.d.ts",
+    "bytes": 266,
+    "sha256": "3a3f7bfae445bd937df3122f4a2d1d8cfc0502fe53d64868a09472c1c7799915"
+  },
+  {
+    "path": "sources/stremio-web/src/core/types/models/Library.d.ts",
+    "bytes": 609,
+    "sha256": "c12b7ac92c391a768d77ffbff0bfd1eb8cfbc81c0495a7e7d885bbf91148d99b"
+  },
+  {
+    "path": "sources/stremio-web/src/core/types/models/LiveTvGuide.d.ts",
+    "bytes": 1410,
+    "sha256": "d94cd52598d888f9f6942b8fe4da07e09aa0f50f6a2d93a9c49a9e5ee6e13cd2"
+  },
+  {
+    "path": "sources/stremio-web/src/core/types/models/LocalSearch.d.ts",
+    "bytes": 150,
+    "sha256": "023f98f9c7575842a66b659674e4464a52b7852555f99f8b07fd7dd01475c496"
+  },
+  {
+    "path": "sources/stremio-web/src/core/types/models/MetaDetails.d.ts",
+    "bytes": 548,
+    "sha256": "25f6fc8fdc3b7a0c3290290d12011f021a3069695809b64d5e90d70d06aed69b"
+  },
+  {
+    "path": "sources/stremio-web/src/core/types/models/Player.d.ts",
+    "bytes": 1665,
+    "sha256": "0b40a847875b58f7b9ed0b8ead881c336dce5ad222b8f8d3e4f38e0b79d8b16e"
+  },
+  {
+    "path": "sources/stremio-web/src/core/types/models/RemoteAddons.d.ts",
+    "bytes": 261,
+    "sha256": "a52fce76f5fcf8b8c1c8758568c3c471ce72afe5f1bc4db323947f035746b59c"
+  },
+  {
+    "path": "sources/stremio-web/src/core/types/models/Search.d.ts",
+    "bytes": 33,
+    "sha256": "cd68ba748e907ad186a9b4134a76066fd76d86514336436531cdf67517b34bc4"
+  },
+  {
+    "path": "sources/stremio-web/src/core/types/models/StremingServer.d.ts",
+    "bytes": 3235,
+    "sha256": "dca4bf7f627c595ad89d087cce4bca3910bf5a69213c03144f881b94dbedc161"
+  },
+  {
+    "path": "sources/stremio-web/src/core/types.d.ts",
+    "bytes": 1486,
+    "sha256": "4064bfe03c3e3074e7a2014a100e3884dda74201b417c9b11e5fb2becea5e733"
+  },
+  {
+    "path": "sources/stremio-web/src/core/useCore.ts",
+    "bytes": 149,
+    "sha256": "142485a72e62f3b071b0f7ce8792cf577e255d97a1a5bfe9a8443d0ec0911903"
+  },
+  {
+    "path": "sources/stremio-web/src/index.js",
+    "bytes": 1879,
+    "sha256": "c6c934f734249e8c39a7e5bbaedc4ca7f4974dc8b072c9a520aee9aeb29c09b2"
+  },
+  {
+    "path": "sources/stremio-web/src/router/Modal/Modal.js",
+    "bytes": 939,
+    "sha256": "e763e353fe89e5915dae4cfb49c6d5b8d01e784d8cdb1e296c49952d883c0598"
+  },
+  {
+    "path": "sources/stremio-web/src/router/Modal/index.js",
+    "bytes": 108,
+    "sha256": "2194ecaeb09e730f254bdd5155e400279fda65642979f728b98a4a41af67928d"
+  },
+  {
+    "path": "sources/stremio-web/src/router/ModalsContainerContext/ModalsContainerContext.js",
+    "bytes": 246,
+    "sha256": "681252072d14cddfffa5e4d0462080f8061a24795c6c024dea5bfd1295b1ef01"
+  },
+  {
+    "path": "sources/stremio-web/src/router/ModalsContainerContext/ModalsContainerProvider.js",
+    "bytes": 678,
+    "sha256": "48cb0c6f0acb20c46b6035df126aa0f16536ed9c785ccb3620b19d2dec0bc36c"
+  },
+  {
+    "path": "sources/stremio-web/src/router/ModalsContainerContext/index.js",
+    "bytes": 254,
+    "sha256": "3de6668c4277f3a4c6c4df59e9ec55c72c73508c6aca787a1b046c6fe2b00f9d"
+  },
+  {
+    "path": "sources/stremio-web/src/router/ModalsContainerContext/useModalsContainer.js",
+    "bytes": 279,
+    "sha256": "768c48d62fadf2a88358c022ec516c78a8ad7bf0f1283c714d7bc5e991e00194"
+  },
+  {
+    "path": "sources/stremio-web/src/router/Route/Route.js",
+    "bytes": 797,
+    "sha256": "a253e763ef8d3f400b835db94d5c9951ac31a97b82c67c7eb626e28db01e1d81"
+  },
+  {
+    "path": "sources/stremio-web/src/router/Route/index.js",
+    "bytes": 108,
+    "sha256": "7da2b6f84d42702bb54aefe211ed940590bc20064201ef795db6e94b45a027fc"
+  },
+  {
+    "path": "sources/stremio-web/src/router/Routes.tsx",
+    "bytes": 3525,
+    "sha256": "401b6ca3c023820708a7c98cd6b6f924a1b21578907712e048cf8bed4a029a92"
+  },
+  {
+    "path": "sources/stremio-web/src/router/getBackFallback.ts",
+    "bytes": 978,
+    "sha256": "0e63c6cc5a0b51f8c7aef54faf6efe5216c8e66fcc6f7f24a4f5d79df73ba464"
+  },
+  {
+    "path": "sources/stremio-web/src/router/index.ts",
+    "bytes": 519,
+    "sha256": "3ff7c4676d1006a14f42bdef081920ab3118c0926fa4c3bc4f85871456a3cac4"
+  },
+  {
+    "path": "sources/stremio-web/src/router/routePath.ts",
+    "bytes": 1281,
+    "sha256": "d23bbf419c5b8c86b8c35706b9cc19989a388843b86d8a174bf92d9704d83c88"
+  },
+  {
+    "path": "sources/stremio-web/src/router/routerPaths.tsx",
+    "bytes": 1555,
+    "sha256": "bf15ba443e064b970e20eb1204ff07c3efc2e065101e28c78c9ac6c9fdf80b57"
+  },
+  {
+    "path": "sources/stremio-web/src/router/styles.css",
+    "bytes": 808,
+    "sha256": "6106d9115ccf93c1f968293b7e5655c533308b2dd0b563a04dcb52fa23d2d18d"
+  },
+  {
+    "path": "sources/stremio-web/src/router/toPath.ts",
+    "bytes": 159,
+    "sha256": "7de4d5a49c8aeebf4f1e4f8cbd65dbe8a297d1bcc27bae0c7512a6ecea699a74"
+  },
+  {
+    "path": "sources/stremio-web/src/router/useGoBack.ts",
+    "bytes": 756,
+    "sha256": "0d4d4a1e9f7c0f3f7ac6ff834c7b0ac890e9fe897264dbe01def346bc82400ff"
+  },
+  {
+    "path": "sources/stremio-web/src/router/useNavigateWithOrigin.ts",
+    "bytes": 1094,
+    "sha256": "4ab0447f567c514ea15058ae5389034497f2ef0223cde33d6319a9d903364aa5"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Addons/Addons.js",
+    "bytes": 16456,
+    "sha256": "69f699c181e0cd8266a676b5e34d1510ae4c333ec79c1a26f2400b014bd5eca4"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Addons/index.js",
+    "bytes": 111,
+    "sha256": "93786f5eea2abe80d1815c97a58472c126f50bac6c6f97e073677c1b68cb6425"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Addons/styles.less",
+    "bytes": 7988,
+    "sha256": "8db764631d48d6f42d11d604c0691c0b13ae0754ddd587f3cf72424e007392f2"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Addons/useAddonDetailsTransportUrl.js",
+    "bytes": 861,
+    "sha256": "0433ef98362c1eb0d8078e053263def703313c08bf3efac414dca38a10d0081b"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Addons/useInstalledAddons.js",
+    "bytes": 915,
+    "sha256": "c70c04f93aec01fd2b076b0fe9a9be5800ef694b35d9048684556947956c7aee"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Addons/useRemoteAddons.js",
+    "bytes": 1194,
+    "sha256": "19ea4959b99b46487f02231473a46a16a6658cacc5e44606badc8535f42291c9"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Addons/useSelectableInputs.js",
+    "bytes": 3258,
+    "sha256": "d3a66b474fb863c8cea56dbbc19f1ad97d192934763baef9cae56e65ab867f96"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Board/Board.js",
+    "bytes": 6327,
+    "sha256": "163f8c1ee85ba14fabede3e2689175a3ef1537463f2eec8af9e4be43a44223bc"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Board/index.js",
+    "bytes": 108,
+    "sha256": "c14a74f6c11b657bb8193afebeb6a79cbd30b76fbea83fd991c14174aa47ccda"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Board/styles.less",
+    "bytes": 2823,
+    "sha256": "7cbccfad6148770930d67b1c7a92d7a7075f031abc63e9cacdf10f26469bbee4"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Board/useBoard.js",
+    "bytes": 793,
+    "sha256": "71a88cf7e5400b420686c3a6c4fc036bbfaab188e285270aa5d161437e0cb260"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Board/useContinueWatchingPreview.js",
+    "bytes": 261,
+    "sha256": "7bfada2fd0fbf45564b077b2bc3bfd5876323b3571fba744a551ffbf61368cd8"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Calendar/Calendar.less",
+    "bytes": 615,
+    "sha256": "3f23c61f264bee013a31a912e114b4676b9db6e0d3b0bb812f53fb22d5de3dce"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Calendar/Calendar.tsx",
+    "bytes": 3365,
+    "sha256": "d8b0bac11b56fc1f6464e64a443f5ef4fbc1db5fc43c02a9e670f3646b4e66bc"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Discover/Discover.js",
+    "bytes": 20938,
+    "sha256": "4c5c4992e2a76d89d02c274b06fadd6e5595a3d6bce771cd42387399eebb855d"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Discover/index.js",
+    "bytes": 117,
+    "sha256": "4cdd12655c562f0db9e46820232f6020f8b183b3e6d36e4b2c86abc970bdef25"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Discover/styles.less",
+    "bytes": 13130,
+    "sha256": "8a9a52bbe8388a0f0a299c2a914347255345fa2839f9fd04cfa8934ba39cd1e9"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Discover/useDiscover.js",
+    "bytes": 2593,
+    "sha256": "868607ad2de25d769a35206d3b825714424053d5f95a102bb83363c1cf662502"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Discover/useSelectableInputs.js",
+    "bytes": 3896,
+    "sha256": "ca8663d8639c852c8f7753acbed134381c2a73ec7e00913ffdcb35fde9cd7983"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Intro/Intro.js",
+    "bytes": 18531,
+    "sha256": "08c7dd5fa1936c55afebbdf2558c18ea4aee02ff5e6623e6914dc25848f5d39a"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Intro/index.js",
+    "bytes": 108,
+    "sha256": "438891fa3a75ea8e3658afa0c65070d454b90af3e82b8c04489fc87c9b92d74c"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Intro/styles.less",
+    "bytes": 8469,
+    "sha256": "f0164742910b6efdc00ca85c0ba4a418127ad7387fbbb051b3991e97b8cb6901"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Library/Library.js",
+    "bytes": 6391,
+    "sha256": "0f6c557ac3331707fd6c2a6324daa7b12659957390dc08f4ef2b1b29551c7660"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Library/index.js",
+    "bytes": 114,
+    "sha256": "8ad6b37acdfe27f80ad99a465f21e78fcbeaf69ea1496a848cd4b672a17a1e6f"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Library/styles.less",
+    "bytes": 4087,
+    "sha256": "cec60bc4a03caf056ef2c371d293bb25fb8df72db0d193406b9637f04a415c0a"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Library/useLibrary.js",
+    "bytes": 1045,
+    "sha256": "549bcea9b69455d74de3d973bb6415199cb14d72beb3ad13c32845a906703754"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Library/useSelectableInputs.js",
+    "bytes": 1697,
+    "sha256": "8799908235678a464adc7565c2fa05de658aa87195527990e87a9c03cf6e7301"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/MetaDetails/MetaDetails.js",
+    "bytes": 14152,
+    "sha256": "d378280472f6548c40b3f81c6a98b83a6f6858c2a070f6b1f1220e491534abfd"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/MetaDetails/index.js",
+    "bytes": 126,
+    "sha256": "da7a4acb2e16ebc8ffdb037e2f4cafafe4acda2251e6a3aeb2ef84f87846ba02"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/MetaDetails/styles.less",
+    "bytes": 3518,
+    "sha256": "b6c0b169cde5f1efba1fbffabc753302013b9d76094fe9b88c924474b5e266ae"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/MetaDetails/useMetaDetails.js",
+    "bytes": 2573,
+    "sha256": "9e25f46bcbb0fb1105532ca8f2f8b114232b535aa53f81b7b14a52564859a57d"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/MetaDetails/useSeason.js",
+    "bytes": 1017,
+    "sha256": "b7be896b5eb222a936934ac86afbb6393b62880648e48b103fb0ec5eb8d842e8"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/NotFound/NotFound.js",
+    "bytes": 1017,
+    "sha256": "d51594ca3113fa349161375d7d277815e49b8ce9ff24ca57dffc3d1844c5fc5c"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/NotFound/index.js",
+    "bytes": 117,
+    "sha256": "38f6e2d6e3a063de1df4a416669e3576aa4fcc42c8284d5fceeb8e6f19e54d18"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/NotFound/styles.less",
+    "bytes": 978,
+    "sha256": "a5c56f08c6e135958031fa8c527c5b7f483996f252fc9201ee83294fdb17bb84"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Player/Player.js",
+    "bytes": 48255,
+    "sha256": "7a9f7fce6461a6a9a4c43229e06e218547e658ce030885a6b05d456900cdb992"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Player/index.js",
+    "bytes": 111,
+    "sha256": "1f846835044eaef956c2f86eaa4a8c5487cc7fd21a10f4f173be1eae9d64d460"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Player/styles.less",
+    "bytes": 4237,
+    "sha256": "d49933bdf8b8ee90fe47e39ea99aa20be3da00dbc0dfd4eb445ad047166c2ad5"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Player/usePlayer.js",
+    "bytes": 6384,
+    "sha256": "4a26d63716d944cfec4f58c172bdd64c2539d1f38eb254db9fbb81a20ea67758"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Player/useVideo.js",
+    "bytes": 7857,
+    "sha256": "fe525f9bbe94e59253879a5722d3f1b2a25d538e40d1f453f68c8047d86ed69d"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Search/Search.js",
+    "bytes": 6615,
+    "sha256": "1aac626cd1693510d0103179fd1e314a95b3da263c134b938cf30f9563983f62"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Search/index.js",
+    "bytes": 111,
+    "sha256": "ab1706cfe9226a7822f1799d3005546bd97e5c6c26b4382997446f21cf17b7c2"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Search/styles.less",
+    "bytes": 5450,
+    "sha256": "55a2804fff58bb746362574f57025369fb77b2eee4dbf2d7e8c5af3af97649d6"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Search/useSearch.js",
+    "bytes": 2248,
+    "sha256": "b0e890a00632b4365cac4516b4553b8f03c3c62b9cdc1109eeee26fe9e55ec8a"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Settings/Settings.less",
+    "bytes": 657,
+    "sha256": "6a8d27ae5279d75121d2cef8ff7f13860fc4207295b2485a442924d9690d0a4a"
+  },
+  {
+    "path": "sources/stremio-web/src/routes/Settings/Settings.tsx",
+    "bytes": 4901,
+    "sha256": "b493d134220ce51b3639640e32e2980a2b72803f4871b11343a88cde01795ccc"
+  },
+  {
+    "path": "sources/stremio-web/webpack.config.js",
+    "bytes": 8995,
+    "sha256": "415e0a528ac1aaaa25fec414e6394e80f0306c4ec58cfebe3ffb0c850c649926"
+  },
+  {
+    "path": "sources/stremio-web-tree.json",
+    "bytes": 293657,
+    "sha256": "d58c8d067c3ba7eed98b24e8bed30187e63a322337b469a296d022f3f37e879f"
+  },
+  {
+    "path": "sources/stremio-web.json",
+    "bytes": 6956,
+    "sha256": "d118173013d9d9022b1c4e9239e0f10fb95d332b1c0fe3e610597f0169471bd9"
+  }
+]

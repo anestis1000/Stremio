@@ -1,0 +1,32 @@
+[
+  {
+    "name": "ffmpeg.exe",
+    "bytes": 47626216,
+    "sha256": "45a91542c2c2c639067a176f1048d8514b3eb89a25cd23cd4ee4c9daccd40ad7"
+  },
+  {
+    "name": "ffprobe.exe",
+    "bytes": 47515112,
+    "sha256": "30090ff751fb867b7e1fe5312287c84270bd853b5c8b9e949c712f145e0f3b90"
+  },
+  {
+    "name": "libmpv-2.dll",
+    "bytes": 79099368,
+    "sha256": "5db038f0ac85f5e278ddb9fe1aad08417ff71d2f9029a868a558e4cdbe5313b9"
+  },
+  {
+    "name": "server.js",
+    "bytes": 6783122,
+    "sha256": "2f2ec93a4eadc7ec4d5705aac482b7230bb92db9b0189ea4a95e99811d7d9370"
+  },
+  {
+    "name": "stremio-runtime.exe",
+    "bytes": 64472040,
+    "sha256": "e518357d3e78bac58c335c213dcd32fe59fa7b655b57e982b3d62ad46347ca19"
+  },
+  {
+    "name": "stremio-shell-ng.exe",
+    "bytes": 4214760,
+    "sha256": "5c0791c87a7b93e03051a4f16d4d90b7842337b8b97ab365305f71ed9db582a7"
+  }
+]

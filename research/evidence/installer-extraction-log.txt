@@ -1,0 +1,8 @@
+Extracting "Stremio" - setup data version 6.4.3 (unicode)
+ - "app/stremio-shell-ng.exe"
+ - "app/libmpv-2.dll"
+ - "app/ffmpeg.exe"
+ - "app/ffprobe.exe"
+ - "app/stremio-runtime.exe"
+ - "app/server.js"
+Done.

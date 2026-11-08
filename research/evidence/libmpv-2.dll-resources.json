@@ -1,0 +1,757 @@
+{
+  "evidence_id": "ev_b749adc237efd0c5898800f12c78ea5c73951700ad5e58592479f6c1e30ac906",
+  "subject": {
+    "name": "libmpv-2.dll",
+    "digest": {
+      "sha256": "5db038f0ac85f5e278ddb9fe1aad08417ff71d2f9029a868a558e4cdbe5313b9"
+    },
+    "local_path": "/tmp/stremio-extracted-v5.0.27-arm64/app/libmpv-2.dll",
+    "format": "pe",
+    "architecture": null
+  },
+  "provider": {
+    "id": "rea-pe-resources",
+    "name": "REA PE resource parser",
+    "version": "1"
+  },
+  "analysis_profile": null,
+  "predicate_type": "rea.analysis",
+  "operation": "inspect_pe_resources",
+  "parameters": {
+    "path": "/tmp/stremio-extracted-v5.0.27-arm64/app/libmpv-2.dll",
+    "max_file_bytes": 100000000,
+    "max_entries": 16384
+  },
+  "raw_result": null,
+  "normalized_result": {
+    "artifact": {
+      "path": "/tmp/stremio-extracted-v5.0.27-arm64/app/libmpv-2.dll",
+      "sha256": "5db038f0ac85f5e278ddb9fe1aad08417ff71d2f9029a868a558e4cdbe5313b9",
+      "bytes": 79099368
+    },
+    "format": "pe32-plus",
+    "machine": 43620,
+    "directory": {
+      "rva": 92053504,
+      "location": {
+        "offset": 78520320,
+        "bytes": 273960
+      },
+      "data_directory_location": {
+        "offset": 272,
+        "bytes": 8
+      }
+    },
+    "directories": [
+      {
+        "location": {
+          "offset": 78520320,
+          "bytes": 48
+        },
+        "characteristics": 0,
+        "timestamp": 0,
+        "major_version": 0,
+        "minor_version": 0,
+        "named_entries": 0,
+        "id_entries": 4
+      },
+      {
+        "location": {
+          "offset": 78520368,
+          "bytes": 64
+        },
+        "characteristics": 0,
+        "timestamp": 0,
+        "major_version": 0,
+        "minor_version": 0,
+        "named_entries": 0,
+        "id_entries": 6
+      },
+      {
+        "location": {
+          "offset": 78520504,
+          "bytes": 24
+        },
+        "characteristics": 0,
+        "timestamp": 0,
+        "major_version": 0,
+        "minor_version": 0,
+        "named_entries": 0,
+        "id_entries": 1
+      },
+      {
+        "location": {
+          "offset": 78520528,
+          "bytes": 24
+        },
+        "characteristics": 0,
+        "timestamp": 0,
+        "major_version": 0,
+        "minor_version": 0,
+        "named_entries": 0,
+        "id_entries": 1
+      },
+      {
+        "location": {
+          "offset": 78520552,
+          "bytes": 24
+        },
+        "characteristics": 0,
+        "timestamp": 0,
+        "major_version": 0,
+        "minor_version": 0,
+        "named_entries": 0,
+        "id_entries": 1
+      },
+      {
+        "location": {
+          "offset": 78520576,
+          "bytes": 24
+        },
+        "characteristics": 0,
+        "timestamp": 0,
+        "major_version": 0,
+        "minor_version": 0,
+        "named_entries": 0,
+        "id_entries": 1
+      },
+      {
+        "location": {
+          "offset": 78520600,
+          "bytes": 24
+        },
+        "characteristics": 0,
+        "timestamp": 0,
+        "major_version": 0,
+        "minor_version": 0,
+        "named_entries": 0,
+        "id_entries": 1
+      },
+      {
+        "location": {
+          "offset": 78520624,
+          "bytes": 24
+        },
+        "characteristics": 0,
+        "timestamp": 0,
+        "major_version": 0,
+        "minor_version": 0,
+        "named_entries": 0,
+        "id_entries": 1
+      },
+      {
+        "location": {
+          "offset": 78520432,
+          "bytes": 24
+        },
+        "characteristics": 0,
+        "timestamp": 0,
+        "major_version": 0,
+        "minor_version": 0,
+        "named_entries": 1,
+        "id_entries": 0
+      },
+      {
+        "location": {
+          "offset": 78520648,
+          "bytes": 24
+        },
+        "characteristics": 0,
+        "timestamp": 0,
+        "major_version": 0,
+        "minor_version": 0,
+        "named_entries": 0,
+        "id_entries": 1
+      },
+      {
+        "location": {
+          "offset": 78520456,
+          "bytes": 24
+        },
+        "characteristics": 0,
+        "timestamp": 0,
+        "major_version": 0,
+        "minor_version": 0,
+        "named_entries": 0,
+        "id_entries": 1
+      },
+      {
+        "location": {
+          "offset": 78520672,
+          "bytes": 24
+        },
+        "characteristics": 0,
+        "timestamp": 0,
+        "major_version": 0,
+        "minor_version": 0,
+        "named_entries": 0,
+        "id_entries": 1
+      },
+      {
+        "location": {
+          "offset": 78520480,
+          "bytes": 24
+        },
+        "characteristics": 0,
+        "timestamp": 0,
+        "major_version": 0,
+        "minor_version": 0,
+        "named_entries": 0,
+        "id_entries": 1
+      },
+      {
+        "location": {
+          "offset": 78520696,
+          "bytes": 24
+        },
+        "characteristics": 0,
+        "timestamp": 0,
+        "major_version": 0,
+        "minor_version": 0,
+        "named_entries": 0,
+        "id_entries": 1
+      }
+    ],
+    "resources": [
+      {
+        "index": 0,
+        "type": {
+          "kind": "id",
+          "id": 3
+        },
+        "name": {
+          "kind": "id",
+          "id": 1
+        },
+        "language": {
+          "kind": "id",
+          "id": 1033
+        },
+        "entry_locations": [
+          {
+            "offset": 78520336,
+            "bytes": 8
+          },
+          {
+            "offset": 78520384,
+            "bytes": 8
+          },
+          {
+            "offset": 78520520,
+            "bytes": 8
+          }
+        ],
+        "data_entry_location": {
+          "offset": 78520720,
+          "bytes": 16
+        },
+        "code_page": 0,
+        "reserved": 0,
+        "payload": {
+          "rva": 92054992,
+          "location": {
+            "offset": 78521808,
+            "bytes": 1128
+          },
+          "sha256": "bf139966efba9d1cc9277e5f4156ee8b08c481663c2d2e2e218ab04203cfe679"
+        }
+      },
+      {
+        "index": 1,
+        "type": {
+          "kind": "id",
+          "id": 3
+        },
+        "name": {
+          "kind": "id",
+          "id": 2
+        },
+        "language": {
+          "kind": "id",
+          "id": 1033
+        },
+        "entry_locations": [
+          {
+            "offset": 78520336,
+            "bytes": 8
+          },
+          {
+            "offset": 78520392,
+            "bytes": 8
+          },
+          {
+            "offset": 78520544,
+            "bytes": 8
+          }
+        ],
+        "data_entry_location": {
+          "offset": 78520736,
+          "bytes": 16
+        },
+        "code_page": 0,
+        "reserved": 0,
+        "payload": {
+          "rva": 92056120,
+          "location": {
+            "offset": 78522936,
+            "bytes": 2440
+          },
+          "sha256": "13d1a30d4fbdb7a7e5b4b966ebfd965f070cd4b126443b5241fb895e82c6e621"
+        }
+      },
+      {
+        "index": 2,
+        "type": {
+          "kind": "id",
+          "id": 3
+        },
+        "name": {
+          "kind": "id",
+          "id": 3
+        },
+        "language": {
+          "kind": "id",
+          "id": 1033
+        },
+        "entry_locations": [
+          {
+            "offset": 78520336,
+            "bytes": 8
+          },
+          {
+            "offset": 78520400,
+            "bytes": 8
+          },
+          {
+            "offset": 78520568,
+            "bytes": 8
+          }
+        ],
+        "data_entry_location": {
+          "offset": 78520752,
+          "bytes": 16
+        },
+        "code_page": 0,
+        "reserved": 0,
+        "payload": {
+          "rva": 92058560,
+          "location": {
+            "offset": 78525376,
+            "bytes": 4264
+          },
+          "sha256": "15879d4dfaa2ca3185c5b5c3037826f26f809069bda6de61aa3f916305b84459"
+        }
+      },
+      {
+        "index": 3,
+        "type": {
+          "kind": "id",
+          "id": 3
+        },
+        "name": {
+          "kind": "id",
+          "id": 4
+        },
+        "language": {
+          "kind": "id",
+          "id": 1033
+        },
+        "entry_locations": [
+          {
+            "offset": 78520336,
+            "bytes": 8
+          },
+          {
+            "offset": 78520408,
+            "bytes": 8
+          },
+          {
+            "offset": 78520592,
+            "bytes": 8
+          }
+        ],
+        "data_entry_location": {
+          "offset": 78520768,
+          "bytes": 16
+        },
+        "code_page": 0,
+        "reserved": 0,
+        "payload": {
+          "rva": 92062824,
+          "location": {
+            "offset": 78529640,
+            "bytes": 9640
+          },
+          "sha256": "e544830c1a5a822a6b55a6bc982a182349db2a7a486f35ca49a5acd3f220b482"
+        }
+      },
+      {
+        "index": 4,
+        "type": {
+          "kind": "id",
+          "id": 3
+        },
+        "name": {
+          "kind": "id",
+          "id": 5
+        },
+        "language": {
+          "kind": "id",
+          "id": 1033
+        },
+        "entry_locations": [
+          {
+            "offset": 78520336,
+            "bytes": 8
+          },
+          {
+            "offset": 78520416,
+            "bytes": 8
+          },
+          {
+            "offset": 78520616,
+            "bytes": 8
+          }
+        ],
+        "data_entry_location": {
+          "offset": 78520784,
+          "bytes": 16
+        },
+        "code_page": 0,
+        "reserved": 0,
+        "payload": {
+          "rva": 92072464,
+          "location": {
+            "offset": 78539280,
+            "bytes": 16936
+          },
+          "sha256": "a783594dcd42410c1c1e3474ad12cc49887261d7e6c5d7be9990cddc90e5acd5"
+        }
+      },
+      {
+        "index": 5,
+        "type": {
+          "kind": "id",
+          "id": 3
+        },
+        "name": {
+          "kind": "id",
+          "id": 6
+        },
+        "language": {
+          "kind": "id",
+          "id": 1033
+        },
+        "entry_locations": [
+          {
+            "offset": 78520336,
+            "bytes": 8
+          },
+          {
+            "offset": 78520424,
+            "bytes": 8
+          },
+          {
+            "offset": 78520640,
+            "bytes": 8
+          }
+        ],
+        "data_entry_location": {
+          "offset": 78520800,
+          "bytes": 16
+        },
+        "code_page": 0,
+        "reserved": 0,
+        "payload": {
+          "rva": 92089400,
+          "location": {
+            "offset": 78556216,
+            "bytes": 235835
+          },
+          "sha256": "83042970b3bca6e0e831bd9659ada7dd9e2761ba7f69014eaf8dfbe73cf48f89"
+        }
+      },
+      {
+        "index": 6,
+        "type": {
+          "kind": "id",
+          "id": 14
+        },
+        "name": {
+          "kind": "name",
+          "name": "IDI_ICON1",
+          "utf16le_hex": "4900440049005f00490043004f004e003100",
+          "location": {
+            "offset": 78520864,
+            "bytes": 20
+          }
+        },
+        "language": {
+          "kind": "id",
+          "id": 1033
+        },
+        "entry_locations": [
+          {
+            "offset": 78520344,
+            "bytes": 8
+          },
+          {
+            "offset": 78520448,
+            "bytes": 8
+          },
+          {
+            "offset": 78520664,
+            "bytes": 8
+          }
+        ],
+        "data_entry_location": {
+          "offset": 78520816,
+          "bytes": 16
+        },
+        "code_page": 0,
+        "reserved": 0,
+        "payload": {
+          "rva": 92325240,
+          "location": {
+            "offset": 78792056,
+            "bytes": 90
+          },
+          "sha256": "b43bc96f3f6d09016e4964cd209b0d3d53f71a8d0fd39e926143098828e18252"
+        }
+      },
+      {
+        "index": 7,
+        "type": {
+          "kind": "id",
+          "id": 16
+        },
+        "name": {
+          "kind": "id",
+          "id": 1
+        },
+        "language": {
+          "kind": "id",
+          "id": 1033
+        },
+        "entry_locations": [
+          {
+            "offset": 78520352,
+            "bytes": 8
+          },
+          {
+            "offset": 78520472,
+            "bytes": 8
+          },
+          {
+            "offset": 78520688,
+            "bytes": 8
+          }
+        ],
+        "data_entry_location": {
+          "offset": 78520832,
+          "bytes": 16
+        },
+        "code_page": 0,
+        "reserved": 0,
+        "payload": {
+          "rva": 92054080,
+          "location": {
+            "offset": 78520896,
+            "bytes": 912
+          },
+          "sha256": "122b841cacd4575030f273b4064b31d9bbb30f03e2e8ddc1fbf270db023a46cc"
+        }
+      },
+      {
+        "index": 8,
+        "type": {
+          "kind": "id",
+          "id": 24
+        },
+        "name": {
+          "kind": "id",
+          "id": 1
+        },
+        "language": {
+          "kind": "id",
+          "id": 1033
+        },
+        "entry_locations": [
+          {
+            "offset": 78520360,
+            "bytes": 8
+          },
+          {
+            "offset": 78520496,
+            "bytes": 8
+          },
+          {
+            "offset": 78520712,
+            "bytes": 8
+          }
+        ],
+        "data_entry_location": {
+          "offset": 78520848,
+          "bytes": 16
+        },
+        "code_page": 0,
+        "reserved": 0,
+        "payload": {
+          "rva": 92325336,
+          "location": {
+            "offset": 78792152,
+            "bytes": 2121
+          },
+          "sha256": "ca9044658f11394a83b6470625af85c411ceb844c6882e79cadbbb745bd8efe3"
+        }
+      }
+    ],
+    "icon_groups": [
+      {
+        "resource_index": 6,
+        "images": [
+          {
+            "location": {
+              "offset": 78792062,
+              "bytes": 14
+            },
+            "width": 16,
+            "height": 16,
+            "color_count": 0,
+            "reserved": 0,
+            "planes": 1,
+            "bit_count": 32,
+            "declared_bytes": 1128,
+            "resource_id": 1,
+            "candidate_resource_indices": [
+              0
+            ],
+            "same_language_resource_index": 0,
+            "size_matches": true
+          },
+          {
+            "location": {
+              "offset": 78792076,
+              "bytes": 14
+            },
+            "width": 24,
+            "height": 24,
+            "color_count": 0,
+            "reserved": 0,
+            "planes": 1,
+            "bit_count": 32,
+            "declared_bytes": 2440,
+            "resource_id": 2,
+            "candidate_resource_indices": [
+              1
+            ],
+            "same_language_resource_index": 1,
+            "size_matches": true
+          },
+          {
+            "location": {
+              "offset": 78792090,
+              "bytes": 14
+            },
+            "width": 32,
+            "height": 32,
+            "color_count": 0,
+            "reserved": 0,
+            "planes": 1,
+            "bit_count": 32,
+            "declared_bytes": 4264,
+            "resource_id": 3,
+            "candidate_resource_indices": [
+              2
+            ],
+            "same_language_resource_index": 2,
+            "size_matches": true
+          },
+          {
+            "location": {
+              "offset": 78792104,
+              "bytes": 14
+            },
+            "width": 48,
+            "height": 48,
+            "color_count": 0,
+            "reserved": 0,
+            "planes": 1,
+            "bit_count": 32,
+            "declared_bytes": 9640,
+            "resource_id": 4,
+            "candidate_resource_indices": [
+              3
+            ],
+            "same_language_resource_index": 3,
+            "size_matches": true
+          },
+          {
+            "location": {
+              "offset": 78792118,
+              "bytes": 14
+            },
+            "width": 64,
+            "height": 64,
+            "color_count": 0,
+            "reserved": 0,
+            "planes": 1,
+            "bit_count": 32,
+            "declared_bytes": 16936,
+            "resource_id": 5,
+            "candidate_resource_indices": [
+              4
+            ],
+            "same_language_resource_index": 4,
+            "size_matches": true
+          },
+          {
+            "location": {
+              "offset": 78792132,
+              "bytes": 14
+            },
+            "width": 0,
+            "height": 0,
+            "color_count": 0,
+            "reserved": 0,
+            "planes": 1,
+            "bit_count": 32,
+            "declared_bytes": 235835,
+            "resource_id": 6,
+            "candidate_resource_indices": [
+              5
+            ],
+            "same_language_resource_index": 5,
+            "size_matches": true
+          }
+        ]
+      }
+    ],
+    "coverage": {
+      "status": "complete",
+      "examined_entries": 22,
+      "resources": 9
+    },
+    "limitations": [
+      "Static PE32/PE32+ type/name/language resource inventory; payloads other than RT_GROUP_ICON remain opaque.",
+      "Icon candidates are resource-table relationships. Language fallback, image decoding and actual shell/window loading are not observed.",
+      "Exact shared byte ranges are retained; non-identical overlapping resource structures or payloads are rejected."
+    ]
+  },
+  "confidence": "observed",
+  "authority": "shipped-artifact",
+  "environment": null,
+  "limitations": [
+    "Static PE32/PE32+ type/name/language resource inventory; payloads other than RT_GROUP_ICON remain opaque.",
+    "Icon candidates are resource-table relationships. Language fallback, image decoding and actual shell/window loading are not observed.",
+    "Exact shared byte ranges are retained; non-identical overlapping resource structures or payloads are rejected."
+  ],
+  "relationship_coverage": null,
+  "locations": [
+    {
+      "kind": "artifact-path",
+      "path": "/tmp/stremio-extracted-v5.0.27-arm64/app/libmpv-2.dll"
+    }
+  ],
+  "evidence_links": []
+}

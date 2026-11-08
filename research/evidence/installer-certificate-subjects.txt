@@ -1,0 +1,18 @@
+subject=C=GB, O=Sectigo Limited, CN=Sectigo Public Code Signing Root R46
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+
+subject=C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Trusted Root G4
+issuer=C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Assured ID Root CA
+
+subject=C=GB, O=Sectigo Limited, CN=Sectigo Public Code Signing CA R36
+issuer=C=GB, O=Sectigo Limited, CN=Sectigo Public Code Signing Root R46
+
+subject=C=BG, ST=Sofia (stolitsa), O=Smart Code OOD, CN=Smart Code OOD
+issuer=C=GB, O=Sectigo Limited, CN=Sectigo Public Code Signing CA R36
+
+subject=C=US, O=DigiCert, Inc., CN=DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA1
+issuer=C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Trusted Root G4
+
+subject=C=US, O=DigiCert, Inc., CN=DigiCert SHA256 RSA4096 Timestamp Responder 2026 1
+issuer=C=US, O=DigiCert, Inc., CN=DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA1
+

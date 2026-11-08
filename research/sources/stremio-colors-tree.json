@@ -1,0 +1,192 @@
+{
+  "sha": "0ca69ae45c5673f098d57e2f96b2cb2b12bf3a85",
+  "url": "https://api.github.com/repos/Stremio/stremio-colors/git/trees/0ca69ae45c5673f098d57e2f96b2cb2b12bf3a85",
+  "tree": [
+    {
+      "path": ".github",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f9052d59153a8714d41843035c924b4bfa11843e",
+      "url": "https://api.github.com/repos/Stremio/stremio-colors/git/trees/f9052d59153a8714d41843035c924b4bfa11843e"
+    },
+    {
+      "path": ".github/workflows",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f115b0933fc4a719bec7c57ff2230d6f97598c33",
+      "url": "https://api.github.com/repos/Stremio/stremio-colors/git/trees/f115b0933fc4a719bec7c57ff2230d6f97598c33"
+    },
+    {
+      "path": ".github/workflows/build.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be075009eb497c9989b99052556848d4a06c532c",
+      "size": 378,
+      "url": "https://api.github.com/repos/Stremio/stremio-colors/git/blobs/be075009eb497c9989b99052556848d4a06c532c"
+    },
+    {
+      "path": ".github/workflows/publish.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "11edcac68fb1de0c6a1c30f6fe5a6f80b5173ff7",
+      "size": 550,
+      "url": "https://api.github.com/repos/Stremio/stremio-colors/git/blobs/11edcac68fb1de0c6a1c30f6fe5a6f80b5173ff7"
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0876f2fe7b8dc0fda022c111f214dad71d938838",
+      "size": 153,
+      "url": "https://api.github.com/repos/Stremio/stremio-colors/git/blobs/0876f2fe7b8dc0fda022c111f214dad71d938838"
+    },
+    {
+      "path": ".npmignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9d9bd1c8e55572dac3b011560e325c407ca57ab1",
+      "size": 28,
+      "url": "https://api.github.com/repos/Stremio/stremio-colors/git/blobs/9d9bd1c8e55572dac3b011560e325c407ca57ab1"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d8854be031b9d0e6e8c9b016628a64f8315fc933",
+      "size": 12603,
+      "url": "https://api.github.com/repos/Stremio/stremio-colors/git/blobs/d8854be031b9d0e6e8c9b016628a64f8315fc933"
+    },
+    {
+      "path": "android",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2fd909d668abbd46e2392b21513b55162269a9e5",
+      "url": "https://api.github.com/repos/Stremio/stremio-colors/git/trees/2fd909d668abbd46e2392b21513b55162269a9e5"
+    },
+    {
+      "path": "android/build.gradle.kts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a77f088b16fa67efd44b16862dd06a79b05e95f1",
+      "size": 893,
+      "url": "https://api.github.com/repos/Stremio/stremio-colors/git/blobs/a77f088b16fa67efd44b16862dd06a79b05e95f1"
+    },
+    {
+      "path": "android/gradle.properties",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "63c4002d6c3b25ad5361120fbf695052f46fbf1e",
+      "size": 86,
+      "url": "https://api.github.com/repos/Stremio/stremio-colors/git/blobs/63c4002d6c3b25ad5361120fbf695052f46fbf1e"
+    },
+    {
+      "path": "android/gradle",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "794c968d9385927e413ca933521da7d30acf799d",
+      "url": "https://api.github.com/repos/Stremio/stremio-colors/git/trees/794c968d9385927e413ca933521da7d30acf799d"
+    },
+    {
+      "path": "android/gradle/wrapper",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "255d462b22ffe040e3f7ee7a669bf2696b621952",
+      "url": "https://api.github.com/repos/Stremio/stremio-colors/git/trees/255d462b22ffe040e3f7ee7a669bf2696b621952"
+    },
+    {
+      "path": "android/gradle/wrapper/gradle-wrapper.jar",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "41d9927a4d4fb3f96a785543079b8df6723c946b",
+      "size": 59821,
+      "url": "https://api.github.com/repos/Stremio/stremio-colors/git/blobs/41d9927a4d4fb3f96a785543079b8df6723c946b"
+    },
+    {
+      "path": "android/gradle/wrapper/gradle-wrapper.properties",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8049c684f04fdf584869d8eed0bc9168b401e403",
+      "size": 200,
+      "url": "https://api.github.com/repos/Stremio/stremio-colors/git/blobs/8049c684f04fdf584869d8eed0bc9168b401e403"
+    },
+    {
+      "path": "android/gradlew",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "1b6c787337ffb79f0e3cf8b1e9f00f680a959de1",
+      "size": 8070,
+      "url": "https://api.github.com/repos/Stremio/stremio-colors/git/blobs/1b6c787337ffb79f0e3cf8b1e9f00f680a959de1"
+    },
+    {
+      "path": "android/gradlew.bat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ac1b06f93825db68fb0c0b5150917f340eaa5d02",
+      "size": 2763,
+      "url": "https://api.github.com/repos/Stremio/stremio-colors/git/blobs/ac1b06f93825db68fb0c0b5150917f340eaa5d02"
+    },
+    {
+      "path": "android/settings.gradle.kts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f1820c4c957da1487a90fe5956eaebcd83dacbce",
+      "size": 474,
+      "url": "https://api.github.com/repos/Stremio/stremio-colors/git/blobs/f1820c4c957da1487a90fe5956eaebcd83dacbce"
+    },
+    {
+      "path": "android/src",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "fd01ac1b7fac1f38ccdcd03d7dc4903507e6340f",
+      "url": "https://api.github.com/repos/Stremio/stremio-colors/git/trees/fd01ac1b7fac1f38ccdcd03d7dc4903507e6340f"
+    },
+    {
+      "path": "android/src/androidMain",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1e346de612602bf31739360df8d11734f6afe5dd",
+      "url": "https://api.github.com/repos/Stremio/stremio-colors/git/trees/1e346de612602bf31739360df8d11734f6afe5dd"
+    },
+    {
+      "path": "android/src/androidMain/AndroidManifest.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d099390c46b24953a30431c6f7a7d71ccca8ecb6",
+      "size": 52,
+      "url": "https://api.github.com/repos/Stremio/stremio-colors/git/blobs/d099390c46b24953a30431c6f7a7d71ccca8ecb6"
+    },
+    {
+      "path": "build.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bcc209877a8d9547605f557d4618689d6b38be89",
+      "size": 4488,
+      "url": "https://api.github.com/repos/Stremio/stremio-colors/git/blobs/bcc209877a8d9547605f557d4618689d6b38be89"
+    },
+    {
+      "path": "colors.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d6671d877c72d71e20f934799ebb82a8c176b62a",
+      "size": 783,
+      "url": "https://api.github.com/repos/Stremio/stremio-colors/git/blobs/d6671d877c72d71e20f934799ebb82a8c176b62a"
+    },
+    {
+      "path": "jitpack.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "49053eef7d22d35751409f523ca1b9d3f1895c4c",
+      "size": 598,
+      "url": "https://api.github.com/repos/Stremio/stremio-colors/git/blobs/49053eef7d22d35751409f523ca1b9d3f1895c4c"
+    },
+    {
+      "path": "package.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "814daf316acc654c958113fffb10820aa33019c2",
+      "size": 568,
+      "url": "https://api.github.com/repos/Stremio/stremio-colors/git/blobs/814daf316acc654c958113fffb10820aa33019c2"
+    }
+  ],
+  "truncated": false
+}

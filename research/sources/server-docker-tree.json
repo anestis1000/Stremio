@@ -1,0 +1,85 @@
+{
+  "sha": "05f848dfb8a289714b13ca55e55eb3d12a5164c9",
+  "url": "https://api.github.com/repos/Stremio/server-docker/git/trees/05f848dfb8a289714b13ca55e55eb3d12a5164c9",
+  "tree": [
+    {
+      "path": ".dockerignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "821c19db4857c33e0617562ef9bf4e2d7cd9fc6e",
+      "size": 7,
+      "url": "https://api.github.com/repos/Stremio/server-docker/git/blobs/821c19db4857c33e0617562ef9bf4e2d7cd9fc6e"
+    },
+    {
+      "path": ".github",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1f3be5633d430bb3289fe7625766ac33fe8e75cb",
+      "url": "https://api.github.com/repos/Stremio/server-docker/git/trees/1f3be5633d430bb3289fe7625766ac33fe8e75cb"
+    },
+    {
+      "path": ".github/workflows",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f510c87d886c7f56270ef83ae0096d2c40146ea3",
+      "url": "https://api.github.com/repos/Stremio/server-docker/git/trees/f510c87d886c7f56270ef83ae0096d2c40146ea3"
+    },
+    {
+      "path": ".github/workflows/publish.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5c74f85f42f174d3c8be4883fc0f6948826ebeec",
+      "size": 1683,
+      "url": "https://api.github.com/repos/Stremio/server-docker/git/blobs/5c74f85f42f174d3c8be4883fc0f6948826ebeec"
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "77c6ec20caaa431210b9f6f73f6aa1d5b290d6ff",
+      "size": 9,
+      "url": "https://api.github.com/repos/Stremio/server-docker/git/blobs/77c6ec20caaa431210b9f6f73f6aa1d5b290d6ff"
+    },
+    {
+      "path": "Dockerfile",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2fc05c444e4906713c35a25576a840a795727b8a",
+      "size": 2134,
+      "url": "https://api.github.com/repos/Stremio/server-docker/git/blobs/2fc05c444e4906713c35a25576a840a795727b8a"
+    },
+    {
+      "path": "LICENSE.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "90ae12017c9656645386f404e89506593dd31d32",
+      "size": 17894,
+      "url": "https://api.github.com/repos/Stremio/server-docker/git/blobs/90ae12017c9656645386f404e89506593dd31d32"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "53f92e48f08fd4aa8f5a7a3ef20434af5c1d270c",
+      "size": 4640,
+      "url": "https://api.github.com/repos/Stremio/server-docker/git/blobs/53f92e48f08fd4aa8f5a7a3ef20434af5c1d270c"
+    },
+    {
+      "path": "docker-compose.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6e07e0e98d9e011310c5683a8848d52a25f24697",
+      "size": 431,
+      "url": "https://api.github.com/repos/Stremio/server-docker/git/blobs/6e07e0e98d9e011310c5683a8848d52a25f24697"
+    },
+    {
+      "path": "download_server.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0b9da02d47c2d6963661b90f2c71170b81c15431",
+      "size": 836,
+      "url": "https://api.github.com/repos/Stremio/server-docker/git/blobs/0b9da02d47c2d6963661b90f2c71170b81c15431"
+    }
+  ],
+  "truncated": false
+}

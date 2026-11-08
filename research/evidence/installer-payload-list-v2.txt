@@ -1,0 +1,8 @@
+Listing "Stremio" - setup data version 6.4.3 (unicode)
+ - "app/stremio-shell-ng.exe" (4.02 MiB)
+ - "app/libmpv-2.dll" (75.4 MiB)
+ - "app/ffmpeg.exe" (45.4 MiB)
+ - "app/ffprobe.exe" (45.3 MiB)
+ - "app/stremio-runtime.exe" (61.5 MiB)
+ - "app/server.js" (6.47 MiB)
+Done.

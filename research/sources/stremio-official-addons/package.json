@@ -1,0 +1,32 @@
+{
+  "name": "stremio-official-addons",
+  "version": "1.5.8",
+  "description": "All the stremio official add-ons, in AddonCollection.load() format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./scripts/gen.js > index.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stremio/stremio-official-addons.git"
+  },
+  "keywords": [
+    "addons",
+    "stremio"
+  ],
+  "author": "Smart Code OOD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Stremio/stremio-official-addons/issues"
+  },
+  "homepage": "https://stremio.com",
+  "devDependencies": {
+    "stremio-addon-client": "^1.5.2",
+    "stremio-local-addon": "git+https://git@github.com/Stremio/stremio-local-addon.git#79cd88c32aa26270af8b662fa7bd92b657f6e14f"
+  },
+  "workspaces": [
+    ".",
+    "official-addons-v2"
+  ]
+}

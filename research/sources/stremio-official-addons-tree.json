@@ -1,0 +1,231 @@
+{
+  "sha": "272e36095d6ece7aea97f094a02a4fb0a94def59",
+  "url": "https://api.github.com/repos/Stremio/stremio-official-addons/git/trees/272e36095d6ece7aea97f094a02a4fb0a94def59",
+  "tree": [
+    {
+      "path": ".github",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b4c6f9797924667f5c4e7e19b5c28f581457d20b",
+      "url": "https://api.github.com/repos/Stremio/stremio-official-addons/git/trees/b4c6f9797924667f5c4e7e19b5c28f581457d20b"
+    },
+    {
+      "path": ".github/workflows",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2f4e0f8a5c8b038067b349f10214d6a30231172d",
+      "url": "https://api.github.com/repos/Stremio/stremio-official-addons/git/trees/2f4e0f8a5c8b038067b349f10214d6a30231172d"
+    },
+    {
+      "path": ".github/workflows/build.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b3c183d372a5bebd4daa0ef8362c87fcb6854bf1",
+      "size": 610,
+      "url": "https://api.github.com/repos/Stremio/stremio-official-addons/git/blobs/b3c183d372a5bebd4daa0ef8362c87fcb6854bf1"
+    },
+    {
+      "path": ".github/workflows/publish.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6626aacbc47b7de24d2ddcd9ff3d067bed8e4866",
+      "size": 1741,
+      "url": "https://api.github.com/repos/Stremio/stremio-official-addons/git/blobs/6626aacbc47b7de24d2ddcd9ff3d067bed8e4866"
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3a56b5aa43dc5777338957e5af02265518eb8732",
+      "size": 39,
+      "url": "https://api.github.com/repos/Stremio/stremio-official-addons/git/blobs/3a56b5aa43dc5777338957e5af02265518eb8732"
+    },
+    {
+      "path": ".npmignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "caff83c5991e57abc5efe34c53bfa0a8b639ee0f",
+      "size": 98,
+      "url": "https://api.github.com/repos/Stremio/stremio-official-addons/git/blobs/caff83c5991e57abc5efe34c53bfa0a8b639ee0f"
+    },
+    {
+      "path": "Cargo.lock",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "222db834c58a5451691469d6c8c066d54e97585f",
+      "size": 3419,
+      "url": "https://api.github.com/repos/Stremio/stremio-official-addons/git/blobs/222db834c58a5451691469d6c8c066d54e97585f"
+    },
+    {
+      "path": "Cargo.toml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "63d64da6bdab045d50872ee5a921d977879912f2",
+      "size": 77,
+      "url": "https://api.github.com/repos/Stremio/stremio-official-addons/git/blobs/63d64da6bdab045d50872ee5a921d977879912f2"
+    },
+    {
+      "path": "LICENSE.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ef4cc208d355da15e547df1ce30b6c33e2d6de1a",
+      "size": 1110,
+      "url": "https://api.github.com/repos/Stremio/stremio-official-addons/git/blobs/ef4cc208d355da15e547df1ce30b6c33e2d6de1a"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6664984cc30de7b37803e0435fe9e11697e97305",
+      "size": 5633,
+      "url": "https://api.github.com/repos/Stremio/stremio-official-addons/git/blobs/6664984cc30de7b37803e0435fe9e11697e97305"
+    },
+    {
+      "path": "deflate-macro",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6d4035659aac304440b8851c727b8dfa09502b73",
+      "url": "https://api.github.com/repos/Stremio/stremio-official-addons/git/trees/6d4035659aac304440b8851c727b8dfa09502b73"
+    },
+    {
+      "path": "deflate-macro/Cargo.toml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "757a524866934997e42a92d89db56376fc07e8a2",
+      "size": 421,
+      "url": "https://api.github.com/repos/Stremio/stremio-official-addons/git/blobs/757a524866934997e42a92d89db56376fc07e8a2"
+    },
+    {
+      "path": "deflate-macro/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4d356f9761fe07d1efe2273584ccf59627be7ce0",
+      "size": 467,
+      "url": "https://api.github.com/repos/Stremio/stremio-official-addons/git/blobs/4d356f9761fe07d1efe2273584ccf59627be7ce0"
+    },
+    {
+      "path": "deflate-macro/src",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d607ab2140f70dcd74ebdc0984b8073bf0a14190",
+      "url": "https://api.github.com/repos/Stremio/stremio-official-addons/git/trees/d607ab2140f70dcd74ebdc0984b8073bf0a14190"
+    },
+    {
+      "path": "deflate-macro/src/lib.rs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "34f2a36f0755beb7fd7fd578c4004a5bf7e7b872",
+      "size": 2250,
+      "url": "https://api.github.com/repos/Stremio/stremio-official-addons/git/blobs/34f2a36f0755beb7fd7fd578c4004a5bf7e7b872"
+    },
+    {
+      "path": "index.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0028c4f18bc98b11dbc25de8ce8f019526f6bbde",
+      "size": 41,
+      "url": "https://api.github.com/repos/Stremio/stremio-official-addons/git/blobs/0028c4f18bc98b11dbc25de8ce8f019526f6bbde"
+    },
+    {
+      "path": "index.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ffc76e7c3555326f1cc6bf18a78c4cc8736c2183",
+      "size": 34079,
+      "url": "https://api.github.com/repos/Stremio/stremio-official-addons/git/blobs/ffc76e7c3555326f1cc6bf18a78c4cc8736c2183"
+    },
+    {
+      "path": "official-addons-v2",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9121f4d32c70dd16634267d6106f29b4e741e0c8",
+      "url": "https://api.github.com/repos/Stremio/stremio-official-addons/git/trees/9121f4d32c70dd16634267d6106f29b4e741e0c8"
+    },
+    {
+      "path": "official-addons-v2/Cargo.toml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7214a1fda6c88ee04fb5b3edec57f88fdde834be",
+      "size": 671,
+      "url": "https://api.github.com/repos/Stremio/stremio-official-addons/git/blobs/7214a1fda6c88ee04fb5b3edec57f88fdde834be"
+    },
+    {
+      "path": "official-addons-v2/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b5d21100e0d230cf3f3f65cccabb4172aaf6324b",
+      "size": 1516,
+      "url": "https://api.github.com/repos/Stremio/stremio-official-addons/git/blobs/b5d21100e0d230cf3f3f65cccabb4172aaf6324b"
+    },
+    {
+      "path": "official-addons-v2/package.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1a4b713ee1deb0c3f1f8a21b1684aa8039070e8f",
+      "size": 804,
+      "url": "https://api.github.com/repos/Stremio/stremio-official-addons/git/blobs/1a4b713ee1deb0c3f1f8a21b1684aa8039070e8f"
+    },
+    {
+      "path": "official-addons-v2/scripts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a065636ad49827cd0c03e877fb70d659996b6602",
+      "url": "https://api.github.com/repos/Stremio/stremio-official-addons/git/trees/a065636ad49827cd0c03e877fb70d659996b6602"
+    },
+    {
+      "path": "official-addons-v2/scripts/build.js",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8343ccafe6b3a67eded0a134f986d64340125f7d",
+      "size": 2208,
+      "url": "https://api.github.com/repos/Stremio/stremio-official-addons/git/blobs/8343ccafe6b3a67eded0a134f986d64340125f7d"
+    },
+    {
+      "path": "official-addons-v2/src",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1213abaaaa38edaa9012ca38ff8ebf7a061ebc36",
+      "url": "https://api.github.com/repos/Stremio/stremio-official-addons/git/trees/1213abaaaa38edaa9012ca38ff8ebf7a061ebc36"
+    },
+    {
+      "path": "official-addons-v2/src/lib.rs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ca95eb59ff6994385025c676f8ab3f68695c6915",
+      "size": 1245,
+      "url": "https://api.github.com/repos/Stremio/stremio-official-addons/git/blobs/ca95eb59ff6994385025c676f8ab3f68695c6915"
+    },
+    {
+      "path": "package-lock.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d8de2874c084bcf1f55bb25948b1cdfc037dd0b1",
+      "size": 49245,
+      "url": "https://api.github.com/repos/Stremio/stremio-official-addons/git/blobs/d8de2874c084bcf1f55bb25948b1cdfc037dd0b1"
+    },
+    {
+      "path": "package.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "07ba20bbad74c724a0e6d7e825055afc4ddfd4a8",
+      "size": 885,
+      "url": "https://api.github.com/repos/Stremio/stremio-official-addons/git/blobs/07ba20bbad74c724a0e6d7e825055afc4ddfd4a8"
+    },
+    {
+      "path": "scripts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "353fa32d17b9f5985a4758d0f86c9c52ed4fec35",
+      "url": "https://api.github.com/repos/Stremio/stremio-official-addons/git/trees/353fa32d17b9f5985a4758d0f86c9c52ed4fec35"
+    },
+    {
+      "path": "scripts/gen.js",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8a14077bc593d0ddd6a0745a49704174ae549fc0",
+      "size": 1847,
+      "url": "https://api.github.com/repos/Stremio/stremio-official-addons/git/blobs/8a14077bc593d0ddd6a0745a49704174ae549fc0"
+    }
+  ],
+  "truncated": false
+}

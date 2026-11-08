@@ -1,0 +1,269 @@
+[
+  {
+    "path": "/Users/a.tsoulfas/Desktop/StremioSetup-v5.0.27_arm64.exe",
+    "bytes": 77417072,
+    "sha256": "4efa0bacd5b658be998868db10907ba155beb1c9cdc352eb9d6fd875c6affe23",
+    "machine": "0x14c",
+    "architecture": "x86",
+    "bits": 32,
+    "sections": [
+      {
+        "name": ".text",
+        "rva": 4096,
+        "virtual_bytes": 698084,
+        "raw_offset": 1024,
+        "raw_bytes": 698368
+      },
+      {
+        "name": ".itext",
+        "rva": 704512,
+        "virtual_bytes": 6024,
+        "raw_offset": 699392,
+        "raw_bytes": 6144
+      },
+      {
+        "name": ".data",
+        "rva": 712704,
+        "virtual_bytes": 15356,
+        "raw_offset": 705536,
+        "raw_bytes": 15360
+      },
+      {
+        "name": ".bss",
+        "rva": 729088,
+        "virtual_bytes": 29348,
+        "raw_offset": 0,
+        "raw_bytes": 0
+      },
+      {
+        "name": ".idata",
+        "rva": 761856,
+        "virtual_bytes": 4198,
+        "raw_offset": 720896,
+        "raw_bytes": 4608
+      },
+      {
+        "name": ".didata",
+        "rva": 770048,
+        "virtual_bytes": 420,
+        "raw_offset": 725504,
+        "raw_bytes": 512
+      },
+      {
+        "name": ".edata",
+        "rva": 774144,
+        "virtual_bytes": 113,
+        "raw_offset": 726016,
+        "raw_bytes": 512
+      },
+      {
+        "name": ".tls",
+        "rva": 778240,
+        "virtual_bytes": 24,
+        "raw_offset": 0,
+        "raw_bytes": 0
+      },
+      {
+        "name": ".rdata",
+        "rva": 782336,
+        "virtual_bytes": 93,
+        "raw_offset": 726528,
+        "raw_bytes": 512
+      },
+      {
+        "name": ".reloc",
+        "rva": 786432,
+        "virtual_bytes": 70408,
+        "raw_offset": 727040,
+        "raw_bytes": 70656
+      },
+      {
+        "name": ".rsrc",
+        "rva": 860160,
+        "virtual_bytes": 122796,
+        "raw_offset": 797696,
+        "raw_bytes": 122880
+      }
+    ],
+    "imports": [
+      {
+        "dll": "kernel32.dll",
+        "symbols": [
+          "GetACP",
+          "GetExitCodeProcess",
+          "CloseHandle",
+          "LocalFree",
+          "SizeofResource",
+          "VirtualProtect",
+          "QueryPerformanceFrequency",
+          "VirtualFree",
+          "GetFullPathNameW",
+          "GetProcessHeap",
+          "ExitProcess",
+          "HeapAlloc",
+          "GetCPInfoExW",
+          "RtlUnwind",
+          "GetCPInfo",
+          "GetStdHandle",
+          "GetModuleHandleW",
+          "FreeLibrary",
+          "HeapDestroy",
+          "ReadFile",
+          "CreateProcessW",
+          "GetLastError",
+          "GetModuleFileNameW",
+          "SetLastError",
+          "FindResourceW",
+          "CreateThread",
+          "CompareStringW",
+          "LoadLibraryA",
+          "ResetEvent",
+          "GetVolumeInformationW",
+          "GetVersion",
+          "GetDriveTypeW",
+          "RaiseException",
+          "FormatMessageW",
+          "SwitchToThread",
+          "GetExitCodeThread",
+          "GetCurrentThread",
+          "LoadLibraryExW",
+          "LockResource",
+          "GetCurrentThreadId",
+          "UnhandledExceptionFilter",
+          "VirtualQuery",
+          "VirtualQueryEx",
+          "Sleep",
+          "EnterCriticalSection",
+          "SetFilePointer",
+          "LoadResource",
+          "SuspendThread",
+          "GetTickCount",
+          "GetFileSize",
+          "GetStartupInfoW",
+          "GetFileAttributesW",
+          "InitializeCriticalSection",
+          "GetSystemWindowsDirectoryW",
+          "GetThreadPriority",
+          "SetThreadPriority",
+          "GetCurrentProcess",
+          "VirtualAlloc",
+          "GetCommandLineW",
+          "GetSystemInfo",
+          "LeaveCriticalSection",
+          "GetProcAddress",
+          "ResumeThread",
+          "GetVersionExW",
+          "VerifyVersionInfoW",
+          "HeapCreate",
+          "GetWindowsDirectoryW",
+          "LCMapStringW",
+          "VerSetConditionMask",
+          "GetDiskFreeSpaceW",
+          "FindFirstFileW",
+          "GetUserDefaultUILanguage",
+          "lstrlenW",
+          "QueryPerformanceCounter",
+          "SetEndOfFile",
+          "HeapFree",
+          "WideCharToMultiByte",
+          "FindClose",
+          "MultiByteToWideChar",
+          "LoadLibraryW",
+          "SetEvent",
+          "CreateFileW",
+          "GetLocaleInfoW",
+          "GetSystemDirectoryW",
+          "DeleteFileW",
+          "GetLocalTime",
+          "GetEnvironmentVariableW",
+          "WaitForSingleObject",
+          "WriteFile",
+          "ExitThread",
+          "DeleteCriticalSection",
+          "TlsGetValue",
+          "GetDateFormatW",
+          "SetErrorMode",
+          "IsValidLocale",
+          "TlsSetValue",
+          "CreateDirectoryW",
+          "GetSystemDefaultUILanguage",
+          "EnumCalendarInfoW",
+          "LocalAlloc",
+          "GetUserDefaultLangID",
+          "RemoveDirectoryW",
+          "CreateEventW",
+          "SetThreadLocale",
+          "GetThreadLocale"
+        ]
+      },
+      {
+        "dll": "comctl32.dll",
+        "symbols": [
+          "InitCommonControls"
+        ]
+      },
+      {
+        "dll": "user32.dll",
+        "symbols": [
+          "CreateWindowExW",
+          "TranslateMessage",
+          "CharLowerBuffW",
+          "CallWindowProcW",
+          "CharUpperW",
+          "PeekMessageW",
+          "GetSystemMetrics",
+          "SetWindowLongW",
+          "MessageBoxW",
+          "DestroyWindow",
+          "CharUpperBuffW",
+          "CharNextW",
+          "MsgWaitForMultipleObjects",
+          "LoadStringW",
+          "ExitWindowsEx",
+          "DispatchMessageW"
+        ]
+      },
+      {
+        "dll": "oleaut32.dll",
+        "symbols": [
+          "SafeArrayPutElement",
+          "VariantInit",
+          "VariantClear",
+          "SysFreeString",
+          "SafeArrayAccessData",
+          "SysReAllocStringLen",
+          "SafeArrayCreate",
+          "SafeArrayGetElement",
+          "SysAllocStringLen",
+          "SafeArrayUnaccessData",
+          "SafeArrayPtrOfIndex",
+          "VariantCopy",
+          "SafeArrayGetUBound",
+          "SafeArrayGetLBound",
+          "VariantChangeType"
+        ]
+      },
+      {
+        "dll": "advapi32.dll",
+        "symbols": [
+          "ConvertStringSecurityDescriptorToSecurityDescriptorW",
+          "OpenThreadToken",
+          "AdjustTokenPrivileges",
+          "LookupPrivilegeValueW",
+          "RegOpenKeyExW",
+          "OpenProcessToken",
+          "FreeSid",
+          "AllocateAndInitializeSid",
+          "EqualSid",
+          "RegQueryValueExW",
+          "GetTokenInformation",
+          "ConvertSidToStringSidW",
+          "RegCloseKey"
+        ]
+      }
+    ],
+    "limitations": [
+      "Static normal import table only. Delay imports, dynamically loaded libraries and runtime behavior are not resolved."
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "input": "/tmp/stremio-extracted-v5.0.27-arm64/app/server.js",
+  "input_sha256": "2f2ec93a4eadc7ec4d5705aac482b7230bb92db9b0189ea4a95e99811d7d9370",
+  "total_factory_slots": 1325,
+  "output": "/tmp/stremio-server-derived-modules",
+  "limitation": "Factory ordinals are build-local; selected slices do not resolve dependencies or establish runtime reachability.",
+  "modules": [
+    {
+      "path": "module-420.js",
+      "ordinal": 420,
+      "reasons": [
+        "embedded server package metadata"
+      ],
+      "original_start_utf16": 1904061,
+      "original_end_utf16": 1909677,
+      "original_start_byte": 1977943,
+      "original_end_byte": 1983559,
+      "original_sha256": "d01a9df7f48720b87d47b5f066fc1c2f8545fee23e84608bf6f38def9984094e",
+      "derived_sha256": "23e4d10e423fcace809e183d7e582e74d2c67a9b892bfd3215ad02f7ba9604c0"
+    },
+    {
+      "path": "module-576.js",
+      "ordinal": 576,
+      "reasons": [
+        "bootstrap entry ordinal",
+        "HTTP listener configuration",
+        "subtitle route candidate"
+      ],
+      "original_start_utf16": 2625057,
+      "original_end_utf16": 2654570,
+      "original_start_byte": 2698949,
+      "original_end_byte": 2728462,
+      "original_sha256": "94e2fc43dd2564b4e45e302dbd639c9d141513abf205ee4af6535a9e226427f3",
+      "derived_sha256": "4caa7a7a16cad0717f790baf8b8e064b36622fdb7407b735cca927fe55f4b143"
+    }
+  ]
+}

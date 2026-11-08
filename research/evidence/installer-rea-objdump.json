@@ -1,0 +1,66 @@
+{
+  "evidence_id": "ev_d4d6db6c213e44748ac6c5edb1739db733922ec85997a74d7cbb00120958346a",
+  "subject": {
+    "name": "StremioSetup-v5.0.27_arm64.exe",
+    "digest": {
+      "sha256": "4efa0bacd5b658be998868db10907ba155beb1c9cdc352eb9d6fd875c6affe23"
+    },
+    "local_path": "/Users/a.tsoulfas/Desktop/StremioSetup-v5.0.27_arm64.exe",
+    "format": "unknown",
+    "architecture": null
+  },
+  "provider": {
+    "id": "gnu.objdump",
+    "name": "GNU objdump",
+    "version": null
+  },
+  "analysis_profile": null,
+  "predicate_type": "rea.reverse-engineering.command-observation",
+  "operation": "inspect_with_objdump",
+  "parameters": {
+    "path": "/Users/a.tsoulfas/Desktop/StremioSetup-v5.0.27_arm64.exe",
+    "operation": "file_headers",
+    "follow_debug_links": false,
+    "provider_executable": "objdump",
+    "command_arguments": [
+      "-f",
+      "/Users/a.tsoulfas/Desktop/StremioSetup-v5.0.27_arm64.exe"
+    ]
+  },
+  "raw_result": {
+    "stdout": "\n/Users/a.tsoulfas/Desktop/StremioSetup-v5.0.27_arm64.exe:\tfile format coff-i386\narchitecture: i386\nstart address: 0x000acfe0\n",
+    "stderr": "",
+    "exit_code": 0,
+    "signal": null,
+    "output_truncated": false,
+    "completion_status": "complete",
+    "artifact_sha256_after": "4efa0bacd5b658be998868db10907ba155beb1c9cdc352eb9d6fd875c6affe23",
+    "artifact_changed": false
+  },
+  "normalized_result": {
+    "stdout": "\n/Users/a.tsoulfas/Desktop/StremioSetup-v5.0.27_arm64.exe:\tfile format coff-i386\narchitecture: i386\nstart address: 0x000acfe0\n",
+    "stderr": "",
+    "exit_code": 0,
+    "signal": null,
+    "output_truncated": false,
+    "completion_status": "complete",
+    "artifact_sha256_after": "4efa0bacd5b658be998868db10907ba155beb1c9cdc352eb9d6fd875c6affe23",
+    "artifact_changed": false
+  },
+  "confidence": "observed",
+  "authority": "shipped-artifact",
+  "environment": null,
+  "limitations": [
+    "The executable version and supported formats are reported as unknown because no reliable version probe was performed.",
+    "A non-zero process exit is preserved as an observed command result.",
+    "When both are available, pre-run and post-run digests detect artifact changes across the provider call but cannot prove the exact bytes consumed during the call."
+  ],
+  "relationship_coverage": null,
+  "locations": [
+    {
+      "kind": "artifact-path",
+      "path": "/Users/a.tsoulfas/Desktop/StremioSetup-v5.0.27_arm64.exe"
+    }
+  ],
+  "evidence_links": []
+}

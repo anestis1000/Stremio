@@ -1,0 +1,235 @@
+- document:
+  - navigation:
+    - img
+    - text: Search or paste link
+    - img
+    - img
+    - img
+  - navigation:
+    - link "Board":
+      - /url: "#/"
+      - img
+      - text: Board
+    - link "Discover":
+      - /url: "#/discover"
+      - img
+      - text: Discover
+    - link "Library":
+      - /url: "#/library"
+      - img
+      - text: Library
+    - link "Calendar":
+      - /url: "#/calendar"
+      - img
+      - text: Calendar
+    - link "Addons":
+      - /url: "#/addons"
+      - img
+      - text: Addons
+    - link "Settings":
+      - /url: "#/settings"
+      - img
+      - text: Settings
+  - text: Popular - Movie
+  - link "See All":
+    - /url: "#/discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top"
+    - text: See All
+    - img
+  - link "Obsession":
+    - /url: "#/detail/movie/tt37287335/tt37287335"
+    - img
+    - text: Obsession
+  - link "Hocus Pocus":
+    - /url: "#/detail/movie/tt0107120/tt0107120"
+    - img
+    - text: Hocus Pocus
+  - link "Verity":
+    - /url: "#/detail/movie/tt32261958/tt32261958"
+    - img
+    - text: Verity
+  - link "Halloween":
+    - /url: "#/detail/movie/tt0077651/tt0077651"
+    - img
+    - text: Halloween
+  - link "Backrooms":
+    - /url: "#/detail/movie/tt26657236/tt26657236"
+    - img
+    - text: Backrooms
+  - link "The Dog Stars":
+    - /url: "#/detail/movie/tt21285562/tt21285562"
+    - img
+    - text: The Dog Stars
+  - link "Resident Evil":
+    - /url: "#/detail/movie/tt35538033/tt35538033"
+    - img
+    - text: Resident Evil
+  - text: Popular - Series
+  - link "See All":
+    - /url: "#/discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top"
+    - text: See All
+    - img
+  - link "Nocturne":
+    - /url: "#/detail/series/tt26598805"
+    - img
+    - text: Nocturne
+  - 'link "Dexter: Resurrection"':
+    - /url: "#/detail/series/tt33043892"
+    - img
+    - text: "Dexter: Resurrection"
+  - link "MobLand":
+    - /url: "#/detail/series/tt31510819"
+    - img
+    - text: MobLand
+  - link "Carrie":
+    - /url: "#/detail/series/tt11540908"
+    - img
+    - text: Carrie
+  - link "Crystal Lake":
+    - /url: "#/detail/series/tt23148340"
+    - img
+    - text: Crystal Lake
+  - link "VisionQuest":
+    - /url: "#/detail/series/tt23112594"
+    - img
+    - text: VisionQuest
+  - link "The Terminal List":
+    - /url: "#/detail/series/tt11743610"
+    - img
+    - text: The Terminal List
+  - text: Featured - Movie
+  - link "See All":
+    - /url: "#/discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/imdbRating"
+    - text: See All
+    - img
+  - link "Tenzing":
+    - /url: "#/detail/movie/tt6262770/tt6262770"
+    - img
+    - text: Tenzing
+  - link "Your Mother Your Mother Your Mother":
+    - /url: "#/detail/movie/tt35856037/tt35856037"
+    - img
+    - text: Your Mother Your Mother Your Mother
+  - link "The Love Hypothesis":
+    - /url: "#/detail/movie/tt22526100/tt22526100"
+    - img
+    - text: The Love Hypothesis
+  - link "Primetime":
+    - /url: "#/detail/movie/tt34206385/tt34206385"
+    - img
+    - text: Primetime
+  - link "Sense and Sensibility":
+    - /url: "#/detail/movie/tt13609648/tt13609648"
+    - img
+    - text: Sense and Sensibility
+  - link "Best of the Best":
+    - /url: "#/detail/movie/tt16478058/tt16478058"
+    - img
+    - text: Best of the Best
+  - 'link "Shaun the Sheep: The Beast of Mossy Bottom"':
+    - /url: "#/detail/movie/tt36841161/tt36841161"
+    - img
+    - text: "Shaun the Sheep: The Beast of Mossy Bottom"
+  - text: Featured - Series
+  - link "See All":
+    - /url: "#/discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/imdbRating"
+    - text: See All
+    - img
+  - link "Cops":
+    - /url: "#/detail/series/tt0096563"
+    - img
+    - text: Cops
+  - 'link "Outlander: Blood of My Blood"':
+    - /url: "#/detail/series/tt18332852"
+    - img
+    - text: "Outlander: Blood of My Blood"
+  - link "Sheriff Country":
+    - /url: "#/detail/series/tt32268630"
+    - img
+    - text: Sheriff Country
+  - link "Tulsa King":
+    - /url: "#/detail/series/tt16358384"
+    - img
+    - text: Tulsa King
+  - link "MobLand":
+    - /url: "#/detail/series/tt31510819"
+    - img
+    - text: MobLand
+  - link "Grey's Anatomy":
+    - /url: "#/detail/series/tt0413573"
+    - img
+    - text: Grey's Anatomy
+  - link "Elsbeth":
+    - /url: "#/detail/series/tt26591110"
+    - img
+    - text: Elsbeth
+  - text: YouTube - Channel
+  - link "See All":
+    - /url: "#/discover/https%3A%2F%2Fv3-channels.strem.io%2Fmanifest.json/channel/top"
+    - text: See All
+    - img
+  - link "T-Series":
+    - /url: "#/detail/channel/yt_id%3AUCq-Fj5jknLsUf-MWSy4_brA"
+    - img
+    - text: T-Series
+  - link "MrBeast":
+    - /url: "#/detail/channel/yt_id%3AUCX6OQ3DkcsbYNE6H8uQQuVA"
+    - img
+    - text: MrBeast
+  - link "Cocomelon - Nursery Rhymes":
+    - /url: "#/detail/channel/yt_id%3AUCbCmjCuTUZos6Inko4u57UQ"
+    - img
+    - text: Cocomelon - Nursery Rhymes
+  - link "SET India":
+    - /url: "#/detail/channel/yt_id%3AUCpEhnqL0y41EpW2TvWAHD7Q"
+    - img
+    - text: SET India
+  - link "WWE":
+    - /url: "#/detail/channel/yt_id%3AUCJ5v_MCY6GNUBTO8-D3XoAg"
+    - img
+    - text: WWE
+  - link "✿ Kids Diana Show":
+    - /url: "#/detail/channel/yt_id%3AUCk8GzjMOrta8yxDcKfylJYw"
+    - img
+    - text: ✿ Kids Diana Show
+  - link "PewDiePie":
+    - /url: "#/detail/channel/yt_id%3AUC-lHJZR3Gqxm24_Vd_AJ5Yw"
+    - img
+    - text: PewDiePie
+  - text: Public Domain Movies - Movie
+  - link "See All":
+    - /url: "#/discover/https%3A%2F%2Fcaching.stremio.net%2Fpublicdomainmovies.now.sh%2Fmanifest.json/movie/publicdomainmovies"
+    - text: See All
+    - img
+  - link "The Kid":
+    - /url: "#/detail/movie/tt0012349"
+    - img
+    - text: The Kid
+  - link "Night of the Living Dead":
+    - /url: "#/detail/movie/tt0063350"
+    - img
+    - text: Night of the Living Dead
+  - link "Häxan":
+    - /url: "#/detail/movie/tt0013257"
+    - img
+    - text: Häxan
+  - link "The Killer Shrews":
+    - /url: "#/detail/movie/tt0052969"
+    - img
+    - text: The Killer Shrews
+  - link "The Satanic Rites of Dracula":
+    - /url: "#/detail/movie/tt0070634"
+    - img
+    - text: The Satanic Rites of Dracula
+  - link "Messiah of Evil":
+    - /url: "#/detail/movie/tt0071396"
+    - img
+    - text: Messiah of Evil
+  - link "House on Haunted Hill":
+    - /url: "#/detail/movie/tt0051744"
+    - img
+    - text: House on Haunted Hill
+  - text: Streaming server is not available.
+  - link "Install":
+    - /url: https://www.stremio.com/download-service
+  - text: Later Don't show again
+  - button "Choose File"

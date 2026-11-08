@@ -1,0 +1,9 @@
+{
+  "archive_unsigned_sha256": "f26b8176b3f7fc7a307b3fce62aa2d37d031f7c074692b422b1890c84df5b8a0",
+  "payload_signed_sha256": "5db038f0ac85f5e278ddb9fe1aad08417ff71d2f9029a868a558e4cdbe5313b9",
+  "unsigned_bytes": 79088128,
+  "signed_bytes": 79099368,
+  "normalized_sha256": "cc223b1035e37d3ca897fb859b32ccb6ba0013dece7091a3f5cc7dd2bc882b32",
+  "normalized_equal": true,
+  "normalization": "Zero PE checksum and Security Directory entry; remove trailing WIN_CERTIFICATE table. All other bytes must match."
+}

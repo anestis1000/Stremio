@@ -1,0 +1,42 @@
+[
+  {
+    "payload": "server.js",
+    "repo_path": "server.js",
+    "extracted_git_blob_sha1": "64006fdef92b5866907f2509a0e0c346b5cb832d",
+    "tag_git_blob_sha1": "64006fdef92b5866907f2509a0e0c346b5cb832d",
+    "tag_bytes": 6783122,
+    "byte_identical_git_blob": true
+  },
+  {
+    "payload": "stremio-runtime.exe",
+    "repo_path": "bin-arm64/stremio-runtime.exe",
+    "extracted_git_blob_sha1": "825d98abb26d4faebe96af2e3b9d35b5f82fd763",
+    "tag_git_blob_sha1": "825d98abb26d4faebe96af2e3b9d35b5f82fd763",
+    "tag_bytes": 64472040,
+    "byte_identical_git_blob": true
+  },
+  {
+    "payload": "ffmpeg.exe",
+    "repo_path": "bin-arm64/ffmpeg.exe",
+    "extracted_git_blob_sha1": "fc5e61db49010fd23cd868a8f38730625ab89d22",
+    "tag_git_blob_sha1": "fc5e61db49010fd23cd868a8f38730625ab89d22",
+    "tag_bytes": 47626216,
+    "byte_identical_git_blob": true
+  },
+  {
+    "payload": "ffprobe.exe",
+    "repo_path": "bin-arm64/ffprobe.exe",
+    "extracted_git_blob_sha1": "cafed81134e8a64139679db00109277dc8607f56",
+    "tag_git_blob_sha1": "cafed81134e8a64139679db00109277dc8607f56",
+    "tag_bytes": 47515112,
+    "byte_identical_git_blob": true
+  },
+  {
+    "payload": "libmpv-2.dll",
+    "repo_path": "mpv-arm64/libmpv-2.dll",
+    "extracted_git_blob_sha1": "24444e294370d9f051b7a2bb8b32ac1f2d32f2be",
+    "tag_git_blob_sha1": "e414e23668e4570b2f2d17acfdfe016ec0dbc158",
+    "tag_bytes": 51411456,
+    "byte_identical_git_blob": false
+  }
+]

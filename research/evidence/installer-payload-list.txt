@@ -1,0 +1,10 @@
+Warning: Unexpected filetime: 2050321930847
+Warning: Unexpected filetime: 31223834
+Warning: Unexpected filetime: 476
+Warning: Unexpected filetime: 0
+Stream error while parsing setup headers!
+ ├─ detected setup version: 6.4.3 (unicode)
+ └─ error reason: ios_base::clear: unspecified iostream_category error
+If you are sure the setup file is not corrupted, consider 
+filing a bug report at https://innoextract.constexpr.org/issues
+Done with 1 error and 4 warnings.

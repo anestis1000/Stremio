@@ -1,0 +1,1450 @@
+{
+  "stremio-shell-ng.exe": [
+    {
+      "offset": 2748077,
+      "text": "https://github.com/clap-rs/clap/issuesC:\\Users\\Vlado\\.rustup\\toolchains\\stable-x86_64-pc-windows-msvc\\lib/rustlib/src/rust\\library\\core\\src\\ops\\function.rs"
+    },
+    {
+      "offset": 2753352,
+      "text": "https://web.stremio.com/https://staging.strem.io/http://127.0.0.1:11470Failed"
+    },
+    {
+      "offset": 2754514,
+      "text": "stremio-runtime.exe"
+    },
+    {
+      "offset": 2754533,
+      "text": "server.js"
+    },
+    {
+      "offset": 2755589,
+      "text": "https://staging.strem.io/WEBUI_URLwebui-urlOverride"
+    },
+    {
+      "offset": 2761048,
+      "text": "https://web.stremio.com/Cannot"
+    },
+    {
+      "offset": 2762984,
+      "text": "https://www.stremio.com/warning#\ufffd@*@\u0001"
+    },
+    {
+      "offset": 2765369,
+      "text": "nativeAssSubtitles"
+    },
+    {
+      "offset": 2783432,
+      "text": "https://www.strem.io/updater/check?product=stremio-shell-nghttps://www.stremio.com/updater/check?product=stremio-shell-nghttps://www.stremio.net/updater/check?product=stremio-shell-ng"
+    },
+    {
+      "offset": 2784991,
+      "text": "mpv-prop-change"
+    },
+    {
+      "offset": 3126331,
+      "text": "https://docs.rs/getrandom#nodejs-es-module-support\u000fUnknown"
+    },
+    {
+      "offset": 3137789,
+      "text": "https://github.com/clap-rs/clap/issuesC:\\Users\\Vlado\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\clap_builder-4.5.2\\src\\parser\\arg_matcher.rs"
+    },
+    {
+      "offset": 3138765,
+      "text": "https://github.com/clap-rs/clap/issuesC:\\Users\\Vlado\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\clap_builder-4.5.2\\src\\parser\\matches\\arg_matches.rs"
+    },
+    {
+      "offset": 3139661,
+      "text": "https://github.com/clap-rs/clap/issues"
+    },
+    {
+      "offset": 3150467,
+      "text": "https://github.com/clap-rs/clap/issues"
+    },
+    {
+      "offset": 3151333,
+      "text": "https://github.com/clap-rs/clap/issuesC:\\Users\\Vlado\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\clap_builder-4.5.2\\src\\parser\\validator.rs"
+    },
+    {
+      "offset": 3152797,
+      "text": "https://github.com/clap-rs/clap/issuesC:\\Users\\Vlado\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\clap_builder-4.5.2\\src\\builder\\arg.rs"
+    },
+    {
+      "offset": 3440308,
+      "text": "stremio_shell_ng.pdb"
+    },
+    {
+      "offset": 4169857,
+      "text": "http://schemas.microsoft.com/SMI/2005/WindowsSettings"
+    },
+    {
+      "offset": 4169953,
+      "text": "http://schemas.microsoft.com/SMI/2016/WindowsSettings"
+    },
+    {
+      "offset": 4175440,
+      "text": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    },
+    {
+      "offset": 4175535,
+      "text": "http://ns.adobe.com/xap/1.0/mm/"
+    },
+    {
+      "offset": 4175585,
+      "text": "http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    },
+    {
+      "offset": 4175649,
+      "text": "http://purl.org/dc/elements/1.1/"
+    },
+    {
+      "offset": 4175699,
+      "text": "http://www.gimp.org/xmp/"
+    },
+    {
+      "offset": 4175741,
+      "text": "http://ns.adobe.com/tiff/1.0/"
+    },
+    {
+      "offset": 4175787,
+      "text": "http://ns.adobe.com/xap/1.0/"
+    },
+    {
+      "offset": 4204684,
+      "text": "http://crl.comodoca.com/AAACertificateServices.crl04\u0006\b+\u0006\u0001\u0005\u0005\u0007\u0001\u0001\u0004(0&0$\u0006\b+\u0006\u0001\u0005\u0005\u00070\u0001\ufffd\u0018http://ocsp.comodoca.com0"
+    },
+    {
+      "offset": 4206030,
+      "text": "http://ocsp.digicert.com0C\u0006\b+\u0006\u0001\u0005\u0005\u00070\u0002\ufffd7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0E\u0006\u0003U\u001d\u001f\u0004"
+    },
+    {
+      "offset": 4206142,
+      "text": "http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0\u0011\u0006\u0003U\u001d"
+    },
+    {
+      "offset": 4207340,
+      "text": "http://crl.sectigo.com/SectigoPublicCodeSigningRootR46.crl0{\u0006\b+\u0006\u0001\u0005\u0005\u0007\u0001\u0001\u0004o0m0F\u0006\b+\u0006\u0001\u0005\u0005\u00070\u0002\ufffd:http://crt.sectigo.com/SectigoPublicCodeSigningRootR46.p7c0#\u0006\b+\u0006\u0001\u0005\u0005\u00070\u0001\ufffd\u0017http://ocsp.sectigo.com0"
+    },
+    {
+      "offset": 4209027,
+      "text": "https://sectigo.com/CPS0\b\u0006\u0006g\ufffd"
+    },
+    {
+      "offset": 4209079,
+      "text": "http://crl.sectigo.com/SectigoPublicCodeSigningCAR36.crl0y\u0006\b+\u0006\u0001\u0005\u0005\u0007\u0001\u0001\u0004m0k0D\u0006\b+\u0006\u0001\u0005\u0005\u00070\u0002\ufffd8http://crt.sectigo.com/SectigoPublicCodeSigningCAR36.crt0#\u0006\b+\u0006\u0001\u0005\u0005\u00070\u0001\ufffd\u0017http://ocsp.sectigo.com0"
+    },
+    {
+      "offset": 4210656,
+      "text": "http://ocsp.digicert.com0A\u0006\b+\u0006\u0001\u0005\u0005\u00070\u0002\ufffd5http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C\u0006\u0003U\u001d\u001f\u0004"
+    },
+    {
+      "offset": 4210766,
+      "text": "http://crl3.digicert.com/DigiCertTrustedRootG4.crl0"
+    },
+    {
+      "offset": 4212377,
+      "text": "http://ocsp.digicert.com0]\u0006\b+\u0006\u0001\u0005\u0005\u00070\u0002\ufffdQhttp://cacerts.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crt0_\u0006\u0003U\u001d\u001f\u0004X0V0T\ufffdR\ufffdP\ufffdNhttp://crl3.digicert.com/DigiCertTrustedG4TimeSta"
+    }
+  ],
+  "libmpv-2.dll": [
+    {
+      "offset": 60718797,
+      "text": "FFmpeg version: %s"
+    },
+    {
+      "offset": 60725140,
+      "text": "mpv v0.41.0-524-g5921fe50b"
+    },
+    {
+      "offset": 61695744,
+      "text": "libass API version: 0x%X"
+    },
+    {
+      "offset": 62794317,
+      "text": "FFmpeg version to the newest one from Git. If the problem still occurs, it means that your file has a feature which has not been implemented.\n"
+    }
+  ],
+  "ffmpeg.exe": [
+    {
+      "offset": 36996244,
+      "text": "N-5712"
+    },
+    {
+      "offset": 40700227,
+      "text": "--enable-gpl"
+    },
+    {
+      "offset": 40700240,
+      "text": "--enable-version3"
+    },
+    {
+      "offset": 40700291,
+      "text": "--enable-libxml2"
+    },
+    {
+      "offset": 40700370,
+      "text": "--enable-libfreetype"
+    },
+    {
+      "offset": 40700391,
+      "text": "--enable-libfribidi"
+    },
+    {
+      "offset": 40700411,
+      "text": "--enable-libfontconfig"
+    },
+    {
+      "offset": 40700434,
+      "text": "--enable-libharfbuzz"
+    },
+    {
+      "offset": 40700455,
+      "text": "--enable-libass"
+    },
+    {
+      "offset": 40700471,
+      "text": "--enable-libbluray"
+    },
+    {
+      "offset": 40700490,
+      "text": "--enable-libmp3lame"
+    },
+    {
+      "offset": 40700510,
+      "text": "--enable-libopus"
+    },
+    {
+      "offset": 40700527,
+      "text": "--enable-libtheora"
+    },
+    {
+      "offset": 40700546,
+      "text": "--enable-libvorbis"
+    },
+    {
+      "offset": 40700565,
+      "text": "--enable-libopenmpt"
+    },
+    {
+      "offset": 40700585,
+      "text": "--enable-libwebp"
+    },
+    {
+      "offset": 40700602,
+      "text": "--enable-libvpx"
+    },
+    {
+      "offset": 40700618,
+      "text": "--enable-libzimg"
+    },
+    {
+      "offset": 40700635,
+      "text": "--enable-libx264"
+    },
+    {
+      "offset": 40700652,
+      "text": "--enable-libx265"
+    },
+    {
+      "offset": 40700669,
+      "text": "--enable-libsvtav1"
+    },
+    {
+      "offset": 40700688,
+      "text": "--enable-libdav1d"
+    },
+    {
+      "offset": 40700706,
+      "text": "--enable-libfdk-aac"
+    },
+    {
+      "offset": 40701214,
+      "text": "--enable-gpl"
+    },
+    {
+      "offset": 40701227,
+      "text": "--enable-version3"
+    },
+    {
+      "offset": 40701278,
+      "text": "--enable-libxml2"
+    },
+    {
+      "offset": 40701357,
+      "text": "--enable-libfreetype"
+    },
+    {
+      "offset": 40701378,
+      "text": "--enable-libfribidi"
+    },
+    {
+      "offset": 40701398,
+      "text": "--enable-libfontconfig"
+    },
+    {
+      "offset": 40701421,
+      "text": "--enable-libharfbuzz"
+    },
+    {
+      "offset": 40701442,
+      "text": "--enable-libass"
+    },
+    {
+      "offset": 40701458,
+      "text": "--enable-libbluray"
+    },
+    {
+      "offset": 40701477,
+      "text": "--enable-libmp3lame"
+    },
+    {
+      "offset": 40701497,
+      "text": "--enable-libopus"
+    },
+    {
+      "offset": 40701514,
+      "text": "--enable-libtheora"
+    },
+    {
+      "offset": 40701533,
+      "text": "--enable-libvorbis"
+    },
+    {
+      "offset": 40701552,
+      "text": "--enable-libopenmpt"
+    },
+    {
+      "offset": 40701572,
+      "text": "--enable-libwebp"
+    },
+    {
+      "offset": 40701589,
+      "text": "--enable-libvpx"
+    },
+    {
+      "offset": 40701605,
+      "text": "--enable-libzimg"
+    },
+    {
+      "offset": 40701622,
+      "text": "--enable-libx264"
+    },
+    {
+      "offset": 40701639,
+      "text": "--enable-libx265"
+    },
+    {
+      "offset": 40701656,
+      "text": "--enable-libsvtav1"
+    },
+    {
+      "offset": 40701675,
+      "text": "--enable-libdav1d"
+    },
+    {
+      "offset": 40701693,
+      "text": "--enable-libfdk-aac"
+    },
+    {
+      "offset": 40706481,
+      "text": "--enable-gpl"
+    },
+    {
+      "offset": 40706494,
+      "text": "--enable-version3"
+    },
+    {
+      "offset": 40706545,
+      "text": "--enable-libxml2"
+    },
+    {
+      "offset": 40706624,
+      "text": "--enable-libfreetype"
+    },
+    {
+      "offset": 40706645,
+      "text": "--enable-libfribidi"
+    },
+    {
+      "offset": 40706665,
+      "text": "--enable-libfontconfig"
+    },
+    {
+      "offset": 40706688,
+      "text": "--enable-libharfbuzz"
+    },
+    {
+      "offset": 40706709,
+      "text": "--enable-libass"
+    },
+    {
+      "offset": 40706725,
+      "text": "--enable-libbluray"
+    },
+    {
+      "offset": 40706744,
+      "text": "--enable-libmp3lame"
+    },
+    {
+      "offset": 40706764,
+      "text": "--enable-libopus"
+    },
+    {
+      "offset": 40706781,
+      "text": "--enable-libtheora"
+    },
+    {
+      "offset": 40706800,
+      "text": "--enable-libvorbis"
+    },
+    {
+      "offset": 40706819,
+      "text": "--enable-libopenmpt"
+    },
+    {
+      "offset": 40706839,
+      "text": "--enable-libwebp"
+    },
+    {
+      "offset": 40706856,
+      "text": "--enable-libvpx"
+    },
+    {
+      "offset": 40706872,
+      "text": "--enable-libzimg"
+    },
+    {
+      "offset": 40706889,
+      "text": "--enable-libx264"
+    },
+    {
+      "offset": 40706906,
+      "text": "--enable-libx265"
+    },
+    {
+      "offset": 40706923,
+      "text": "--enable-libsvtav1"
+    },
+    {
+      "offset": 40706942,
+      "text": "--enable-libdav1d"
+    },
+    {
+      "offset": 40706960,
+      "text": "--enable-libfdk-aac"
+    },
+    {
+      "offset": 40718097,
+      "text": "--enable-gpl"
+    },
+    {
+      "offset": 40718110,
+      "text": "--enable-version3"
+    },
+    {
+      "offset": 40718161,
+      "text": "--enable-libxml2"
+    },
+    {
+      "offset": 40718240,
+      "text": "--enable-libfreetype"
+    },
+    {
+      "offset": 40718261,
+      "text": "--enable-libfribidi"
+    },
+    {
+      "offset": 40718281,
+      "text": "--enable-libfontconfig"
+    },
+    {
+      "offset": 40718304,
+      "text": "--enable-libharfbuzz"
+    },
+    {
+      "offset": 40718325,
+      "text": "--enable-libass"
+    },
+    {
+      "offset": 40718341,
+      "text": "--enable-libbluray"
+    },
+    {
+      "offset": 40718360,
+      "text": "--enable-libmp3lame"
+    },
+    {
+      "offset": 40718380,
+      "text": "--enable-libopus"
+    },
+    {
+      "offset": 40718397,
+      "text": "--enable-libtheora"
+    },
+    {
+      "offset": 40718416,
+      "text": "--enable-libvorbis"
+    },
+    {
+      "offset": 40718435,
+      "text": "--enable-libopenmpt"
+    },
+    {
+      "offset": 40718455,
+      "text": "--enable-libwebp"
+    },
+    {
+      "offset": 40718472,
+      "text": "--enable-libvpx"
+    },
+    {
+      "offset": 40718488,
+      "text": "--enable-libzimg"
+    },
+    {
+      "offset": 40718505,
+      "text": "--enable-libx264"
+    },
+    {
+      "offset": 40718522,
+      "text": "--enable-libx265"
+    },
+    {
+      "offset": 40718539,
+      "text": "--enable-libsvtav1"
+    },
+    {
+      "offset": 40718558,
+      "text": "--enable-libdav1d"
+    },
+    {
+      "offset": 40718576,
+      "text": "--enable-libfdk-aac"
+    },
+    {
+      "offset": 40755149,
+      "text": "--enable-gpl"
+    },
+    {
+      "offset": 40755162,
+      "text": "--enable-version3"
+    },
+    {
+      "offset": 40755213,
+      "text": "--enable-libxml2"
+    },
+    {
+      "offset": 40755292,
+      "text": "--enable-libfreetype"
+    },
+    {
+      "offset": 40755313,
+      "text": "--enable-libfribidi"
+    },
+    {
+      "offset": 40755333,
+      "text": "--enable-libfontconfig"
+    },
+    {
+      "offset": 40755356,
+      "text": "--enable-libharfbuzz"
+    },
+    {
+      "offset": 40755377,
+      "text": "--enable-libass"
+    },
+    {
+      "offset": 40755393,
+      "text": "--enable-libbluray"
+    },
+    {
+      "offset": 40755412,
+      "text": "--enable-libmp3lame"
+    },
+    {
+      "offset": 40755432,
+      "text": "--enable-libopus"
+    },
+    {
+      "offset": 40755449,
+      "text": "--enable-libtheora"
+    },
+    {
+      "offset": 40755468,
+      "text": "--enable-libvorbis"
+    },
+    {
+      "offset": 40755487,
+      "text": "--enable-libopenmpt"
+    },
+    {
+      "offset": 40755507,
+      "text": "--enable-libwebp"
+    },
+    {
+      "offset": 40755524,
+      "text": "--enable-libvpx"
+    },
+    {
+      "offset": 40755540,
+      "text": "--enable-libzimg"
+    },
+    {
+      "offset": 40755557,
+      "text": "--enable-libx264"
+    },
+    {
+      "offset": 40755574,
+      "text": "--enable-libx265"
+    },
+    {
+      "offset": 40755591,
+      "text": "--enable-libsvtav1"
+    },
+    {
+      "offset": 40755610,
+      "text": "--enable-libdav1d"
+    },
+    {
+      "offset": 40755628,
+      "text": "--enable-libfdk-aac"
+    },
+    {
+      "offset": 40800737,
+      "text": "--enable-gpl"
+    },
+    {
+      "offset": 40800750,
+      "text": "--enable-version3"
+    },
+    {
+      "offset": 40800801,
+      "text": "--enable-libxml2"
+    },
+    {
+      "offset": 40800880,
+      "text": "--enable-libfreetype"
+    },
+    {
+      "offset": 40800901,
+      "text": "--enable-libfribidi"
+    },
+    {
+      "offset": 40800921,
+      "text": "--enable-libfontconfig"
+    },
+    {
+      "offset": 40800944,
+      "text": "--enable-libharfbuzz"
+    },
+    {
+      "offset": 40800965,
+      "text": "--enable-libass"
+    },
+    {
+      "offset": 40800981,
+      "text": "--enable-libbluray"
+    },
+    {
+      "offset": 40801000,
+      "text": "--enable-libmp3lame"
+    },
+    {
+      "offset": 40801020,
+      "text": "--enable-libopus"
+    },
+    {
+      "offset": 40801037,
+      "text": "--enable-libtheora"
+    },
+    {
+      "offset": 40801056,
+      "text": "--enable-libvorbis"
+    },
+    {
+      "offset": 40801075,
+      "text": "--enable-libopenmpt"
+    },
+    {
+      "offset": 40801095,
+      "text": "--enable-libwebp"
+    },
+    {
+      "offset": 40801112,
+      "text": "--enable-libvpx"
+    },
+    {
+      "offset": 40801128,
+      "text": "--enable-libzimg"
+    },
+    {
+      "offset": 40801145,
+      "text": "--enable-libx264"
+    },
+    {
+      "offset": 40801162,
+      "text": "--enable-libx265"
+    },
+    {
+      "offset": 40801179,
+      "text": "--enable-libsvtav1"
+    },
+    {
+      "offset": 40801198,
+      "text": "--enable-libdav1d"
+    },
+    {
+      "offset": 40801216,
+      "text": "--enable-libfdk-aac"
+    },
+    {
+      "offset": 40849801,
+      "text": "--enable-gpl"
+    },
+    {
+      "offset": 40849814,
+      "text": "--enable-version3"
+    },
+    {
+      "offset": 40849865,
+      "text": "--enable-libxml2"
+    },
+    {
+      "offset": 40849944,
+      "text": "--enable-libfreetype"
+    },
+    {
+      "offset": 40849965,
+      "text": "--enable-libfribidi"
+    },
+    {
+      "offset": 40849985,
+      "text": "--enable-libfontconfig"
+    },
+    {
+      "offset": 40850008,
+      "text": "--enable-libharfbuzz"
+    },
+    {
+      "offset": 40850029,
+      "text": "--enable-libass"
+    },
+    {
+      "offset": 40850045,
+      "text": "--enable-libbluray"
+    },
+    {
+      "offset": 40850064,
+      "text": "--enable-libmp3lame"
+    },
+    {
+      "offset": 40850084,
+      "text": "--enable-libopus"
+    },
+    {
+      "offset": 40850101,
+      "text": "--enable-libtheora"
+    },
+    {
+      "offset": 40850120,
+      "text": "--enable-libvorbis"
+    },
+    {
+      "offset": 40850139,
+      "text": "--enable-libopenmpt"
+    },
+    {
+      "offset": 40850159,
+      "text": "--enable-libwebp"
+    },
+    {
+      "offset": 40850176,
+      "text": "--enable-libvpx"
+    },
+    {
+      "offset": 40850192,
+      "text": "--enable-libzimg"
+    },
+    {
+      "offset": 40850209,
+      "text": "--enable-libx264"
+    },
+    {
+      "offset": 40850226,
+      "text": "--enable-libx265"
+    },
+    {
+      "offset": 40850243,
+      "text": "--enable-libsvtav1"
+    },
+    {
+      "offset": 40850262,
+      "text": "--enable-libdav1d"
+    },
+    {
+      "offset": 40850280,
+      "text": "--enable-libfdk-aac"
+    },
+    {
+      "offset": 40857737,
+      "text": "--enable-gpl"
+    },
+    {
+      "offset": 40857750,
+      "text": "--enable-version3"
+    },
+    {
+      "offset": 40857801,
+      "text": "--enable-libxml2"
+    },
+    {
+      "offset": 40857880,
+      "text": "--enable-libfreetype"
+    },
+    {
+      "offset": 40857901,
+      "text": "--enable-libfribidi"
+    },
+    {
+      "offset": 40857921,
+      "text": "--enable-libfontconfig"
+    },
+    {
+      "offset": 40857944,
+      "text": "--enable-libharfbuzz"
+    },
+    {
+      "offset": 40857965,
+      "text": "--enable-libass"
+    },
+    {
+      "offset": 40857981,
+      "text": "--enable-libbluray"
+    },
+    {
+      "offset": 40858000,
+      "text": "--enable-libmp3lame"
+    },
+    {
+      "offset": 40858020,
+      "text": "--enable-libopus"
+    },
+    {
+      "offset": 40858037,
+      "text": "--enable-libtheora"
+    },
+    {
+      "offset": 40858056,
+      "text": "--enable-libvorbis"
+    },
+    {
+      "offset": 40858075,
+      "text": "--enable-libopenmpt"
+    },
+    {
+      "offset": 40858095,
+      "text": "--enable-libwebp"
+    },
+    {
+      "offset": 40858112,
+      "text": "--enable-libvpx"
+    },
+    {
+      "offset": 40858128,
+      "text": "--enable-libzimg"
+    },
+    {
+      "offset": 40858145,
+      "text": "--enable-libx264"
+    },
+    {
+      "offset": 40858162,
+      "text": "--enable-libx265"
+    },
+    {
+      "offset": 40858179,
+      "text": "--enable-libsvtav1"
+    },
+    {
+      "offset": 40858198,
+      "text": "--enable-libdav1d"
+    },
+    {
+      "offset": 40858216,
+      "text": "--enable-libfdk-aac"
+    },
+    {
+      "offset": 40866057,
+      "text": "--enable-gpl"
+    },
+    {
+      "offset": 40866070,
+      "text": "--enable-version3"
+    },
+    {
+      "offset": 40866121,
+      "text": "--enable-libxml2"
+    },
+    {
+      "offset": 40866200,
+      "text": "--enable-libfreetype"
+    },
+    {
+      "offset": 40866221,
+      "text": "--enable-libfribidi"
+    },
+    {
+      "offset": 40866241,
+      "text": "--enable-libfontconfig"
+    },
+    {
+      "offset": 40866264,
+      "text": "--enable-libharfbuzz"
+    },
+    {
+      "offset": 40866285,
+      "text": "--enable-libass"
+    },
+    {
+      "offset": 40866301,
+      "text": "--enable-libbluray"
+    },
+    {
+      "offset": 40866320,
+      "text": "--enable-libmp3lame"
+    },
+    {
+      "offset": 40866340,
+      "text": "--enable-libopus"
+    },
+    {
+      "offset": 40866357,
+      "text": "--enable-libtheora"
+    },
+    {
+      "offset": 40866376,
+      "text": "--enable-libvorbis"
+    },
+    {
+      "offset": 40866395,
+      "text": "--enable-libopenmpt"
+    },
+    {
+      "offset": 40866415,
+      "text": "--enable-libwebp"
+    },
+    {
+      "offset": 40866432,
+      "text": "--enable-libvpx"
+    },
+    {
+      "offset": 40866448,
+      "text": "--enable-libzimg"
+    },
+    {
+      "offset": 40866465,
+      "text": "--enable-libx264"
+    },
+    {
+      "offset": 40866482,
+      "text": "--enable-libx265"
+    },
+    {
+      "offset": 40866499,
+      "text": "--enable-libsvtav1"
+    },
+    {
+      "offset": 40866518,
+      "text": "--enable-libdav1d"
+    },
+    {
+      "offset": 40866536,
+      "text": "--enable-libfdk-aac"
+    },
+    {
+      "offset": 40900465,
+      "text": "FFmpeg version to the newest one from Git. If the problem still occurs, it means that your file has a feature which has not been implemented.\n"
+    },
+    {
+      "offset": 40924252,
+      "text": "--enable-gpl"
+    },
+    {
+      "offset": 40924265,
+      "text": "--enable-version3"
+    },
+    {
+      "offset": 40924316,
+      "text": "--enable-libxml2"
+    },
+    {
+      "offset": 40924395,
+      "text": "--enable-libfreetype"
+    },
+    {
+      "offset": 40924416,
+      "text": "--enable-libfribidi"
+    },
+    {
+      "offset": 40924436,
+      "text": "--enable-libfontconfig"
+    },
+    {
+      "offset": 40924459,
+      "text": "--enable-libharfbuzz"
+    },
+    {
+      "offset": 40924480,
+      "text": "--enable-libass"
+    },
+    {
+      "offset": 40924496,
+      "text": "--enable-libbluray"
+    },
+    {
+      "offset": 40924515,
+      "text": "--enable-libmp3lame"
+    },
+    {
+      "offset": 40924535,
+      "text": "--enable-libopus"
+    },
+    {
+      "offset": 40924552,
+      "text": "--enable-libtheora"
+    },
+    {
+      "offset": 40924571,
+      "text": "--enable-libvorbis"
+    },
+    {
+      "offset": 40924590,
+      "text": "--enable-libopenmpt"
+    },
+    {
+      "offset": 40924610,
+      "text": "--enable-libwebp"
+    },
+    {
+      "offset": 40924627,
+      "text": "--enable-libvpx"
+    },
+    {
+      "offset": 40924643,
+      "text": "--enable-libzimg"
+    },
+    {
+      "offset": 40924660,
+      "text": "--enable-libx264"
+    },
+    {
+      "offset": 40924677,
+      "text": "--enable-libx265"
+    },
+    {
+      "offset": 40924694,
+      "text": "--enable-libsvtav1"
+    },
+    {
+      "offset": 40924713,
+      "text": "--enable-libdav1d"
+    },
+    {
+      "offset": 40924731,
+      "text": "--enable-libfdk-aac"
+    }
+  ],
+  "stremio-runtime.exe": [
+    {
+      "offset": 21172071,
+      "text": "Node.js installation.\r\n  const prefixDir = isWindows ?\r\n    path.resolve(process.execPa"
+    },
+    {
+      "offset": 21234432,
+      "text": "Node.js default load hook.\r\n * @param {string} url\r\n * @param {LoadContext} context\r\n *"
+    },
+    {
+      "offset": 21372920,
+      "text": "Node.js, a referrer is represented by a wrapper object of these records.\r\n * A referrer"
+    },
+    {
+      "offset": 21395271,
+      "text": "Node.js' public modules to user code.\r\n * @param {string} id - The identifier/specifier"
+    },
+    {
+      "offset": 21417370,
+      "text": "Node.js/${StringPrototypeSlice(nodeVersion, 1, StringPrototypeIndexOf(nodeVersion, '.')"
+    },
+    {
+      "offset": 21428043,
+      "text": "Node.js's builtin modules do not need to later look these up from\r\n// the global proxy,"
+    },
+    {
+      "offset": 21480310,
+      "text": "Node.js specific extensions.\r\n  eventLoopUtilization: {\r\n    __proto__: null,\r\n    conf"
+    },
+    {
+      "offset": 21480421,
+      "text": "Node.js specific extensions.\r\n    enumerable: false,\r\n    writable: true,\r\n    value: e"
+    },
+    {
+      "offset": 21480607,
+      "text": "Node.js specific extensions.\r\n    enumerable: false,\r\n    writable: true,\r\n    value: n"
+    },
+    {
+      "offset": 21480818,
+      "text": "Node.js dependency, not a internal module\r\n  markResourceTiming: {\r\n    __proto__: null"
+    },
+    {
+      "offset": 21480940,
+      "text": "Node.js specific extensions.\r\n    enumerable: false,\r\n    writable: true,\r\n    value: m"
+    },
+    {
+      "offset": 21481122,
+      "text": "Node.js specific extensions.\r\n    enumerable: false,\r\n    writable: true,\r\n    value: t"
+    },
+    {
+      "offset": 21484311,
+      "text": "Node.js specific extension to PerformanceEntry.\r\n */\r\nclass PerformanceNodeEntry extend"
+    },
+    {
+      "offset": 21654495,
+      "text": "node-v0."
+    },
+    {
+      "offset": 21737470,
+      "text": "Node.js style guide.\r\n\r\n// Copyright 2013 the V8 project authors. All rights reserved.\r"
+    },
+    {
+      "offset": 21824432,
+      "text": "Node.js that do not include\r\n  // the prependListener() method. The goal is to eventual"
+    },
+    {
+      "offset": 22110063,
+      "text": "Node.js error first callbacks.\r\n        const { promise, cb } = createDeferredCallback("
+    },
+    {
+      "offset": 22206487,
+      "text": "Node.js built without crypto support, we'll fall\r\n    // through here and handle it lat"
+    },
+    {
+      "offset": 22212857,
+      "text": "Node.js merges the iteration and converting\r\n        // iterations into a single iterat"
+    },
+    {
+      "offset": 22396400,
+      "text": "Node.js with features from the VM inspector\r\nfunction wrapConsole(consoleFromNode) {\r\n "
+    },
+    {
+      "offset": 22633110,
+      "text": "Node.js implementation of\r\n// DOMException is not transferable/cloneable. This provides"
+    },
+    {
+      "offset": 22739692,
+      "text": "Node.js specific and not part of the standard\r\n  // BroadcastChannel API definition. Ty"
+    },
+    {
+      "offset": 22739836,
+      "text": "Node.js specific methods but ref and unref\r\n  // are a bit special.\r\n  /**\r\n   * @retur"
+    },
+    {
+      "offset": 22740159,
+      "text": "Node.js specific and not part of the standard\r\n  // BroadcastChannel API definition. Ty"
+    },
+    {
+      "offset": 22740303,
+      "text": "Node.js specific methods but ref and unref\r\n  // are a bit special.\r\n  /**\r\n   * @retur"
+    },
+    {
+      "offset": 22742426,
+      "text": "Node.js internals.\r\n      // eslint-disable-next-line no-restricted-syntax\r\n      throw"
+    },
+    {
+      "offset": 22953271,
+      "text": "Node.js ' +\r\n                'REPL, alternatively use dynamic import: ' + toDynamicImpo"
+    },
+    {
+      "offset": 22959936,
+      "text": "Node.js REPL, in your normal shell.\\n' +\r\n                                '(Press Ctrl+"
+    },
+    {
+      "offset": 23063556,
+      "text": "Node.js will throw an error.`;\r\n        process.emitWarning(detail, 'DeprecationWarning"
+    },
+    {
+      "offset": 23137182,
+      "text": "Node.js\r\n// that have this concept, where it stands for the number of bytes read\r\n// *f"
+    },
+    {
+      "offset": 24928779,
+      "text": "Node.js process + fork.\r\n * @param {string|URL} modulePath\r\n * @param {string[]} [args]"
+    },
+    {
+      "offset": 25189454,
+      "text": "Node.js process open on it's own. Therefore, we wrap\r\n// the AbortSignal in a WeakRef a"
+    },
+    {
+      "offset": 25227786,
+      "text": "Node.js modules!\r\n    if (StringPrototypeStartsWith(filename, 'node:') &&\r\n        Buil"
+    },
+    {
+      "offset": 25269394,
+      "text": "Node.js core before main scripts\r\n// under `lib/internal/main/` are executed.\r\n//\r\n// B"
+    },
+    {
+      "offset": 25269492,
+      "text": "Node.js binaries come with an embedded V8 startup snapshot\r\n// that is generated at bui"
+    },
+    {
+      "offset": 25269899,
+      "text": "Node.js deserializes the heap from the snapshot, instead of actually\r\n// running this s"
+    },
+    {
+      "offset": 25270127,
+      "text": "Node.js actually runs this script to initialize the heap.\r\n//\r\n// This script is expect"
+    },
+    {
+      "offset": 25271684,
+      "text": "Node.js instance by executing the scripts in\r\n// `lib/internal/bootstrap/switches/`.\r\n/"
+    },
+    {
+      "offset": 25271804,
+      "text": "Node.js instance is launched, one of the main\r\n// scripts in `lib/internal/main` will b"
+    },
+    {
+      "offset": 25284011,
+      "text": "Node.js, including\r\n// the context of main thread, worker threads, and ShadowRealms.\r\n/"
+    },
+    {
+      "offset": 25284654,
+      "text": "Node.js. It creates the following objects:\r\n//\r\n// C++ binding loaders:\r\n// - process.b"
+    },
+    {
+      "offset": 25291515,
+      "text": "Node.js.\r\n * Be careful not to expose this to user land unless --expose-internals is\r\n "
+    },
+    {
+      "offset": 25300244,
+      "text": "Node.js environment.\r\n   */\r\n]);\r\n\r\nprepareShadowRealmExecution();\r\n"
+    },
+    {
+      "offset": 25448733,
+      "text": "Node.js, the Console constructor has been exposed through\r\n// require('console'), we ne"
+    },
+    {
+      "offset": 25476269,
+      "text": "Node.js crypto API. It exposes\r\n// a stream-based encryption/decryption model. For back"
+    },
+    {
+      "offset": 25479015,
+      "text": "Node.js crypto API. It exposes\r\n// a stream-based encryption/decryption model. For back"
+    },
+    {
+      "offset": 25480249,
+      "text": "Node.js crypto API. It exposes\r\n// a stream-based encryption/decryption model. For back"
+    },
+    {
+      "offset": 25480876,
+      "text": "Node.js crypto API. It exposes\r\n// a stream-based encryption/decryption model. For back"
+    },
+    {
+      "offset": 25544733,
+      "text": "Node.js CryptoKey, and vice versa. It\r\n// would be fantastic if we could find a way of "
+    },
+    {
+      "offset": 25602284,
+      "text": "Node.js from Deno's implementation\r\n// https://github.com/denoland/deno/blob/v1.29.1/ex"
+    },
+    {
+      "offset": 25636378,
+      "text": "Node.js style error here instead of a DOMException because\r\n  // the WebCrypto spec is "
+    },
+    {
+      "offset": 25681483,
+      "text": "Node.js. ' +\r\n                           'Please report this bug.\\n' +\r\n               "
+    },
+    {
+      "offset": 25770773,
+      "text": "Node.js encoding.\r\n      this[kHandle] = new (lazyStringDecoder())(enc);\r\n      this[kF"
+    },
+    {
+      "offset": 25780416,
+      "text": "Node.js to no\r\n// longer be forced to treat every error message change as a semver-majo"
+    },
+    {
+      "offset": 25795255,
+      "text": "Node.js core errors.\r\n * @template {(...args: unknown[]) => unknown} T\r\n * @param {T} f"
+    },
+    {
+      "offset": 25808480,
+      "text": "Node.js error.\r\n * @param {string} message The error message.\r\n * @param {object} error"
+    },
+    {
+      "offset": 25812908,
+      "text": "Node.js specific errors must begin with the prefix ERR_\r\n\r\nE('ERR_ACCESS_DENIED',\r\n  fu"
+    },
+    {
+      "offset": 25817617,
+      "text": "Node.js',\r\n  TypeError);\r\nE('ERR_FS_CP_DIR_TO_NON_DIR',\r\n  'Cannot overwrite non-direct"
+    },
+    {
+      "offset": 25826150,
+      "text": "Node.js ' +\r\n    'or incorrect usage of Node.js internals.\\n' +\r\n    'Please open an is"
+    },
+    {
+      "offset": 25837528,
+      "text": "Node.js is not compiled with OpenSSL crypto support', Error);\r\nE('ERR_NO_ICU',\r\n  '%s i"
+    },
+    {
+      "offset": 25837634,
+      "text": "Node.js compiled without ICU', TypeError);\r\nE('ERR_OPERATION_FAILED', 'Operation failed"
+    },
+    {
+      "offset": 25857215,
+      "text": "Node.js and are provided purely for\r\n  // API completeness.\r\n  /**\r\n   * @returns {Even"
+    },
+    {
+      "offset": 26033886,
+      "text": "Node.js, fs.rmdir(path, { recursive: true }) ' +\r\n      'will be removed. Use fs.rm(pat"
+    },
+    {
+      "offset": 26120392,
+      "text": "Node.js');\r\n\r\n  debugSession(type, 'setting up session handle');\r\n  this[kState].flags "
+    },
+    {
+      "offset": 26155000,
+      "text": "Node.js');\r\n  }\r\n\r\n  [kAfterAsyncWrite]({ bytes }) {\r\n    this[kState].writeQueueSize -"
+    },
+    {
+      "offset": 26205354,
+      "text": "Node.js core as a performance optimization.\r\nconst { sessionState, streamState } = bind"
+    },
+    {
+      "offset": 26257698,
+      "text": "Node.js issue tracker: ' +\r\n        'https://github.com/nodejs/node/issues');\r\n      wa"
+    },
+    {
+      "offset": 26261939,
+      "text": "Node.js module ' +\r\n    'which will be loaded in place of the built-in REPL' }],\r\n  ['N"
+    },
+    {
+      "offset": 26262134,
+      "text": "Node.js startup' }],\r\n  ['NODE_TLS_REJECT_UNAUTHORIZED', { helpText: 'set to 0 to disab"
+    },
+    {
+      "offset": 26269201,
+      "text": "Node.js ${process.version}.\\n` +\r\n      'Type \".help\" for more information.');\r\n\r\n    c"
+    },
+    {
+      "offset": 26657032,
+      "text": "node.js/v20.19.6"
+    },
+    {
+      "offset": 26685616,
+      "text": "Node.js"
+    },
+    {
+      "offset": 26737669,
+      "text": "Node.js.\nPlease use either the version of npm that is bundled with Node.js, or a versio"
+    },
+    {
+      "offset": 26737832,
+      "text": "Node.js 9 and above.\n"
+    },
+    {
+      "offset": 26823782,
+      "text": "Node.js version %s\n"
+    },
+    {
+      "offset": 26823814,
+      "text": "Node.js arch %s\n"
+    },
+    {
+      "offset": 26823838,
+      "text": "Node.js platform %s\n"
+    },
+    {
+      "offset": 26824712,
+      "text": "v20.19.6"
+    },
+    {
+      "offset": 26824797,
+      "text": "Node.js version %s and the current Node.js version is %s.\n"
+    },
+    {
+      "offset": 26827377,
+      "text": "Node.js versions\n"
+    },
+    {
+      "offset": 26854016,
+      "text": "Node.js report file: "
+    },
+    {
+      "offset": 26854081,
+      "text": "Node.js report to file: "
+    },
+    {
+      "offset": 26854113,
+      "text": "Node.js report completed"
+    },
+    {
+      "offset": 26894294,
+      "text": "Node.js version"
+    },
+    {
+      "offset": 26895560,
+      "text": "Node.js static code to large pages. Options are 'off' (the default value, meaning do no"
+    },
+    {
+      "offset": 26895896,
+      "text": "Node.js itself"
+    },
+    {
+      "offset": 26901412,
+      "text": "v20.19.6"
+    },
+    {
+      "offset": 26901421,
+      "text": "node-v20.19.6."
+    },
+    {
+      "offset": 26901492,
+      "text": "v20.19.6"
+    },
+    {
+      "offset": 26901501,
+      "text": "node-v20.19.6"
+    },
+    {
+      "offset": 26901572,
+      "text": "v20.19.6"
+    },
+    {
+      "offset": 26986137,
+      "text": "Node.js %s\n"
+    },
+    {
+      "offset": 27031649,
+      "text": "Node.js version using\nNODE_MODULE_VERSION %d. This version of Node.js requires\nNODE_MOD"
+    },
+    {
+      "offset": 27034478,
+      "text": "Node.js only supports version "
+    },
+    {
+      "offset": 27044086,
+      "text": "Node.js was built without embedded snapshot.\n"
+    },
+    {
+      "offset": 27045796,
+      "text": "Node.js environment"
+    },
+    {
+      "offset": 62502640,
+      "text": "Node.js is only supported on Windows 8.1, Windows Server 2012 R2, or higher.\nSetting th"
+    },
+    {
+      "offset": 62502802,
+      "text": "Node.js might not execute correctly. Any issues encountered on\nunsupported platforms wi"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "digest_algorithm": "sha256",
+  "expected_authenticode_digest": "0a04ebb1d29c651f3d34e631aa5eb8d04496e26d41ec5c3ae76cacf4e9f73f87",
+  "computed_authenticode_digest": "0a04ebb1d29c651f3d34e631aa5eb8d04496e26d41ec5c3ae76cacf4e9f73f87",
+  "digest_matches": true,
+  "sections": [
+    {
+      "name": ".text",
+      "offset": 1024,
+      "bytes": 698368
+    },
+    {
+      "name": ".itext",
+      "offset": 699392,
+      "bytes": 6144
+    },
+    {
+      "name": ".data",
+      "offset": 705536,
+      "bytes": 15360
+    },
+    {
+      "name": ".bss",
+      "offset": 0,
+      "bytes": 0
+    },
+    {
+      "name": ".idata",
+      "offset": 720896,
+      "bytes": 4608
+    },
+    {
+      "name": ".didata",
+      "offset": 725504,
+      "bytes": 512
+    },
+    {
+      "name": ".edata",
+      "offset": 726016,
+      "bytes": 512
+    },
+    {
+      "name": ".tls",
+      "offset": 0,
+      "bytes": 0
+    },
+    {
+      "name": ".rdata",
+      "offset": 726528,
+      "bytes": 512
+    },
+    {
+      "name": ".reloc",
+      "offset": 727040,
+      "bytes": 70656
+    },
+    {
+      "name": ".rsrc",
+      "offset": 797696,
+      "bytes": 122880
+    }
+  ],
+  "limitations": [
+    "Checks the embedded content digest only; certificate chain, RSA signature, revocation and timestamp trust have not been validated."
+  ]
+}
