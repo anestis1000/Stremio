@@ -26,7 +26,7 @@ struct ContentView: View {
         .preferredColorScheme(store.appearance.colorScheme)
         .task { await store.bootstrap() }
         .onOpenURL { store.pendingAddonURL = $0.absoluteString }
-        .sheet(item: $store.playback) { request in PlayerView(request: request) }
+        .fullScreenCover(item: $store.playback) { request in PlayerView(request: request) }
         .sheet(isPresented: $store.showOpenStream) { OpenStreamView() }
         .sheet(item: $store.pendingAddon) { request in InstallAddonView(initialURL: request.url) }
         .onChange(of: store.pendingAddonURL) { _, value in

@@ -1,0 +1,1638 @@
+{
+  "sha": "d9194243bdc68b87d8989376ab52aee7da6c8e0b",
+  "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/d9194243bdc68b87d8989376ab52aee7da6c8e0b",
+  "tree": [
+    {
+      "path": ".github",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5929ee9d43ae1be292f862fddb13cfcfd2a56694",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/5929ee9d43ae1be292f862fddb13cfcfd2a56694"
+    },
+    {
+      "path": ".github/FUNDING.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7abf74847b8a784f59930bfa9b7c86e73148ff4d",
+      "size": 64,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/7abf74847b8a784f59930bfa9b7c86e73148ff4d"
+    },
+    {
+      "path": ".github/workflows",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "329abd50d995160a165b50ab7b2ec5dc9736b5b8",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/329abd50d995160a165b50ab7b2ec5dc9736b5b8"
+    },
+    {
+      "path": ".github/workflows/build.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2602c99513e5b6579bde049111b4362236a78ed1",
+      "size": 7898,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/2602c99513e5b6579bde049111b4362236a78ed1"
+    },
+    {
+      "path": ".github/workflows/check_version.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "63ba1691ed543ca77fef0df5db1cb3b2821efea1",
+      "size": 15307,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/63ba1691ed543ca77fef0df5db1cb3b2821efea1"
+    },
+    {
+      "path": ".github/workflows/ci.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "417c810ae5d17af3fe708c53ac468a86e2048689",
+      "size": 2456,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/417c810ae5d17af3fe708c53ac468a86e2048689"
+    },
+    {
+      "path": ".github/workflows/test.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7c462ba1d93eae8cb18d20b09100ef5cbf168134",
+      "size": 2911,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/7c462ba1d93eae8cb18d20b09100ef5cbf168134"
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8607267317d08fd18fefad80892832eee5b67e2e",
+      "size": 2436,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/8607267317d08fd18fefad80892832eee5b67e2e"
+    },
+    {
+      "path": "Demo",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "005a85fdb6bd13f6311d13c1bc6faef160a48e1f",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/005a85fdb6bd13f6311d13c1bc6faef160a48e1f"
+    },
+    {
+      "path": "Demo/Demo-iOS",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "33e11b671137070293b1e743c9b72b0d11a30655",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/33e11b671137070293b1e743c9b72b0d11a30655"
+    },
+    {
+      "path": "Demo/Demo-iOS/Demo-iOS.xcodeproj",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ce4fc51cbbaaa678f0f8ca993b91df55f6fb5026",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/ce4fc51cbbaaa678f0f8ca993b91df55f6fb5026"
+    },
+    {
+      "path": "Demo/Demo-iOS/Demo-iOS.xcodeproj/project.pbxproj",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b4102b7f41e70700856dfb7a8be84bfa19a4a35f",
+      "size": 18652,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/b4102b7f41e70700856dfb7a8be84bfa19a4a35f"
+    },
+    {
+      "path": "Demo/Demo-iOS/Demo-iOS.xcodeproj/project.xcworkspace",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0094c9846cdbe0e73a44bebdf09a408adff74ba7",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/0094c9846cdbe0e73a44bebdf09a408adff74ba7"
+    },
+    {
+      "path": "Demo/Demo-iOS/Demo-iOS.xcodeproj/project.xcworkspace/contents.xcworkspacedata",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "919434a6254f0e9651f402737811be6634a03e9c",
+      "size": 135,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/919434a6254f0e9651f402737811be6634a03e9c"
+    },
+    {
+      "path": "Demo/Demo-iOS/Demo-iOS.xcodeproj/project.xcworkspace/xcshareddata",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c43cc9b8ba4e4ae5c6df5ed5e3f199668b7fead0",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/c43cc9b8ba4e4ae5c6df5ed5e3f199668b7fead0"
+    },
+    {
+      "path": "Demo/Demo-iOS/Demo-iOS.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "18d981003d68d0546c4804ac2ff47dd97c6e7921",
+      "size": 238,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/18d981003d68d0546c4804ac2ff47dd97c6e7921"
+    },
+    {
+      "path": "Demo/Demo-iOS/Demo-iOS.xcodeproj/xcshareddata",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "939463de6d1de465714d9babf661cdc94ef4fbdf",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/939463de6d1de465714d9babf661cdc94ef4fbdf"
+    },
+    {
+      "path": "Demo/Demo-iOS/Demo-iOS.xcodeproj/xcshareddata/xcschemes",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "10e067f080e2d76d72cb88d490124325dcfa7572",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/10e067f080e2d76d72cb88d490124325dcfa7572"
+    },
+    {
+      "path": "Demo/Demo-iOS/Demo-iOS.xcodeproj/xcshareddata/xcschemes/Demo-iOS.xcscheme",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b264562d6e4dd664c6f48c6f35ff905d030e329f",
+      "size": 2887,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/b264562d6e4dd664c6f48c6f35ff905d030e329f"
+    },
+    {
+      "path": "Demo/Demo-iOS/Demo-iOS",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bcfa0c7022871b6e82f9b4f15d99d22d88996b5a",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/bcfa0c7022871b6e82f9b4f15d99d22d88996b5a"
+    },
+    {
+      "path": "Demo/Demo-iOS/Demo-iOS/Assets.xcassets",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7bfabcfdc85104be0ffd62e233209b304e93ac4f",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/7bfabcfdc85104be0ffd62e233209b304e93ac4f"
+    },
+    {
+      "path": "Demo/Demo-iOS/Demo-iOS/Assets.xcassets/AccentColor.colorset",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "986bd324c26d854187559f27f8194c8afd1795ac",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/986bd324c26d854187559f27f8194c8afd1795ac"
+    },
+    {
+      "path": "Demo/Demo-iOS/Demo-iOS/Assets.xcassets/AccentColor.colorset/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eb8789700816459c1e1480e0b34781d9fb78a1ca",
+      "size": 123,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/eb8789700816459c1e1480e0b34781d9fb78a1ca"
+    },
+    {
+      "path": "Demo/Demo-iOS/Demo-iOS/Assets.xcassets/AppIcon.appiconset",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ebfb032c57eb3dad8cf1d9c1e850285d62771d84",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/ebfb032c57eb3dad8cf1d9c1e850285d62771d84"
+    },
+    {
+      "path": "Demo/Demo-iOS/Demo-iOS/Assets.xcassets/AppIcon.appiconset/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "13613e3ee1a9348462a11a77a619faa808a346eb",
+      "size": 177,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/13613e3ee1a9348462a11a77a619faa808a346eb"
+    },
+    {
+      "path": "Demo/Demo-iOS/Demo-iOS/Assets.xcassets/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73c00596a7fca3f3d4bdd64053b69d86745f9e10",
+      "size": 63,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/73c00596a7fca3f3d4bdd64053b69d86745f9e10"
+    },
+    {
+      "path": "Demo/Demo-iOS/Demo-iOS/ContentView.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b8085f0750e1f6a6d128ee25e1d52af314e7db94",
+      "size": 2916,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/b8085f0750e1f6a6d128ee25e1d52af314e7db94"
+    },
+    {
+      "path": "Demo/Demo-iOS/Demo-iOS/Demo_iOSApp.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7795e7563bc83fd0dc4a5660998c41786d6a3b64",
+      "size": 141,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/7795e7563bc83fd0dc4a5660998c41786d6a3b64"
+    },
+    {
+      "path": "Demo/Demo-iOS/Demo-iOS/Info.plist",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6a6654d97ebeb3302922d0b63d7cf107f3ec8f3b",
+      "size": 286,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/6a6654d97ebeb3302922d0b63d7cf107f3ec8f3b"
+    },
+    {
+      "path": "Demo/Demo-iOS/Demo-iOS/Player",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3580cdb12d8fd0aeb7db892e8a46ff3677bbee7a",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/3580cdb12d8fd0aeb7db892e8a46ff3677bbee7a"
+    },
+    {
+      "path": "Demo/Demo-iOS/Demo-iOS/Player/MPVPlayerDelegate.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f61bb9c5dfa2894519ad58bade0e7c0b6038a9bf",
+      "size": 157,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/f61bb9c5dfa2894519ad58bade0e7c0b6038a9bf"
+    },
+    {
+      "path": "Demo/Demo-iOS/Demo-iOS/Player/MPVProperty.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3b2d403c23b790d5393e370d69b01367a687a8df",
+      "size": 631,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/3b2d403c23b790d5393e370d69b01367a687a8df"
+    },
+    {
+      "path": "Demo/Demo-iOS/Demo-iOS/Player/Metal",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5aaaf1d5c83c572c1337937c1d0782543a68538a",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/5aaaf1d5c83c572c1337937c1d0782543a68538a"
+    },
+    {
+      "path": "Demo/Demo-iOS/Demo-iOS/Player/Metal/MPVMetalPlayerView.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "29d4c0c2b1c8bbe9889b9a47138a9ac33634e163",
+      "size": 1470,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/29d4c0c2b1c8bbe9889b9a47138a9ac33634e163"
+    },
+    {
+      "path": "Demo/Demo-iOS/Demo-iOS/Player/Metal/MPVMetalViewController.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4ad91b1e74a7338e6bc5fc6219dcb00d1157da3a",
+      "size": 9643,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/4ad91b1e74a7338e6bc5fc6219dcb00d1157da3a"
+    },
+    {
+      "path": "Demo/Demo-iOS/Demo-iOS/Player/Metal/MetalLayer.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e5ac1ab61e05a52a49933ea1b437c66fbe814151",
+      "size": 1166,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/e5ac1ab61e05a52a49933ea1b437c66fbe814151"
+    },
+    {
+      "path": "Demo/Demo-iOS/Demo-iOS/Player/OpenGL",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8e3c9e9bafb107a6a1e487064259102b4e670151",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/8e3c9e9bafb107a6a1e487064259102b4e670151"
+    },
+    {
+      "path": "Demo/Demo-iOS/Demo-iOS/Player/OpenGL/MPVPlayerView.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "defadf8b15ade526866fa124fdab07bdf38a6c54",
+      "size": 1444,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/defadf8b15ade526866fa124fdab07bdf38a6c54"
+    },
+    {
+      "path": "Demo/Demo-iOS/Demo-iOS/Player/OpenGL/MPVViewController.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "65d5dc9f36bf3184e27254bfddbf0c320c356460",
+      "size": 9920,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/65d5dc9f36bf3184e27254bfddbf0c320c356460"
+    },
+    {
+      "path": "Demo/Demo-iOS/Demo-iOS/Preview Content",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7e0df99bd7a819d184beca3c06db266d033cc025",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/7e0df99bd7a819d184beca3c06db266d033cc025"
+    },
+    {
+      "path": "Demo/Demo-iOS/Demo-iOS/Preview Content/Preview Assets.xcassets",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "62cdbafc8b45291bf80fe22a2550934c91a39691",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/62cdbafc8b45291bf80fe22a2550934c91a39691"
+    },
+    {
+      "path": "Demo/Demo-iOS/Demo-iOS/Preview Content/Preview Assets.xcassets/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73c00596a7fca3f3d4bdd64053b69d86745f9e10",
+      "size": 63,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/73c00596a7fca3f3d4bdd64053b69d86745f9e10"
+    },
+    {
+      "path": "Demo/Demo-macOS",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1e7ded42b8c3befe73917af1a07a92824ef6f55a",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/1e7ded42b8c3befe73917af1a07a92824ef6f55a"
+    },
+    {
+      "path": "Demo/Demo-macOS/Demo-macOS.xcodeproj",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f50a272100902d7a2d06ee1ccd27234b3f145072",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/f50a272100902d7a2d06ee1ccd27234b3f145072"
+    },
+    {
+      "path": "Demo/Demo-macOS/Demo-macOS.xcodeproj/project.pbxproj",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ff4a38117f3c79ca4755edf4c0bfe59f9d7a7fb9",
+      "size": 19334,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/ff4a38117f3c79ca4755edf4c0bfe59f9d7a7fb9"
+    },
+    {
+      "path": "Demo/Demo-macOS/Demo-macOS.xcodeproj/project.xcworkspace",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0094c9846cdbe0e73a44bebdf09a408adff74ba7",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/0094c9846cdbe0e73a44bebdf09a408adff74ba7"
+    },
+    {
+      "path": "Demo/Demo-macOS/Demo-macOS.xcodeproj/project.xcworkspace/contents.xcworkspacedata",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "919434a6254f0e9651f402737811be6634a03e9c",
+      "size": 135,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/919434a6254f0e9651f402737811be6634a03e9c"
+    },
+    {
+      "path": "Demo/Demo-macOS/Demo-macOS.xcodeproj/project.xcworkspace/xcshareddata",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c43cc9b8ba4e4ae5c6df5ed5e3f199668b7fead0",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/c43cc9b8ba4e4ae5c6df5ed5e3f199668b7fead0"
+    },
+    {
+      "path": "Demo/Demo-macOS/Demo-macOS.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "18d981003d68d0546c4804ac2ff47dd97c6e7921",
+      "size": 238,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/18d981003d68d0546c4804ac2ff47dd97c6e7921"
+    },
+    {
+      "path": "Demo/Demo-macOS/Demo-macOS.xcodeproj/xcshareddata",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "86339694321d900a21e37acd90502d86a9483446",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/86339694321d900a21e37acd90502d86a9483446"
+    },
+    {
+      "path": "Demo/Demo-macOS/Demo-macOS.xcodeproj/xcshareddata/xcschemes",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "22def887049bca9af59d3864817fef4d6b8256d1",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/22def887049bca9af59d3864817fef4d6b8256d1"
+    },
+    {
+      "path": "Demo/Demo-macOS/Demo-macOS.xcodeproj/xcshareddata/xcschemes/Demo-macOS.xcscheme",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0c2112f5d56e754e997f94b5c9eec77f0d471088",
+      "size": 2905,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/0c2112f5d56e754e997f94b5c9eec77f0d471088"
+    },
+    {
+      "path": "Demo/Demo-macOS/Demo-macOS",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "fa86c06ca8088da4e04a0d71c4f44ba74a017072",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/fa86c06ca8088da4e04a0d71c4f44ba74a017072"
+    },
+    {
+      "path": "Demo/Demo-macOS/Demo-macOS/Assets.xcassets",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f450f40dc8caccacdf8d7d0eef8d6189cabd5e06",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/f450f40dc8caccacdf8d7d0eef8d6189cabd5e06"
+    },
+    {
+      "path": "Demo/Demo-macOS/Demo-macOS/Assets.xcassets/AccentColor.colorset",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "986bd324c26d854187559f27f8194c8afd1795ac",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/986bd324c26d854187559f27f8194c8afd1795ac"
+    },
+    {
+      "path": "Demo/Demo-macOS/Demo-macOS/Assets.xcassets/AccentColor.colorset/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eb8789700816459c1e1480e0b34781d9fb78a1ca",
+      "size": 123,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/eb8789700816459c1e1480e0b34781d9fb78a1ca"
+    },
+    {
+      "path": "Demo/Demo-macOS/Demo-macOS/Assets.xcassets/AppIcon.appiconset",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c7f4c56df625ae53e59157ac409a640de447a4c0",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/c7f4c56df625ae53e59157ac409a640de447a4c0"
+    },
+    {
+      "path": "Demo/Demo-macOS/Demo-macOS/Assets.xcassets/AppIcon.appiconset/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3f00db43ec3c8b462759505d635dc5545d4e8e50",
+      "size": 904,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/3f00db43ec3c8b462759505d635dc5545d4e8e50"
+    },
+    {
+      "path": "Demo/Demo-macOS/Demo-macOS/Assets.xcassets/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73c00596a7fca3f3d4bdd64053b69d86745f9e10",
+      "size": 63,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/73c00596a7fca3f3d4bdd64053b69d86745f9e10"
+    },
+    {
+      "path": "Demo/Demo-macOS/Demo-macOS/ContentView.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d18c2a58136c35cdbb87515ff3e40e4e2e742612",
+      "size": 5338,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/d18c2a58136c35cdbb87515ff3e40e4e2e742612"
+    },
+    {
+      "path": "Demo/Demo-macOS/Demo-macOS/Demo_macOS.entitlements",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "40b639e46f55db7344e28e8e8bd661f77278e183",
+      "size": 420,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/40b639e46f55db7344e28e8e8bd661f77278e183"
+    },
+    {
+      "path": "Demo/Demo-macOS/Demo-macOS/Demo_macOSApp.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "62b15fa258f3895f3059723a6d5b460eb90e8844",
+      "size": 181,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/62b15fa258f3895f3059723a6d5b460eb90e8844"
+    },
+    {
+      "path": "Demo/Demo-macOS/Demo-macOS/Info.plist",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6a6654d97ebeb3302922d0b63d7cf107f3ec8f3b",
+      "size": 286,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/6a6654d97ebeb3302922d0b63d7cf107f3ec8f3b"
+    },
+    {
+      "path": "Demo/Demo-macOS/Demo-macOS/Player",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8b94e54e1264fba55d1df1bad71fb894791b154b",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/8b94e54e1264fba55d1df1bad71fb894791b154b"
+    },
+    {
+      "path": "Demo/Demo-macOS/Demo-macOS/Player/MPVPlayerDelegate.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f61bb9c5dfa2894519ad58bade0e7c0b6038a9bf",
+      "size": 157,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/f61bb9c5dfa2894519ad58bade0e7c0b6038a9bf"
+    },
+    {
+      "path": "Demo/Demo-macOS/Demo-macOS/Player/MPVProperty.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "54c9bec57eb1053662e8dd5017b4fdf050f60c25",
+      "size": 733,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/54c9bec57eb1053662e8dd5017b4fdf050f60c25"
+    },
+    {
+      "path": "Demo/Demo-macOS/Demo-macOS/Player/Metal",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1602e51700fcc8ddbf5370263563526aef9ba42d",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/1602e51700fcc8ddbf5370263563526aef9ba42d"
+    },
+    {
+      "path": "Demo/Demo-macOS/Demo-macOS/Player/Metal/MPVMetalPlayerView.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "625be61509a5f033ab031335216bf9d18f6f3706",
+      "size": 2115,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/625be61509a5f033ab031335216bf9d18f6f3706"
+    },
+    {
+      "path": "Demo/Demo-macOS/Demo-macOS/Player/Metal/MPVMetalViewController.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b70aea5d07304d767fd86fc73d54689009bbab8d",
+      "size": 10880,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/b70aea5d07304d767fd86fc73d54689009bbab8d"
+    },
+    {
+      "path": "Demo/Demo-macOS/Demo-macOS/Player/Metal/MetalLayer.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4bcb4f64cd032ae33d028818677113275f0107cf",
+      "size": 1218,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/4bcb4f64cd032ae33d028818677113275f0107cf"
+    },
+    {
+      "path": "Demo/Demo-macOS/Demo-macOS/Player/OpenGL",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "61f3c0dc2989aa3d7831876f5b426c155c159e02",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/61f3c0dc2989aa3d7831876f5b426c155c159e02"
+    },
+    {
+      "path": "Demo/Demo-macOS/Demo-macOS/Player/OpenGL/MPVOGLView.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "342b7009c51f25aeffd80af1390f76035e5de63f",
+      "size": 10798,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/342b7009c51f25aeffd80af1390f76035e5de63f"
+    },
+    {
+      "path": "Demo/Demo-macOS/Demo-macOS/Player/OpenGL/MPVPlayerView.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f2b21c710d517c432ad46a131e28d2db862c8a92",
+      "size": 2087,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/f2b21c710d517c432ad46a131e28d2db862c8a92"
+    },
+    {
+      "path": "Demo/Demo-macOS/Demo-macOS/Player/OpenGL/MPVViewController.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d2d5070eb26bcbbb25421d202824feddbe2f0dd7",
+      "size": 1442,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/d2d5070eb26bcbbb25421d202824feddbe2f0dd7"
+    },
+    {
+      "path": "Demo/Demo-macOS/Demo-macOS/Preview Content",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7e0df99bd7a819d184beca3c06db266d033cc025",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/7e0df99bd7a819d184beca3c06db266d033cc025"
+    },
+    {
+      "path": "Demo/Demo-macOS/Demo-macOS/Preview Content/Preview Assets.xcassets",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "62cdbafc8b45291bf80fe22a2550934c91a39691",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/62cdbafc8b45291bf80fe22a2550934c91a39691"
+    },
+    {
+      "path": "Demo/Demo-macOS/Demo-macOS/Preview Content/Preview Assets.xcassets/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73c00596a7fca3f3d4bdd64053b69d86745f9e10",
+      "size": 63,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/73c00596a7fca3f3d4bdd64053b69d86745f9e10"
+    },
+    {
+      "path": "Demo/Demo-tvOS",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "88f542543f1cbcff0b737afc93deaee11c0b9136",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/88f542543f1cbcff0b737afc93deaee11c0b9136"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS.xcodeproj",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ca7a41a05c4e0e7ce35351d50e883b3645fc8921",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/ca7a41a05c4e0e7ce35351d50e883b3645fc8921"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS.xcodeproj/project.pbxproj",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0bdd55ae637cc640e87f97cc5b7aab4e514bc1ee",
+      "size": 17099,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/0bdd55ae637cc640e87f97cc5b7aab4e514bc1ee"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS.xcodeproj/project.xcworkspace",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0094c9846cdbe0e73a44bebdf09a408adff74ba7",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/0094c9846cdbe0e73a44bebdf09a408adff74ba7"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS.xcodeproj/project.xcworkspace/contents.xcworkspacedata",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "919434a6254f0e9651f402737811be6634a03e9c",
+      "size": 135,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/919434a6254f0e9651f402737811be6634a03e9c"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS.xcodeproj/project.xcworkspace/xcshareddata",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c43cc9b8ba4e4ae5c6df5ed5e3f199668b7fead0",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/c43cc9b8ba4e4ae5c6df5ed5e3f199668b7fead0"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "18d981003d68d0546c4804ac2ff47dd97c6e7921",
+      "size": 238,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/18d981003d68d0546c4804ac2ff47dd97c6e7921"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS.xcodeproj/xcshareddata",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1a79ba71fc70a6a8eb7aeef8a886a9820b9a5abc",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/1a79ba71fc70a6a8eb7aeef8a886a9820b9a5abc"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS.xcodeproj/xcshareddata/xcschemes",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a36125a5974cd754140e2a3442e4d3b787489bb1",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/a36125a5974cd754140e2a3442e4d3b787489bb1"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS.xcodeproj/xcshareddata/xcschemes/Demo-tvOS.xcscheme",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6f195c6217b7b509ac9d1a347c5a9a369dc314d6",
+      "size": 2896,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/6f195c6217b7b509ac9d1a347c5a9a369dc314d6"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "522dd58e9f7fa7dc3d1c8adc7e043f9c6e51bf4a",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/522dd58e9f7fa7dc3d1c8adc7e043f9c6e51bf4a"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "199e1fd75b91678d02eea73d04575b0e512fc5ea",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/199e1fd75b91678d02eea73d04575b0e512fc5ea"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets/AccentColor.colorset",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "986bd324c26d854187559f27f8194c8afd1795ac",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/986bd324c26d854187559f27f8194c8afd1795ac"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets/AccentColor.colorset/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eb8789700816459c1e1480e0b34781d9fb78a1ca",
+      "size": 123,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/eb8789700816459c1e1480e0b34781d9fb78a1ca"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "425dd075060203519d601497f44ce24cc60c8dcf",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/425dd075060203519d601497f44ce24cc60c8dcf"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - App Store.imagestack",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e93cf905906af0834b739d8d3e0d05a8722060cd",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/e93cf905906af0834b739d8d3e0d05a8722060cd"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - App Store.imagestack/Back.imagestacklayer",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "cda38070538cd357080bbe2c1dea266c1eb55fe7",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/cda38070538cd357080bbe2c1dea266c1eb55fe7"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - App Store.imagestack/Back.imagestacklayer/Content.imageset",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "062fa8fc4d6ce8e07fcf6ab040e0e3e6ecd6d829",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/062fa8fc4d6ce8e07fcf6ab040e0e3e6ecd6d829"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - App Store.imagestack/Back.imagestacklayer/Content.imageset/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2e003356c75081af56be6c8423bd90006315dbd9",
+      "size": 116,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/2e003356c75081af56be6c8423bd90006315dbd9"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - App Store.imagestack/Back.imagestacklayer/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73c00596a7fca3f3d4bdd64053b69d86745f9e10",
+      "size": 63,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/73c00596a7fca3f3d4bdd64053b69d86745f9e10"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - App Store.imagestack/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "de59d885ae8d836da0247d15347fa53397f81254",
+      "size": 250,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/de59d885ae8d836da0247d15347fa53397f81254"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - App Store.imagestack/Front.imagestacklayer",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "cda38070538cd357080bbe2c1dea266c1eb55fe7",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/cda38070538cd357080bbe2c1dea266c1eb55fe7"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - App Store.imagestack/Front.imagestacklayer/Content.imageset",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "062fa8fc4d6ce8e07fcf6ab040e0e3e6ecd6d829",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/062fa8fc4d6ce8e07fcf6ab040e0e3e6ecd6d829"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - App Store.imagestack/Front.imagestacklayer/Content.imageset/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2e003356c75081af56be6c8423bd90006315dbd9",
+      "size": 116,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/2e003356c75081af56be6c8423bd90006315dbd9"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - App Store.imagestack/Front.imagestacklayer/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73c00596a7fca3f3d4bdd64053b69d86745f9e10",
+      "size": 63,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/73c00596a7fca3f3d4bdd64053b69d86745f9e10"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - App Store.imagestack/Middle.imagestacklayer",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "cda38070538cd357080bbe2c1dea266c1eb55fe7",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/cda38070538cd357080bbe2c1dea266c1eb55fe7"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - App Store.imagestack/Middle.imagestacklayer/Content.imageset",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "062fa8fc4d6ce8e07fcf6ab040e0e3e6ecd6d829",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/062fa8fc4d6ce8e07fcf6ab040e0e3e6ecd6d829"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - App Store.imagestack/Middle.imagestacklayer/Content.imageset/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2e003356c75081af56be6c8423bd90006315dbd9",
+      "size": 116,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/2e003356c75081af56be6c8423bd90006315dbd9"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - App Store.imagestack/Middle.imagestacklayer/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73c00596a7fca3f3d4bdd64053b69d86745f9e10",
+      "size": 63,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/73c00596a7fca3f3d4bdd64053b69d86745f9e10"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon.imagestack",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1bbe4a7e526c0b27553a72b42f6f4214b30e7288",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/1bbe4a7e526c0b27553a72b42f6f4214b30e7288"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon.imagestack/Back.imagestacklayer",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e31c8abf97b4145122aaec28cc253e308e7fd9d5",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/e31c8abf97b4145122aaec28cc253e308e7fd9d5"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon.imagestack/Back.imagestacklayer/Content.imageset",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4ee75ab80bda2cdba099f5742cb74f270c4c90eb",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/4ee75ab80bda2cdba099f5742cb74f270c4c90eb"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon.imagestack/Back.imagestacklayer/Content.imageset/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "795cce17243c4963342d31db5b85681fba11e322",
+      "size": 194,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/795cce17243c4963342d31db5b85681fba11e322"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon.imagestack/Back.imagestacklayer/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73c00596a7fca3f3d4bdd64053b69d86745f9e10",
+      "size": 63,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/73c00596a7fca3f3d4bdd64053b69d86745f9e10"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon.imagestack/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "de59d885ae8d836da0247d15347fa53397f81254",
+      "size": 250,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/de59d885ae8d836da0247d15347fa53397f81254"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon.imagestack/Front.imagestacklayer",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e31c8abf97b4145122aaec28cc253e308e7fd9d5",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/e31c8abf97b4145122aaec28cc253e308e7fd9d5"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon.imagestack/Front.imagestacklayer/Content.imageset",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4ee75ab80bda2cdba099f5742cb74f270c4c90eb",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/4ee75ab80bda2cdba099f5742cb74f270c4c90eb"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon.imagestack/Front.imagestacklayer/Content.imageset/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "795cce17243c4963342d31db5b85681fba11e322",
+      "size": 194,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/795cce17243c4963342d31db5b85681fba11e322"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon.imagestack/Front.imagestacklayer/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73c00596a7fca3f3d4bdd64053b69d86745f9e10",
+      "size": 63,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/73c00596a7fca3f3d4bdd64053b69d86745f9e10"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon.imagestack/Middle.imagestacklayer",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e31c8abf97b4145122aaec28cc253e308e7fd9d5",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/e31c8abf97b4145122aaec28cc253e308e7fd9d5"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon.imagestack/Middle.imagestacklayer/Content.imageset",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4ee75ab80bda2cdba099f5742cb74f270c4c90eb",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/4ee75ab80bda2cdba099f5742cb74f270c4c90eb"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon.imagestack/Middle.imagestacklayer/Content.imageset/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "795cce17243c4963342d31db5b85681fba11e322",
+      "size": 194,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/795cce17243c4963342d31db5b85681fba11e322"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon.imagestack/Middle.imagestacklayer/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73c00596a7fca3f3d4bdd64053b69d86745f9e10",
+      "size": 63,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/73c00596a7fca3f3d4bdd64053b69d86745f9e10"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f47ba43daac4c9d6dbfc2b67bdaa24db32b3e8e9",
+      "size": 663,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/f47ba43daac4c9d6dbfc2b67bdaa24db32b3e8e9"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/Top Shelf Image Wide.imageset",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4ee75ab80bda2cdba099f5742cb74f270c4c90eb",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/4ee75ab80bda2cdba099f5742cb74f270c4c90eb"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/Top Shelf Image Wide.imageset/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "795cce17243c4963342d31db5b85681fba11e322",
+      "size": 194,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/795cce17243c4963342d31db5b85681fba11e322"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/Top Shelf Image.imageset",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4ee75ab80bda2cdba099f5742cb74f270c4c90eb",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/4ee75ab80bda2cdba099f5742cb74f270c4c90eb"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/Top Shelf Image.imageset/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "795cce17243c4963342d31db5b85681fba11e322",
+      "size": 194,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/795cce17243c4963342d31db5b85681fba11e322"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Assets.xcassets/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73c00596a7fca3f3d4bdd64053b69d86745f9e10",
+      "size": 63,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/73c00596a7fca3f3d4bdd64053b69d86745f9e10"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/ContentView.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e7a149301f808b694ba6c2058232b4afac6de1f7",
+      "size": 2868,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/e7a149301f808b694ba6c2058232b4afac6de1f7"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Demo_tvOSApp.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "854597fcfda165a31eaaed6601cc57352124c3a1",
+      "size": 142,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/854597fcfda165a31eaaed6601cc57352124c3a1"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Player",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "43d7e2c83c33788ae0ef7200102f0f31fc83a2b4",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/43d7e2c83c33788ae0ef7200102f0f31fc83a2b4"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Player/MPVPlayerDelegate.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f61bb9c5dfa2894519ad58bade0e7c0b6038a9bf",
+      "size": 157,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/f61bb9c5dfa2894519ad58bade0e7c0b6038a9bf"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Player/MPVProperty.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3b2d403c23b790d5393e370d69b01367a687a8df",
+      "size": 631,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/3b2d403c23b790d5393e370d69b01367a687a8df"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Player/Metal",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ddb203789639dc3d0382c63db50a7ad2e759d500",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/ddb203789639dc3d0382c63db50a7ad2e759d500"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Player/Metal/MPVMetalPlayerView.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "29d4c0c2b1c8bbe9889b9a47138a9ac33634e163",
+      "size": 1470,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/29d4c0c2b1c8bbe9889b9a47138a9ac33634e163"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Player/Metal/MPVMetalViewController.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2285c246397ec8aa9d4dbe684554c90febc8da0c",
+      "size": 9601,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/2285c246397ec8aa9d4dbe684554c90febc8da0c"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Player/Metal/MetalLayer.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6d3a7d90791caf229a4a520bb63559b00f05423a",
+      "size": 546,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/6d3a7d90791caf229a4a520bb63559b00f05423a"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Player/OpenGL",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5c6a6f8dd8d92d723eb38eee1fe0b0b58c8f59e2",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/5c6a6f8dd8d92d723eb38eee1fe0b0b58c8f59e2"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Player/OpenGL/MPVPlayerView.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "defadf8b15ade526866fa124fdab07bdf38a6c54",
+      "size": 1444,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/defadf8b15ade526866fa124fdab07bdf38a6c54"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Player/OpenGL/MPVViewController.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1179953c052142ef900742e783191c8154935990",
+      "size": 9930,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/1179953c052142ef900742e783191c8154935990"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Preview Content",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7e0df99bd7a819d184beca3c06db266d033cc025",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/7e0df99bd7a819d184beca3c06db266d033cc025"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Preview Content/Preview Assets.xcassets",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "62cdbafc8b45291bf80fe22a2550934c91a39691",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/62cdbafc8b45291bf80fe22a2550934c91a39691"
+    },
+    {
+      "path": "Demo/Demo-tvOS/Demo-tvOS/Preview Content/Preview Assets.xcassets/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73c00596a7fca3f3d4bdd64053b69d86745f9e10",
+      "size": 63,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/73c00596a7fca3f3d4bdd64053b69d86745f9e10"
+    },
+    {
+      "path": "Demo/Demo-visionOS",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0935e005eb7d44f03ab30046d36289a9b724cf75",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/0935e005eb7d44f03ab30046d36289a9b724cf75"
+    },
+    {
+      "path": "Demo/Demo-visionOS/Demo-visionOS.xcodeproj",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5bcda0472bee2cba5af31a19f69ac7c26962d62c",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/5bcda0472bee2cba5af31a19f69ac7c26962d62c"
+    },
+    {
+      "path": "Demo/Demo-visionOS/Demo-visionOS.xcodeproj/project.pbxproj",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6abba528f7e52208ead1c3893529cb8a3823d729",
+      "size": 16105,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/6abba528f7e52208ead1c3893529cb8a3823d729"
+    },
+    {
+      "path": "Demo/Demo-visionOS/Demo-visionOS.xcodeproj/project.xcworkspace",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d9c19cc17a1d6452956495c8f392c3673f08a9eb",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/d9c19cc17a1d6452956495c8f392c3673f08a9eb"
+    },
+    {
+      "path": "Demo/Demo-visionOS/Demo-visionOS.xcodeproj/project.xcworkspace/contents.xcworkspacedata",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "919434a6254f0e9651f402737811be6634a03e9c",
+      "size": 135,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/919434a6254f0e9651f402737811be6634a03e9c"
+    },
+    {
+      "path": "Demo/Demo-visionOS/Demo-visionOS",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "232522ce4be5413fee454870aa3eb61bb65afdb9",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/232522ce4be5413fee454870aa3eb61bb65afdb9"
+    },
+    {
+      "path": "Demo/Demo-visionOS/Demo-visionOS/Assets.xcassets",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "96ff7d8ecdd14c0a5c0d2e526432a21d00fec65c",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/96ff7d8ecdd14c0a5c0d2e526432a21d00fec65c"
+    },
+    {
+      "path": "Demo/Demo-visionOS/Demo-visionOS/Assets.xcassets/AccentColor.colorset",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "986bd324c26d854187559f27f8194c8afd1795ac",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/986bd324c26d854187559f27f8194c8afd1795ac"
+    },
+    {
+      "path": "Demo/Demo-visionOS/Demo-visionOS/Assets.xcassets/AccentColor.colorset/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eb8789700816459c1e1480e0b34781d9fb78a1ca",
+      "size": 123,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/eb8789700816459c1e1480e0b34781d9fb78a1ca"
+    },
+    {
+      "path": "Demo/Demo-visionOS/Demo-visionOS/Assets.xcassets/AppIcon.solidimagestack",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "da991e3e233dd12a8ebdbee2b623a1b6a15f50fe",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/da991e3e233dd12a8ebdbee2b623a1b6a15f50fe"
+    },
+    {
+      "path": "Demo/Demo-visionOS/Demo-visionOS/Assets.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "47b91058f96500d0b6138befae95174f0076d47a",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/47b91058f96500d0b6138befae95174f0076d47a"
+    },
+    {
+      "path": "Demo/Demo-visionOS/Demo-visionOS/Assets.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "eeefe8e980e1fa2a53a1f692d7ccd4de3a774833",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/eeefe8e980e1fa2a53a1f692d7ccd4de3a774833"
+    },
+    {
+      "path": "Demo/Demo-visionOS/Demo-visionOS/Assets.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Content.imageset/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "04056a547f776e77884f080fbe8276d0c58b30a5",
+      "size": 142,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/04056a547f776e77884f080fbe8276d0c58b30a5"
+    },
+    {
+      "path": "Demo/Demo-visionOS/Demo-visionOS/Assets.xcassets/AppIcon.solidimagestack/Back.solidimagestacklayer/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73c00596a7fca3f3d4bdd64053b69d86745f9e10",
+      "size": 63,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/73c00596a7fca3f3d4bdd64053b69d86745f9e10"
+    },
+    {
+      "path": "Demo/Demo-visionOS/Demo-visionOS/Assets.xcassets/AppIcon.solidimagestack/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "950af4d85a8e15b9373b16764b7f9ff3ecc219d1",
+      "size": 265,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/950af4d85a8e15b9373b16764b7f9ff3ecc219d1"
+    },
+    {
+      "path": "Demo/Demo-visionOS/Demo-visionOS/Assets.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "47b91058f96500d0b6138befae95174f0076d47a",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/47b91058f96500d0b6138befae95174f0076d47a"
+    },
+    {
+      "path": "Demo/Demo-visionOS/Demo-visionOS/Assets.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "eeefe8e980e1fa2a53a1f692d7ccd4de3a774833",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/eeefe8e980e1fa2a53a1f692d7ccd4de3a774833"
+    },
+    {
+      "path": "Demo/Demo-visionOS/Demo-visionOS/Assets.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Content.imageset/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "04056a547f776e77884f080fbe8276d0c58b30a5",
+      "size": 142,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/04056a547f776e77884f080fbe8276d0c58b30a5"
+    },
+    {
+      "path": "Demo/Demo-visionOS/Demo-visionOS/Assets.xcassets/AppIcon.solidimagestack/Front.solidimagestacklayer/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73c00596a7fca3f3d4bdd64053b69d86745f9e10",
+      "size": 63,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/73c00596a7fca3f3d4bdd64053b69d86745f9e10"
+    },
+    {
+      "path": "Demo/Demo-visionOS/Demo-visionOS/Assets.xcassets/AppIcon.solidimagestack/Middle.solidimagestacklayer",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "47b91058f96500d0b6138befae95174f0076d47a",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/47b91058f96500d0b6138befae95174f0076d47a"
+    },
+    {
+      "path": "Demo/Demo-visionOS/Demo-visionOS/Assets.xcassets/AppIcon.solidimagestack/Middle.solidimagestacklayer/Content.imageset",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "eeefe8e980e1fa2a53a1f692d7ccd4de3a774833",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/eeefe8e980e1fa2a53a1f692d7ccd4de3a774833"
+    },
+    {
+      "path": "Demo/Demo-visionOS/Demo-visionOS/Assets.xcassets/AppIcon.solidimagestack/Middle.solidimagestacklayer/Content.imageset/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "04056a547f776e77884f080fbe8276d0c58b30a5",
+      "size": 142,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/04056a547f776e77884f080fbe8276d0c58b30a5"
+    },
+    {
+      "path": "Demo/Demo-visionOS/Demo-visionOS/Assets.xcassets/AppIcon.solidimagestack/Middle.solidimagestacklayer/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73c00596a7fca3f3d4bdd64053b69d86745f9e10",
+      "size": 63,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/73c00596a7fca3f3d4bdd64053b69d86745f9e10"
+    },
+    {
+      "path": "Demo/Demo-visionOS/Demo-visionOS/Assets.xcassets/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73c00596a7fca3f3d4bdd64053b69d86745f9e10",
+      "size": 63,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/73c00596a7fca3f3d4bdd64053b69d86745f9e10"
+    },
+    {
+      "path": "Demo/Demo-visionOS/Demo-visionOS/ContentView.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bcd1078cf8f47bd30282dbe55911c4fead6695b7",
+      "size": 2904,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/bcd1078cf8f47bd30282dbe55911c4fead6695b7"
+    },
+    {
+      "path": "Demo/Demo-visionOS/Demo-visionOS/Demo_visionOSApp.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5e62837836a84b5a8308fc6947aecd852fb69b65",
+      "size": 193,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/5e62837836a84b5a8308fc6947aecd852fb69b65"
+    },
+    {
+      "path": "Demo/Demo-visionOS/Demo-visionOS/Info.plist",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6a6654d97ebeb3302922d0b63d7cf107f3ec8f3b",
+      "size": 286,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/6a6654d97ebeb3302922d0b63d7cf107f3ec8f3b"
+    },
+    {
+      "path": "Demo/Demo-visionOS/Demo-visionOS/Player",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e8c128a232c32222653b675f003fb7882e43e8fa",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/e8c128a232c32222653b675f003fb7882e43e8fa"
+    },
+    {
+      "path": "Demo/Demo-visionOS/Demo-visionOS/Player/MPVPlayerDelegate.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f61bb9c5dfa2894519ad58bade0e7c0b6038a9bf",
+      "size": 157,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/f61bb9c5dfa2894519ad58bade0e7c0b6038a9bf"
+    },
+    {
+      "path": "Demo/Demo-visionOS/Demo-visionOS/Player/MPVProperty.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3b2d403c23b790d5393e370d69b01367a687a8df",
+      "size": 631,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/3b2d403c23b790d5393e370d69b01367a687a8df"
+    },
+    {
+      "path": "Demo/Demo-visionOS/Demo-visionOS/Player/Metal",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b8b111d243e2c3f6e1564a061f908f4e00bc96ce",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/b8b111d243e2c3f6e1564a061f908f4e00bc96ce"
+    },
+    {
+      "path": "Demo/Demo-visionOS/Demo-visionOS/Player/Metal/MPVMetalPlayerView.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5179609200049331d2a946078987074a951f6e8e",
+      "size": 1401,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/5179609200049331d2a946078987074a951f6e8e"
+    },
+    {
+      "path": "Demo/Demo-visionOS/Demo-visionOS/Player/Metal/MPVMetalViewController.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "97a1146721aea09d946c5b98b6e802a8692fee27",
+      "size": 7334,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/97a1146721aea09d946c5b98b6e802a8692fee27"
+    },
+    {
+      "path": "Demo/Demo-visionOS/Demo-visionOS/Player/Metal/MetalLayer.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d692d8dd111df2f024839976da1e8b45d5e312bd",
+      "size": 1162,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/d692d8dd111df2f024839976da1e8b45d5e312bd"
+    },
+    {
+      "path": "Demo/Demo-visionOS/Demo-visionOS/Preview Content",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7e0df99bd7a819d184beca3c06db266d033cc025",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/7e0df99bd7a819d184beca3c06db266d033cc025"
+    },
+    {
+      "path": "Demo/Demo-visionOS/Demo-visionOS/Preview Content/Preview Assets.xcassets",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "62cdbafc8b45291bf80fe22a2550934c91a39691",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/62cdbafc8b45291bf80fe22a2550934c91a39691"
+    },
+    {
+      "path": "Demo/Demo-visionOS/Demo-visionOS/Preview Content/Preview Assets.xcassets/Contents.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73c00596a7fca3f3d4bdd64053b69d86745f9e10",
+      "size": 63,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/73c00596a7fca3f3d4bdd64053b69d86745f9e10"
+    },
+    {
+      "path": "Demo/Demo.xcworkspace",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3e126f4ee6d63797dce82bd5592b3f2026b49c6c",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/3e126f4ee6d63797dce82bd5592b3f2026b49c6c"
+    },
+    {
+      "path": "Demo/Demo.xcworkspace/contents.xcworkspacedata",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "165674933de2b4b7d95848df5bf7b17fff74d1af",
+      "size": 419,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/165674933de2b4b7d95848df5bf7b17fff74d1af"
+    },
+    {
+      "path": "Demo/Demo.xcworkspace/xcshareddata",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c43cc9b8ba4e4ae5c6df5ed5e3f199668b7fead0",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/c43cc9b8ba4e4ae5c6df5ed5e3f199668b7fead0"
+    },
+    {
+      "path": "Demo/Demo.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "18d981003d68d0546c4804ac2ff47dd97c6e7921",
+      "size": 238,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/18d981003d68d0546c4804ac2ff47dd97c6e7921"
+    },
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "02bbb60bc49afc2d6a1bedf96288eab236d80fbd",
+      "size": 7650,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/02bbb60bc49afc2d6a1bedf96288eab236d80fbd"
+    },
+    {
+      "path": "Makefile",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d15f5b4a426ae2635c4191c564460fb256237dcd",
+      "size": 1234,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/d15f5b4a426ae2635c4191c564460fb256237dcd"
+    },
+    {
+      "path": "Package.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f35ea0b5501823691363eb35d66ed15e47914141",
+      "size": 13867,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/f35ea0b5501823691363eb35d66ed15e47914141"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e0093fbee00d6dfe27ca5ac94d18934a2992aabd",
+      "size": 4063,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/e0093fbee00d6dfe27ca5ac94d18934a2992aabd"
+    },
+    {
+      "path": "Sources",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2ae720a0eef0e706c29a60e0dab5c684d870cc5f",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/2ae720a0eef0e706c29a60e0dab5c684d870cc5f"
+    },
+    {
+      "path": "Sources/BuildScripts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "481ada88f4b0e7b890a9b83a09cbafc69a2d0001",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/481ada88f4b0e7b890a9b83a09cbafc69a2d0001"
+    },
+    {
+      "path": "Sources/BuildScripts/Package.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "01180e34b4ed63f57b508405ca42b26c2e63db05",
+      "size": 244,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/01180e34b4ed63f57b508405ca42b26c2e63db05"
+    },
+    {
+      "path": "Sources/BuildScripts/XCFrameworkBuild",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c6f95dd6f5342831238df0ff0a9d32ce59a0e1c1",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/c6f95dd6f5342831238df0ff0a9d32ce59a0e1c1"
+    },
+    {
+      "path": "Sources/BuildScripts/XCFrameworkBuild/base.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3e56ee0eb0d4b913c54ab7f354b665f69b6e0bfe",
+      "size": 65172,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/3e56ee0eb0d4b913c54ab7f354b665f69b6e0bfe"
+    },
+    {
+      "path": "Sources/BuildScripts/XCFrameworkBuild/main.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eaccafb42c6869ea75336491d7f0fc669fa374d0",
+      "size": 42445,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/eaccafb42c6869ea75336491d7f0fc669fa374d0"
+    },
+    {
+      "path": "Sources/BuildScripts/patch",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d8efce2978b3a73b5d309275ae2dfe3266bf67af",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/d8efce2978b3a73b5d309275ae2dfe3266bf67af"
+    },
+    {
+      "path": "Sources/BuildScripts/patch/libmpv",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c77b10fc12a5995fbfe076041db0fef81789e915",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/c77b10fc12a5995fbfe076041db0fef81789e915"
+    },
+    {
+      "path": "Sources/BuildScripts/patch/libmpv/0001-player-add-moltenvk-context.patch",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c03f82f9da200db636ee1c7c7ba523f0639c8429",
+      "size": 6265,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/c03f82f9da200db636ee1c7c7ba523f0639c8429"
+    },
+    {
+      "path": "Sources/BuildScripts/patch/libmpv/0002-revert-build-static.patch",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8b268afc00bb55aeccab4b176c0613da9497c677",
+      "size": 932,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/8b268afc00bb55aeccab4b176c0613da9497c677"
+    },
+    {
+      "path": "Sources/BuildScripts/patch/libmpv/0003-enable-avfoundation-ao-tvos.patch",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "17bfe975d64178d9771d14b26a3aa2cd14009cfb",
+      "size": 6810,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/17bfe975d64178d9771d14b26a3aa2cd14009cfb"
+    },
+    {
+      "path": "Sources/_FFmpeg-GPL",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a29f5ee7f6f012bae5d55ef559d4053522624c06",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/a29f5ee7f6f012bae5d55ef559d4053522624c06"
+    },
+    {
+      "path": "Sources/_FFmpeg-GPL/dummy.c",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "Sources/_FFmpeg-GPL/include",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f3b31e5ff55649b011332a654fbab05053f0cac3",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/f3b31e5ff55649b011332a654fbab05053f0cac3"
+    },
+    {
+      "path": "Sources/_FFmpeg-GPL/include/dummy.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "Sources/_FFmpeg",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a29f5ee7f6f012bae5d55ef559d4053522624c06",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/a29f5ee7f6f012bae5d55ef559d4053522624c06"
+    },
+    {
+      "path": "Sources/_FFmpeg/dummy.c",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "Sources/_FFmpeg/include",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f3b31e5ff55649b011332a654fbab05053f0cac3",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/f3b31e5ff55649b011332a654fbab05053f0cac3"
+    },
+    {
+      "path": "Sources/_FFmpeg/include/dummy.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "Sources/_MPVKit-GPL",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a29f5ee7f6f012bae5d55ef559d4053522624c06",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/a29f5ee7f6f012bae5d55ef559d4053522624c06"
+    },
+    {
+      "path": "Sources/_MPVKit-GPL/dummy.c",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "Sources/_MPVKit-GPL/include",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f3b31e5ff55649b011332a654fbab05053f0cac3",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/f3b31e5ff55649b011332a654fbab05053f0cac3"
+    },
+    {
+      "path": "Sources/_MPVKit-GPL/include/dummy.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "Sources/_MPVKit",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a29f5ee7f6f012bae5d55ef559d4053522624c06",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/a29f5ee7f6f012bae5d55ef559d4053522624c06"
+    },
+    {
+      "path": "Sources/_MPVKit/dummy.c",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "Sources/_MPVKit/include",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f3b31e5ff55649b011332a654fbab05053f0cac3",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/f3b31e5ff55649b011332a654fbab05053f0cac3"
+    },
+    {
+      "path": "Sources/_MPVKit/include/dummy.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "docs",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "aed200a636ed32dd81a47c8cb10cefd119ddfed4",
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/trees/aed200a636ed32dd81a47c8cb10cefd119ddfed4"
+    },
+    {
+      "path": "docs/Package.template.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f3bcf4824876bea559f8bc0f2bf2f049a291648c",
+      "size": 4988,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/f3bcf4824876bea559f8bc0f2bf2f049a291648c"
+    },
+    {
+      "path": "mpv.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "4ffb015fbf5b41b85587406ce0486f8b63c5fe83",
+      "size": 328,
+      "url": "https://api.github.com/repos/mpvkit/MPVKit/git/blobs/4ffb015fbf5b41b85587406ce0486f8b63c5fe83"
+    }
+  ],
+  "truncated": false
+}

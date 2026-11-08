@@ -1,5 +1,5 @@
 import Foundation
-struct MediaSubtitle: Decodable, Hashable, Sendable {
+struct MediaSubtitle: Codable, Hashable, Identifiable, Sendable {
     let id: String
     let url: URL
     let lang: String

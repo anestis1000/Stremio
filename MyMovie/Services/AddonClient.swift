@@ -45,6 +45,15 @@ struct AddonClient: Sendable {
         let url = try Self.resourceURL(manifest: Self.cinemeta, resource: "addon_catalog", type: "all", id: community ? "community" : "official")
         let response: AddonsResponse = try await get(url); return response.addons ?? []
     }
+    func subtitles(type: String, videoID: String, hints: SubtitleHints?, addon: InstalledAddon) async throws -> [MediaSubtitle] {
+        var extras: [(String, String)] = []
+        if let hash = hints?.videoHash { extras.append(("videoHash", hash)) }
+        if let size = hints?.videoSize, size.isFinite { extras.append(("videoSize", String(format: "%.0f", size))) }
+        if let filename = hints?.filename { extras.append(("filename", filename)) }
+        let url = try Self.resourceURL(manifest: addon.transportUrl, resource: "subtitles", type: type, id: videoID, extras: extras)
+        let response: SubtitleResponse = try await get(url)
+        return response.subtitles ?? []
+    }
     func get<T: Decodable & Sendable>(_ url: URL) async throws -> T {
         var request = URLRequest(url: url); request.timeoutInterval = 25
         request.setValue("application/json", forHTTPHeaderField: "Accept")

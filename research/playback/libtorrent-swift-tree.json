@@ -1,0 +1,577 @@
+{
+  "sha": "82735476b1f7666058447a6d9a39b100e98c1208",
+  "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/trees/82735476b1f7666058447a6d9a39b100e98c1208",
+  "tree": [
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "56eaf839be2ddfb2381f10573268bbc12862733b",
+      "size": 96,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/56eaf839be2ddfb2381f10573268bbc12862733b"
+    },
+    {
+      "path": ".gitmodules",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4ebe4e132fccb5b49504ff069a2b67852f543ed7",
+      "size": 114,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/4ebe4e132fccb5b49504ff069a2b67852f543ed7"
+    },
+    {
+      "path": "LibTorrent.xcodeproj",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b94231b01d3acfbeeabef12fb023f02ae46edd4e",
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/trees/b94231b01d3acfbeeabef12fb023f02ae46edd4e"
+    },
+    {
+      "path": "LibTorrent.xcodeproj/project.pbxproj",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d998be2ba57f062a7be46808d6c268de52a20761",
+      "size": 44391,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/d998be2ba57f062a7be46808d6c268de52a20761"
+    },
+    {
+      "path": "LibTorrent.xcodeproj/project.xcworkspace",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "51624b2eb349c8a2b9c5a3a662edf795ad0c563a",
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/trees/51624b2eb349c8a2b9c5a3a662edf795ad0c563a"
+    },
+    {
+      "path": "LibTorrent.xcodeproj/project.xcworkspace/contents.xcworkspacedata",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "919434a6254f0e9651f402737811be6634a03e9c",
+      "size": 135,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/919434a6254f0e9651f402737811be6634a03e9c"
+    },
+    {
+      "path": "LibTorrent.xcodeproj/project.xcworkspace/xcshareddata",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ea066fbef422fe645e686deaa28d85c3961f0077",
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/trees/ea066fbef422fe645e686deaa28d85c3961f0077"
+    },
+    {
+      "path": "LibTorrent.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "18d981003d68d0546c4804ac2ff47dd97c6e7921",
+      "size": 238,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/18d981003d68d0546c4804ac2ff47dd97c6e7921"
+    },
+    {
+      "path": "LibTorrent.xcodeproj/project.xcworkspace/xcshareddata/swiftpm",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "24ae6739bcea5ddf3f35d29172bdef19dc42e657",
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/trees/24ae6739bcea5ddf3f35d29172bdef19dc42e657"
+    },
+    {
+      "path": "LibTorrent.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0c1721ff315d22f4d73b7c2d9b260600761bf032",
+      "size": 295,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/0c1721ff315d22f4d73b7c2d9b260600761bf032"
+    },
+    {
+      "path": "LibTorrent.xcodeproj/xcshareddata",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4a5984660707ca955fcf6cc2d8867d209f968400",
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/trees/4a5984660707ca955fcf6cc2d8867d209f968400"
+    },
+    {
+      "path": "LibTorrent.xcodeproj/xcshareddata/xcschemes",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "980b738a15a3bd537e4fe70d73d0fed939118615",
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/trees/980b738a15a3bd537e4fe70d73d0fed939118615"
+    },
+    {
+      "path": "LibTorrent.xcodeproj/xcshareddata/xcschemes/LibTorrent.xcscheme",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "107f392edc3f398a27cd64c5520d2a6ed5effff1",
+      "size": 2403,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/107f392edc3f398a27cd64c5520d2a6ed5effff1"
+    },
+    {
+      "path": "LibTorrent",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "addfb31dcb1aa902a02290fb2bc08cae38481d0c",
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/trees/addfb31dcb1aa902a02290fb2bc08cae38481d0c"
+    },
+    {
+      "path": "LibTorrent/Core",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6459975fd516c2acbac7e8b73e3d6700ed64840e",
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/trees/6459975fd516c2acbac7e8b73e3d6700ed64840e"
+    },
+    {
+      "path": "LibTorrent/Core/FileEntry",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f8732501a655e0166a6a4fd5cff5ca445342e62f",
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/trees/f8732501a655e0166a6a4fd5cff5ca445342e62f"
+    },
+    {
+      "path": "LibTorrent/Core/FileEntry/FileEntry.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8f23ad3ba1bcaf827721a68d258dc7aa817cf816",
+      "size": 839,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/8f23ad3ba1bcaf827721a68d258dc7aa817cf816"
+    },
+    {
+      "path": "LibTorrent/Core/FileEntry/FileEntry.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "576e08da60709faab33c43705ee3a1f1028e3188",
+      "size": 204,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/576e08da60709faab33c43705ee3a1f1028e3188"
+    },
+    {
+      "path": "LibTorrent/Core/FileEntry/FileEntry_Internal.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2de542f28c01a7d77e3495a1d5309fc4c6625416",
+      "size": 802,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/2de542f28c01a7d77e3495a1d5309fc4c6625416"
+    },
+    {
+      "path": "LibTorrent/Core/FileEntry/FilePriority.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bfca7312f0c68a2f5d47d356c5d78caea8e226a2",
+      "size": 364,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/bfca7312f0c68a2f5d47d356c5d78caea8e226a2"
+    },
+    {
+      "path": "LibTorrent/Core/Session",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ca65e19c7a7803c3f2e6968a2531a3cf1b9b7dc8",
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/trees/ca65e19c7a7803c3f2e6968a2531a3cf1b9b7dc8"
+    },
+    {
+      "path": "LibTorrent/Core/Session/Session.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "49ac64565a500b6d7161c51d4350326437a2733c",
+      "size": 2780,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/49ac64565a500b6d7161c51d4350326437a2733c"
+    },
+    {
+      "path": "LibTorrent/Core/Session/Session.mm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c9656935ca761736de5838aed54a366cc4b20d7f",
+      "size": 34933,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/c9656935ca761736de5838aed54a366cc4b20d7f"
+    },
+    {
+      "path": "LibTorrent/Core/Session/Session.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "14615222d49b7b5ad40c8c6a53f91dae1cb7052c",
+      "size": 2203,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/14615222d49b7b5ad40c8c6a53f91dae1cb7052c"
+    },
+    {
+      "path": "LibTorrent/Core/Session/Session_Internal.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ac3088bba94f004ca2aa6b64e4cdd658600080ec",
+      "size": 1100,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/ac3088bba94f004ca2aa6b64e4cdd658600080ec"
+    },
+    {
+      "path": "LibTorrent/Core/SessionSettings",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d282825701ca94fc566099bd3ea08c97fe6f9f8a",
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/trees/d282825701ca94fc566099bd3ea08c97fe6f9f8a"
+    },
+    {
+      "path": "LibTorrent/Core/SessionSettings/SessionSettings.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "10bb7b50317e9debebdb26f3992f201a045a946e",
+      "size": 2348,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/10bb7b50317e9debebdb26f3992f201a045a946e"
+    },
+    {
+      "path": "LibTorrent/Core/SessionSettings/SessionSettings.mm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b87531e0d33cae4293aafe96f9d902fe82e0afdc",
+      "size": 4716,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/b87531e0d33cae4293aafe96f9d902fe82e0afdc"
+    },
+    {
+      "path": "LibTorrent/Core/SessionSettings/SessionSettings.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6b8b62cca0077ef7dc87989b48642eee6b4466a3",
+      "size": 265,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/6b8b62cca0077ef7dc87989b48642eee6b4466a3"
+    },
+    {
+      "path": "LibTorrent/Core/SessionSettings/SessionSettings_Internal.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "91737cbf0a2ee75dcabb8b4dff98a94f840a0528",
+      "size": 371,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/91737cbf0a2ee75dcabb8b4dff98a94f840a0528"
+    },
+    {
+      "path": "LibTorrent/Core/TorrentFile",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d1dc30c0dd998097eca992ee9c3d77a7befece72",
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/trees/d1dc30c0dd998097eca992ee9c3d77a7befece72"
+    },
+    {
+      "path": "LibTorrent/Core/TorrentFile/Downloadable",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8e2a4e32735ea3d1a6f854193d6100f273af94b7",
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/trees/8e2a4e32735ea3d1a6f854193d6100f273af94b7"
+    },
+    {
+      "path": "LibTorrent/Core/TorrentFile/Downloadable/Downloadable.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d929ad2f1346afad4ecc02a29e90fd11eee7f078",
+      "size": 494,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/d929ad2f1346afad4ecc02a29e90fd11eee7f078"
+    },
+    {
+      "path": "LibTorrent/Core/TorrentFile/File",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b9a5d766513d6ddfe94393a0fc8eee2d406e00c1",
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/trees/b9a5d766513d6ddfe94393a0fc8eee2d406e00c1"
+    },
+    {
+      "path": "LibTorrent/Core/TorrentFile/File/TorrentFile.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "68718c11100bf064050e7b82159958bc3bf6dee2",
+      "size": 881,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/68718c11100bf064050e7b82159958bc3bf6dee2"
+    },
+    {
+      "path": "LibTorrent/Core/TorrentFile/File/TorrentFile.mm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "55aa61ccc88f208e785d05aa133b5e6887646ac4",
+      "size": 8386,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/55aa61ccc88f208e785d05aa133b5e6887646ac4"
+    },
+    {
+      "path": "LibTorrent/Core/TorrentFile/File/TorrentFile.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4a2c17a4143bc7b636d10981d0d39420586df12a",
+      "size": 1218,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/4a2c17a4143bc7b636d10981d0d39420586df12a"
+    },
+    {
+      "path": "LibTorrent/Core/TorrentFile/File/TorrentFile_Internal.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d0aebdabfbfd6746718ad13eb1b0633a8cc79586",
+      "size": 578,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/d0aebdabfbfd6746718ad13eb1b0633a8cc79586"
+    },
+    {
+      "path": "LibTorrent/Core/TorrentFile/Magnet",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "71aed1b84f6707467129fca76e36279174a8742e",
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/trees/71aed1b84f6707467129fca76e36279174a8742e"
+    },
+    {
+      "path": "LibTorrent/Core/TorrentFile/Magnet/MagnetURI.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e13784a42c33e2d64efb0507f68473f304a75450",
+      "size": 428,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/e13784a42c33e2d64efb0507f68473f304a75450"
+    },
+    {
+      "path": "LibTorrent/Core/TorrentFile/Magnet/MagnetURI.mm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5697c063ffdb4adbac25e766be4ce7fdeab352f1",
+      "size": 1451,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/5697c063ffdb4adbac25e766be4ce7fdeab352f1"
+    },
+    {
+      "path": "LibTorrent/Core/TorrentFile/Magnet/MagnetURI.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "74b6270bca7c48a39f53e5b8d88f510c47c2b608",
+      "size": 248,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/74b6270bca7c48a39f53e5b8d88f510c47c2b608"
+    },
+    {
+      "path": "LibTorrent/Core/TorrentFile/Magnet/MagnetURI_Internal.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "85df06e354b008ba4ba9c25c2701d90f175d2bd8",
+      "size": 381,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/85df06e354b008ba4ba9c25c2701d90f175d2bd8"
+    },
+    {
+      "path": "LibTorrent/Core/TorrentHandle",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "02faa2aa74f320805575c2e879aa9651a3f25b78",
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/trees/02faa2aa74f320805575c2e879aa9651a3f25b78"
+    },
+    {
+      "path": "LibTorrent/Core/TorrentHandle/TorrentHandle.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c48a9f2731ab5b14d8129ac449ac7c5fca4b316c",
+      "size": 1474,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/c48a9f2731ab5b14d8129ac449ac7c5fca4b316c"
+    },
+    {
+      "path": "LibTorrent/Core/TorrentHandle/TorrentHandle.mm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2d5d37f319bb8cc20d081180fef626260b1adb9d",
+      "size": 17603,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/2d5d37f319bb8cc20d081180fef626260b1adb9d"
+    },
+    {
+      "path": "LibTorrent/Core/TorrentHandle/TorrentHandle.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b6ea461cb462f1c5e1191763745afbbf8f3e98ca",
+      "size": 641,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/b6ea461cb462f1c5e1191763745afbbf8f3e98ca"
+    },
+    {
+      "path": "LibTorrent/Core/TorrentHandle/TorrentHandleState.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "87136129be43a37ac3bef5870bdd15f3e282c74c",
+      "size": 607,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/87136129be43a37ac3bef5870bdd15f3e282c74c"
+    },
+    {
+      "path": "LibTorrent/Core/TorrentHandle/TorrentHandle_Internal.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "add8e3a31f30b923046785d9fb85d63ede8ec88c",
+      "size": 1879,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/add8e3a31f30b923046785d9fb85d63ede8ec88c"
+    },
+    {
+      "path": "LibTorrent/Core/TorrentHandleSnapshot",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "65e37d43211e61ee54323a8b5afb70fe89470f95",
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/trees/65e37d43211e61ee54323a8b5afb70fe89470f95"
+    },
+    {
+      "path": "LibTorrent/Core/TorrentHandleSnapshot/TorrentHandleSnapshot.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a4346c25ff2ec697ee55a3bb2866d471c413a3d2",
+      "size": 2258,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/a4346c25ff2ec697ee55a3bb2866d471c413a3d2"
+    },
+    {
+      "path": "LibTorrent/Core/TorrentHandleSnapshot/TorrentHandleSnapshot.mm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cc2d7274c2bf333fc1353cb842485a703edc7ac0",
+      "size": 16376,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/cc2d7274c2bf333fc1353cb842485a703edc7ac0"
+    },
+    {
+      "path": "LibTorrent/Core/TorrentHandleSnapshot/TorrentHandleSnapshot_Internal.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cb77e783034ac5b19670294720afe1b8834a58ba",
+      "size": 1694,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/cb77e783034ac5b19670294720afe1b8834a58ba"
+    },
+    {
+      "path": "LibTorrent/Core/TorrentTracker",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "df0a8a97dd2fd10bfb34536934c7fe3195a9a079",
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/trees/df0a8a97dd2fd10bfb34536934c7fe3195a9a079"
+    },
+    {
+      "path": "LibTorrent/Core/TorrentTracker/TorrentTracker.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "484ebaa08ed01207c14f49207bc71f544531840e",
+      "size": 1524,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/484ebaa08ed01207c14f49207bc71f544531840e"
+    },
+    {
+      "path": "LibTorrent/Core/TorrentTracker/TorrentTracker.mm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2a8926eb5875ebf97842697dbe00e9c38a61db1c",
+      "size": 7087,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/2a8926eb5875ebf97842697dbe00e9c38a61db1c"
+    },
+    {
+      "path": "LibTorrent/Core/TorrentTracker/TorrentTracker_Internal.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "12607dec4bcac3c6a5393caa4fd9f3441d7fc579",
+      "size": 976,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/12607dec4bcac3c6a5393caa4fd9f3441d7fc579"
+    },
+    {
+      "path": "LibTorrent/LibTorrent.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a137fe3682596d091bda6001b4d126275f216fcf",
+      "size": 948,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/a137fe3682596d091bda6001b4d126275f216fcf"
+    },
+    {
+      "path": "LibTorrent/SwiftFile.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6f909b61c014df98e8d3a9ebd4c2fa6062b348ea",
+      "size": 140,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/6f909b61c014df98e8d3a9ebd4c2fa6062b348ea"
+    },
+    {
+      "path": "LibTorrent/Test.cpp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1fa6608c03387b0601d501b78cae2105a6ebcecb",
+      "size": 221,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/1fa6608c03387b0601d501b78cae2105a6ebcecb"
+    },
+    {
+      "path": "LibTorrent/Test.hpp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d25a7af6d64b3b3a652a78c06844cc36ad7bee21",
+      "size": 132,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/d25a7af6d64b3b3a652a78c06844cc36ad7bee21"
+    },
+    {
+      "path": "LibTorrent/Utils",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "dba7f6ec15eecb151a4c9dda74012dc9cb1ea662",
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/trees/dba7f6ec15eecb151a4c9dda74012dc9cb1ea662"
+    },
+    {
+      "path": "LibTorrent/Utils/Data+Hex.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "87239664fb5b59cf88ab4a10094638ca84b5d965",
+      "size": 214,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/87239664fb5b59cf88ab4a10094638ca84b5d965"
+    },
+    {
+      "path": "LibTorrent/Utils/ExceptionCatcher.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0542fc9f9dea6496b16c0ce006575002edca0727",
+      "size": 275,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/0542fc9f9dea6496b16c0ce006575002edca0727"
+    },
+    {
+      "path": "LibTorrent/Utils/ExceptionCatcher.mm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ae567861ee5b8cb1c2547eb5edaa31c8433a93ba",
+      "size": 271,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/ae567861ee5b8cb1c2547eb5edaa31c8433a93ba"
+    },
+    {
+      "path": "LibTorrent/Utils/LibTorrentVersion.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d098bbd0f174c3817181df3f5f39cee852f332c0",
+      "size": 296,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/d098bbd0f174c3817181df3f5f39cee852f332c0"
+    },
+    {
+      "path": "LibTorrent/Utils/LibTorrentVersion.mm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8f78f6b617542aba992c3a47344db0429b2092b9",
+      "size": 316,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/8f78f6b617542aba992c3a47344db0429b2092b9"
+    },
+    {
+      "path": "LibTorrent/Utils/NSData+Hex.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c98fe28a72625458e06867c90ffb50017a83249b",
+      "size": 310,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/c98fe28a72625458e06867c90ffb50017a83249b"
+    },
+    {
+      "path": "LibTorrent/Utils/NSData+Hex.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3843c2712b40d8cecd9aaa34759bedc10985f9df",
+      "size": 512,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/3843c2712b40d8cecd9aaa34759bedc10985f9df"
+    },
+    {
+      "path": "LibTorrent/Utils/NSData+Sha1Hash.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d8c8c6a660dc8293a635d89a2ff1d5e7a230f7be",
+      "size": 321,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/d8c8c6a660dc8293a635d89a2ff1d5e7a230f7be"
+    },
+    {
+      "path": "LibTorrent/Utils/NSData+Sha1Hash.mm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4623c51f8fc99a1a976d8d4adc5f7702cd156ca3",
+      "size": 301,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/4623c51f8fc99a1a976d8d4adc5f7702cd156ca3"
+    },
+    {
+      "path": "Thirdparty",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e1073e75e50b091cc5c00295ef493bff08f2ee82",
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/trees/e1073e75e50b091cc5c00295ef493bff08f2ee82"
+    },
+    {
+      "path": "Thirdparty/libtorrent",
+      "mode": "160000",
+      "type": "commit",
+      "sha": "6da363d2994f17c0b3c0450d124cf73a31a73847"
+    },
+    {
+      "path": "make.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "aeaaf4e5a048f18b67e54e69932c422f3375d531",
+      "size": 858,
+      "url": "https://api.github.com/repos/XITRIX/LibTorrent-Swift/git/blobs/aeaaf4e5a048f18b67e54e69932c422f3375d531"
+    }
+  ],
+  "truncated": false
+}

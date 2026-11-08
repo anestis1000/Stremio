@@ -1,0 +1,559 @@
+{
+  "sha": "79ab342c50621d69bce0d6f61228fcaf70c4ae48",
+  "url": "https://api.github.com/repos/warppipe/swift-torrent/git/trees/79ab342c50621d69bce0d6f61228fcaf70c4ae48",
+  "tree": [
+    {
+      "path": ".github",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "722b9a4a201a7ae794d76497e11861ecc70d583c",
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/trees/722b9a4a201a7ae794d76497e11861ecc70d583c"
+    },
+    {
+      "path": ".github/workflows",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "22f15c9f565334c39c00118629bfdd5db71ab559",
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/trees/22f15c9f565334c39c00118629bfdd5db71ab559"
+    },
+    {
+      "path": ".github/workflows/ci.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "525aa199e72769e43000e903730c646e9975643c",
+      "size": 285,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/525aa199e72769e43000e903730c646e9975643c"
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b7c6dd766a5eb4bc6e2693b5e3c7676ec81bbda9",
+      "size": 66,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/b7c6dd766a5eb4bc6e2693b5e3c7676ec81bbda9"
+    },
+    {
+      "path": "Package.resolved",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "728a3cc4125b45d4342a5eaf2b87d12f1b3a4ea5",
+      "size": 4743,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/728a3cc4125b45d4342a5eaf2b87d12f1b3a4ea5"
+    },
+    {
+      "path": "Package.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cf8cc8a9014f9bd76e561fda1d93807dcd1d28fa",
+      "size": 1109,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/cf8cc8a9014f9bd76e561fda1d93807dcd1d28fa"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "112d14fc9a9749c0399964e588002749e5b1abc4",
+      "size": 5475,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/112d14fc9a9749c0399964e588002749e5b1abc4"
+    },
+    {
+      "path": "Sources",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "775d1eb931219850f75f977ceedbb003a3574890",
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/trees/775d1eb931219850f75f977ceedbb003a3574890"
+    },
+    {
+      "path": "Sources/SwiftTorrent",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "150e65cb93dd54ea370b5a707708c185f5f4a2f0",
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/trees/150e65cb93dd54ea370b5a707708c185f5f4a2f0"
+    },
+    {
+      "path": "Sources/SwiftTorrent/Alert",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e76272fdf858d5e0f3dfb28017b4af45a25b8817",
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/trees/e76272fdf858d5e0f3dfb28017b4af45a25b8817"
+    },
+    {
+      "path": "Sources/SwiftTorrent/Alert/Alert.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5af9878527d125dc3a5f2c7bf616e79fc05a6093",
+      "size": 299,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/5af9878527d125dc3a5f2c7bf616e79fc05a6093"
+    },
+    {
+      "path": "Sources/SwiftTorrent/Alert/AlertTypes.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7486efd55c7b98f003385124f31e9f25332218b6",
+      "size": 2155,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/7486efd55c7b98f003385124f31e9f25332218b6"
+    },
+    {
+      "path": "Sources/SwiftTorrent/Bencode",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "564bfb8b1195b3632aa34620b60b7487f7ad8d03",
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/trees/564bfb8b1195b3632aa34620b60b7487f7ad8d03"
+    },
+    {
+      "path": "Sources/SwiftTorrent/Bencode/BencodeDecoder.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "efd36a54cbb04a8e1e2db459a7732f7fef6f5127",
+      "size": 4045,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/efd36a54cbb04a8e1e2db459a7732f7fef6f5127"
+    },
+    {
+      "path": "Sources/SwiftTorrent/Bencode/BencodeEncoder.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "42ff086d5f0581794b5083e9a912e8648d03b438",
+      "size": 1400,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/42ff086d5f0581794b5083e9a912e8648d03b438"
+    },
+    {
+      "path": "Sources/SwiftTorrent/Bencode/BencodeValue.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c9442a75b6b1e0983d41a0e8e7e6503fa8c8db55",
+      "size": 1884,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/c9442a75b6b1e0983d41a0e8e7e6503fa8c8db55"
+    },
+    {
+      "path": "Sources/SwiftTorrent/DHT",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "90bc961c0f4360f27a5223b6196cc5ced6c773cb",
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/trees/90bc961c0f4360f27a5223b6196cc5ced6c773cb"
+    },
+    {
+      "path": "Sources/SwiftTorrent/DHT/DHTMessage.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c5afd5b53188821f43b2a05d460bfb2c23e4961d",
+      "size": 3256,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/c5afd5b53188821f43b2a05d460bfb2c23e4961d"
+    },
+    {
+      "path": "Sources/SwiftTorrent/DHT/DHTNode.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab409d8d43f51febf499d8ab3983334232582d6b",
+      "size": 15202,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/ab409d8d43f51febf499d8ab3983334232582d6b"
+    },
+    {
+      "path": "Sources/SwiftTorrent/DHT/DHTRoutingTable.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e0f5bf91ffd677fd4ccc7212c34f30f491ee4d3b",
+      "size": 2481,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/e0f5bf91ffd677fd4ccc7212c34f30f491ee4d3b"
+    },
+    {
+      "path": "Sources/SwiftTorrent/DHT/DHTStorage.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0ce06817e6ac4beabb5a995353400fdae632f70e",
+      "size": 1930,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/0ce06817e6ac4beabb5a995353400fdae632f70e"
+    },
+    {
+      "path": "Sources/SwiftTorrent/DHT/DHTTraversal.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "33a33897e93808e43a8a12bedefb7b2de309c4f5",
+      "size": 4006,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/33a33897e93808e43a8a12bedefb7b2de309c4f5"
+    },
+    {
+      "path": "Sources/SwiftTorrent/DHT/NodeID.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "790b264894ed16cce477be061f794eb68a5aa823",
+      "size": 1652,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/790b264894ed16cce477be061f794eb68a5aa823"
+    },
+    {
+      "path": "Sources/SwiftTorrent/Peer",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f1f7ebffd6a6486e8c8de325b75f5584454f305a",
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/trees/f1f7ebffd6a6486e8c8de325b75f5584454f305a"
+    },
+    {
+      "path": "Sources/SwiftTorrent/Peer/Handshake.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "234ecea2a7e75ce10b2d65c981a3420c9e79d931",
+      "size": 2462,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/234ecea2a7e75ce10b2d65c981a3420c9e79d931"
+    },
+    {
+      "path": "Sources/SwiftTorrent/Peer/MetadataExchange.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "db8db6f7ec7eb1703afc596b387eaae580bc6893",
+      "size": 6758,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/db8db6f7ec7eb1703afc596b387eaae580bc6893"
+    },
+    {
+      "path": "Sources/SwiftTorrent/Peer/PeerConnection.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d3a985913c29f9248578050b32f37b5a127efe67",
+      "size": 5911,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/d3a985913c29f9248578050b32f37b5a127efe67"
+    },
+    {
+      "path": "Sources/SwiftTorrent/Peer/PeerInfo.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f3f58f28b8ac71709294172987f65d502ed81661",
+      "size": 809,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/f3f58f28b8ac71709294172987f65d502ed81661"
+    },
+    {
+      "path": "Sources/SwiftTorrent/Peer/PeerManager.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6b04acad7df92c3494d675a2ddce3ba8690116d7",
+      "size": 11638,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/6b04acad7df92c3494d675a2ddce3ba8690116d7"
+    },
+    {
+      "path": "Sources/SwiftTorrent/Peer/PeerMessage.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "44fc7c47557b4c68a27fc1e15baa9d9aa8d6931b",
+      "size": 6780,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/44fc7c47557b4c68a27fc1e15baa9d9aa8d6931b"
+    },
+    {
+      "path": "Sources/SwiftTorrent/Peer/PeerState.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ae9baa7ac708bd8f64123a60fdfc42dbdf4697ac",
+      "size": 2569,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/ae9baa7ac708bd8f64123a60fdfc42dbdf4697ac"
+    },
+    {
+      "path": "Sources/SwiftTorrent/PiecePicker",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "889662de04e76bc41e35cac3761eac18c6cf3841",
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/trees/889662de04e76bc41e35cac3761eac18c6cf3841"
+    },
+    {
+      "path": "Sources/SwiftTorrent/PiecePicker/Bitfield.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9729ad1e74f8874a0268dc29126ea49d36fcb667",
+      "size": 2414,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/9729ad1e74f8874a0268dc29126ea49d36fcb667"
+    },
+    {
+      "path": "Sources/SwiftTorrent/PiecePicker/PieceManager.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aa502cd82e5da99c37473472cc4d1b04ea433479",
+      "size": 3573,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/aa502cd82e5da99c37473472cc4d1b04ea433479"
+    },
+    {
+      "path": "Sources/SwiftTorrent/PiecePicker/PiecePicker.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a6c0ec97b30545385afcd9fb9d6e96a52a2c621f",
+      "size": 2230,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/a6c0ec97b30545385afcd9fb9d6e96a52a2c621f"
+    },
+    {
+      "path": "Sources/SwiftTorrent/Session",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "597a09e8bc4bd0a991795a0dacaa98a884a30419",
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/trees/597a09e8bc4bd0a991795a0dacaa98a884a30419"
+    },
+    {
+      "path": "Sources/SwiftTorrent/Session/AddTorrentParams.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "effed9eca5dbdbae876288651645157f8a997313",
+      "size": 1578,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/effed9eca5dbdbae876288651645157f8a997313"
+    },
+    {
+      "path": "Sources/SwiftTorrent/Session/Session.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ec10331a029436e830cad73381ae33916efa013b",
+      "size": 3493,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/ec10331a029436e830cad73381ae33916efa013b"
+    },
+    {
+      "path": "Sources/SwiftTorrent/Session/SessionSettings.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ec257b506f68d02025c75dc0b36c561964155a50",
+      "size": 1204,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/ec257b506f68d02025c75dc0b36c561964155a50"
+    },
+    {
+      "path": "Sources/SwiftTorrent/Session/TorrentHandle.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d32f47f3e2d3f06a839f5acce40a3feabfb6c3ca",
+      "size": 11106,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/d32f47f3e2d3f06a839f5acce40a3feabfb6c3ca"
+    },
+    {
+      "path": "Sources/SwiftTorrent/Session/TorrentStatus.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b6f4f2a65e5d9e09102c70ad9ed0042056c6f43b",
+      "size": 844,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/b6f4f2a65e5d9e09102c70ad9ed0042056c6f43b"
+    },
+    {
+      "path": "Sources/SwiftTorrent/Storage",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3243c09cf9028b25219b19e9f5a4a6250de60c5c",
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/trees/3243c09cf9028b25219b19e9f5a4a6250de60c5c"
+    },
+    {
+      "path": "Sources/SwiftTorrent/Storage/DiskIO.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0c390c3df71770b219b7ae4b9d64b43ef824a80d",
+      "size": 3024,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/0c390c3df71770b219b7ae4b9d64b43ef824a80d"
+    },
+    {
+      "path": "Sources/SwiftTorrent/Storage/PieceCache.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6f25a17884ac9bc3c63ea233d5f19c4bbcfec4a1",
+      "size": 1293,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/6f25a17884ac9bc3c63ea233d5f19c4bbcfec4a1"
+    },
+    {
+      "path": "Sources/SwiftTorrent/Storage/ResumeData.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "91704d11cbf8cb33030069501462dd44296f75b3",
+      "size": 2206,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/91704d11cbf8cb33030069501462dd44296f75b3"
+    },
+    {
+      "path": "Sources/SwiftTorrent/Torrent",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "aaf814c69b65ddd1e2b1fe8370c0856f73c03088",
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/trees/aaf814c69b65ddd1e2b1fe8370c0856f73c03088"
+    },
+    {
+      "path": "Sources/SwiftTorrent/Torrent/FileStorage.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a17c3c8a62b7a3bd4334ebe577b15bee95d66d08",
+      "size": 2445,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/a17c3c8a62b7a3bd4334ebe577b15bee95d66d08"
+    },
+    {
+      "path": "Sources/SwiftTorrent/Torrent/InfoHash.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e5a027d72837d771e545ffbe63ea75b8e01554b2",
+      "size": 1954,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/e5a027d72837d771e545ffbe63ea75b8e01554b2"
+    },
+    {
+      "path": "Sources/SwiftTorrent/Torrent/MagnetLink.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e252b70506094f00cef6d63d84eb9480aac34bc1",
+      "size": 3354,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/e252b70506094f00cef6d63d84eb9480aac34bc1"
+    },
+    {
+      "path": "Sources/SwiftTorrent/Torrent/TorrentFile.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "133dfa01ae4fb4495631de00813aa78a8c25e85b",
+      "size": 4856,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/133dfa01ae4fb4495631de00813aa78a8c25e85b"
+    },
+    {
+      "path": "Sources/SwiftTorrent/Torrent/TorrentInfo.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4bd7e3b84b97f7b1ebbd60ed7bb4a763e60e847b",
+      "size": 6193,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/4bd7e3b84b97f7b1ebbd60ed7bb4a763e60e847b"
+    },
+    {
+      "path": "Sources/SwiftTorrent/Tracker",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "aa1bec56e6527a74e7d801ef750ba1a3a1abca62",
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/trees/aa1bec56e6527a74e7d801ef750ba1a3a1abca62"
+    },
+    {
+      "path": "Sources/SwiftTorrent/Tracker/HTTPTracker.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e07e61371391b0fe47f419827da3b909036725d6",
+      "size": 4010,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/e07e61371391b0fe47f419827da3b909036725d6"
+    },
+    {
+      "path": "Sources/SwiftTorrent/Tracker/TrackerManager.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7eb218f4d6ce329442b493d83433fd78e5d6af5b",
+      "size": 2207,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/7eb218f4d6ce329442b493d83433fd78e5d6af5b"
+    },
+    {
+      "path": "Sources/SwiftTorrent/Tracker/UDPTracker.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "322631855830eea901cd3f03467ef791e1c39522",
+      "size": 9290,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/322631855830eea901cd3f03467ef791e1c39522"
+    },
+    {
+      "path": "Tests",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "560ba244883fb6db28b27336183c7ac47b332f99",
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/trees/560ba244883fb6db28b27336183c7ac47b332f99"
+    },
+    {
+      "path": "Tests/SwiftTorrentTests",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f0b0f53d3fbe193ec7f919072910867114f25480",
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/trees/f0b0f53d3fbe193ec7f919072910867114f25480"
+    },
+    {
+      "path": "Tests/SwiftTorrentTests/BencodeTests.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3a22d7420e1a14a55ab348d812ff0c2dea3241a2",
+      "size": 3810,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/3a22d7420e1a14a55ab348d812ff0c2dea3241a2"
+    },
+    {
+      "path": "Tests/SwiftTorrentTests/BitfieldTests.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2bb886ba6f2888d6e747ad6c08834bcb88268dad",
+      "size": 1517,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/2bb886ba6f2888d6e747ad6c08834bcb88268dad"
+    },
+    {
+      "path": "Tests/SwiftTorrentTests/DHTNodeIDTests.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7e7a5583cf25bb6e362d61dd412c9de1c3c95301",
+      "size": 1421,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/7e7a5583cf25bb6e362d61dd412c9de1c3c95301"
+    },
+    {
+      "path": "Tests/SwiftTorrentTests/DHTRoutingTableTests.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e31c16d658112c04d0ccde22c50f391aba1bf000",
+      "size": 2235,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/e31c16d658112c04d0ccde22c50f391aba1bf000"
+    },
+    {
+      "path": "Tests/SwiftTorrentTests/DownloadTests.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "42282232a985a1d58ac82e02615771d4b363b9ff",
+      "size": 13514,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/42282232a985a1d58ac82e02615771d4b363b9ff"
+    },
+    {
+      "path": "Tests/SwiftTorrentTests/InfoHashTests.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ca93361441ac7fe09dbc452e818750f879f66b10",
+      "size": 1391,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/ca93361441ac7fe09dbc452e818750f879f66b10"
+    },
+    {
+      "path": "Tests/SwiftTorrentTests/MagnetLinkTests.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4399046f7604e3c6b950530d32b17c77ead67896",
+      "size": 1988,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/4399046f7604e3c6b950530d32b17c77ead67896"
+    },
+    {
+      "path": "Tests/SwiftTorrentTests/PeerMessageTests.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cbf59cb66953948939ab488ebcd401a6db54836c",
+      "size": 2826,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/cbf59cb66953948939ab488ebcd401a6db54836c"
+    },
+    {
+      "path": "Tests/SwiftTorrentTests/PiecePickerTests.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ea4f60d885585b6eb11483a43ab0cc97ba07c6c2",
+      "size": 2185,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/ea4f60d885585b6eb11483a43ab0cc97ba07c6c2"
+    },
+    {
+      "path": "Tests/SwiftTorrentTests/SessionIntegrationTests.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9a5ff44bc4de30561f2e4c731c50345affcf48f0",
+      "size": 3213,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/9a5ff44bc4de30561f2e4c731c50345affcf48f0"
+    },
+    {
+      "path": "Tests/SwiftTorrentTests/TorrentInfoTests.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "515eb5182dda70cf225fe355df40951af26bf0e2",
+      "size": 3340,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/515eb5182dda70cf225fe355df40951af26bf0e2"
+    },
+    {
+      "path": "Tests/SwiftTorrentTests/TrackerTests.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2fe39f9b9e5fd658c9965cecb6d567566f4a4f08",
+      "size": 1653,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/2fe39f9b9e5fd658c9965cecb6d567566f4a4f08"
+    },
+    {
+      "path": "img",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5e5d00546cbeb69ea5e7e3df11d66005420f696f",
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/trees/5e5d00546cbeb69ea5e7e3df11d66005420f696f"
+    },
+    {
+      "path": "img/SwiftTorrent.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6fa716f8b1d14754e8cb85118bcdc7cc0faa60b2",
+      "size": 84842,
+      "url": "https://api.github.com/repos/warppipe/swift-torrent/git/blobs/6fa716f8b1d14754e8cb85118bcdc7cc0faa60b2"
+    }
+  ],
+  "truncated": false
+}

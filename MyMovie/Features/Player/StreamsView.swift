@@ -38,7 +38,7 @@ struct StreamsView: View {
             .toolbar { ToolbarItem(placement: .cancellationAction) { Button("Done") { dismiss() } } }
             .refreshable { await load() }
             .task { await load() }
-            .sheet(item: $player) { PlayerView(request: $0) }
+            .fullScreenCover(item: $player) { PlayerView(request: $0) }
             .alert("Playback unavailable", isPresented: Binding(get: { message != nil }, set: { if !$0 { message = nil } })) { } message: { Text(message ?? "") }
         }
     }

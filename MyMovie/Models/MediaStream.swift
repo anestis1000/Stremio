@@ -9,6 +9,8 @@ struct MediaStream: Decodable, Hashable, Sendable {
     var fileIdx: Int?
     var ytId: String?
     var subtitles: [MediaSubtitle]?
+    var sources: [String]?
+    var behaviorHints: StreamBehaviorHints?
     var label: String { name ?? "Stream" }
     var detail: String { description ?? title ?? url?.host ?? "" }
 }

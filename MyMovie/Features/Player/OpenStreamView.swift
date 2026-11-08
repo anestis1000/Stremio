@@ -21,7 +21,7 @@ struct OpenStreamView: View {
             }
             .navigationTitle("Open stream").navigationBarTitleDisplayMode(.inline)
             .toolbar { ToolbarItem(placement: .cancellationAction) { Button("Cancel") { dismiss() } } }
-            .sheet(item: $playback) { PlayerView(request: $0) }
+            .fullScreenCover(item: $playback) { PlayerView(request: $0) }
         }
     }
 }
