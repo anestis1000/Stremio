@@ -9,5 +9,7 @@ struct PlaybackRequest: Identifiable, Sendable {
     var subtitles: [MediaSubtitle] = []
     var headers: [String: String] = [:]
     var subtitleHints: SubtitleHints?
+    var torrentHash: String?
+    var torrentFileIndex: Int?
     var alternatives: [PlaybackQuality] = []
 }

@@ -234,7 +234,7 @@ final class PlaybackModel {
     func foreground() { set("vid", value: "auto") }
     func save() {
         guard let request, let item = request.item, let url = loadedURL else { return }
-        store?.saveProgress(item: item, videoID: request.videoID, title: request.title, url: url, seconds: position, duration: duration)
+        store?.saveProgress(item: item, videoID: request.videoID, title: request.title, url: url, seconds: position, duration: duration, torrentHash: request.torrentHash, torrentFileIndex: request.torrentFileIndex, headers: request.headers)
     }
     func stop() {
         save(); poller?.cancel(); poller = nil; subtitleTask?.cancel(); subtitleTask = nil

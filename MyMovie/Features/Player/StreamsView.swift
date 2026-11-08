@@ -9,13 +9,16 @@ struct StreamsView: View {
     @State private var failures: [String] = []
     @State private var message: String?
     @State private var player: PlaybackRequest?
+    @State private var preparing = false
+    @State private var showAddons = false
     var body: some View {
         NavigationStack {
             List {
                 Section { Text(request.title).font(.title3.bold()) }
                 if loading { ProgressView("Checking your addons…") }
+                if preparing { ProgressView("Preparing stream and torrent metadata…") }
                 ForEach(choices) { choice in
-                    Button { select(choice.stream) } label: {
+                    Button { Task { await select(choice.stream) } } label: {
                         HStack(spacing: 14) {
                             Image(systemName: choice.stream.externalUrl == nil ? "play.circle.fill" : "arrow.up.forward.app")
                                 .font(.title2).foregroundStyle(Theme.accent)
@@ -25,11 +28,12 @@ struct StreamsView: View {
                                 Text(choice.addonName).font(.caption).foregroundStyle(.secondary)
                             }
                         }.padding(.vertical, 6)
-                    }.buttonStyle(.plain)
+                    }.buttonStyle(.plain).disabled(preparing)
                 }
                 if !loading && choices.isEmpty {
-                    ContentUnavailableView("No streams found", systemImage: "play.slash", description: Text("Install a stream addon in Addons, then try again. Cinemeta provides title information, not video streams."))
+                    ContentUnavailableView("No streams found", systemImage: "play.slash", description: Text("Install a stream addon, then try again. Cinemeta provides title information."))
                 }
+                if !loading { Button("Manage stream addons", systemImage: "puzzlepiece.extension") { showAddons = true } }
                 if !failures.isEmpty {
                     Section("Addon responses") { ForEach(failures, id: \.self) { Text($0).font(.caption).foregroundStyle(.secondary) } }
                 }
@@ -38,6 +42,7 @@ struct StreamsView: View {
             .toolbar { ToolbarItem(placement: .cancellationAction) { Button("Done") { dismiss() } } }
             .refreshable { await load() }
             .task { await load() }
+            .sheet(isPresented: $showAddons, onDismiss: { Task { await load() } }) { NavigationStack { AddonsView().toolbar { Button("Done") { showAddons = false } } } }
             .fullScreenCover(item: $player) { PlayerView(request: $0) }
             .alert("Playback unavailable", isPresented: Binding(get: { message != nil }, set: { if !$0 { message = nil } })) { } message: { Text(message ?? "") }
         }
@@ -54,21 +59,26 @@ struct StreamsView: View {
         }
         loading = false
     }
-    private func select(_ stream: MediaStream) {
+    private func select(_ stream: MediaStream) async {
         if let external = stream.externalUrl { openURL(external); return }
         if let youtube = stream.ytId, let url = URL(string: "https://www.youtube.com/watch?v=" + youtube) { openURL(url); return }
-        var playable = stream.url
-        if playable == nil, let hash = stream.infoHash {
-            guard let server = URL(string: store.streamingServer), ["http", "https"].contains(server.scheme ?? ""), server.host != nil else {
-                message = "This source needs a Stremio streaming service. Add your service address in Settings, or select a direct HTTP/HLS stream."; return
+        preparing = true; defer { preparing = false }
+        do {
+            let url: URL
+            var torrentHash: String?
+            if stream.infoHash != nil {
+                let hash = try await store.downloads.add(stream: stream, title: request.title)
+                torrentHash = hash
+                url = try await store.downloads.playbackURL(hash: hash, index: stream.fileIdx)
+            } else if let direct = stream.url, ["http", "https"].contains(direct.scheme ?? "") { url = direct }
+            else { throw TorrentError.message("This addon did not provide a playable video URL or torrent.") }
+            let saved = store.progress.first { $0.item.key == request.item.key && $0.videoID == request.videoID }
+            let hints = stream.behaviorHints
+            let alternatives = choices.compactMap { choice -> PlaybackQuality? in
+                guard let url = choice.stream.url, ["http", "https"].contains(url.scheme ?? "") else { return nil }
+                return PlaybackQuality(title: choice.stream.label, url: url, headers: choice.stream.behaviorHints?.proxyHeaders?.request ?? [:])
             }
-            guard let index = stream.fileIdx else { message = "This source does not specify a file index. Choose a direct stream or a source with an explicit file."; return }
-            playable = server.appendingPathComponent(hash).appendingPathComponent(String(index))
-        }
-        guard let url = playable, ["http", "https"].contains(url.scheme ?? "") else {
-            message = "This source cannot be played by the iOS player. Choose an HTTP or HLS stream."; return
-        }
-        let saved = store.progress.first { $0.item.key == request.item.key && $0.videoID == request.videoID }
-        player = PlaybackRequest(url: url, item: request.item, videoID: request.videoID, title: request.title, startTime: saved?.seconds ?? 0)
+            player = PlaybackRequest(url: url, item: request.item, videoID: request.videoID, title: request.title, startTime: saved?.seconds ?? 0, subtitles: stream.subtitles ?? [], headers: hints?.proxyHeaders?.request ?? [:], subtitleHints: SubtitleHints(filename: hints?.filename, videoHash: hints?.videoHash, videoSize: hints?.videoSize), torrentHash: torrentHash, torrentFileIndex: stream.fileIdx, alternatives: alternatives)
+        } catch { message = error.localizedDescription }
     }
 }

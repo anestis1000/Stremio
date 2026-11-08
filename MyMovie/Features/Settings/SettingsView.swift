@@ -15,14 +15,11 @@ struct SettingsView: View {
             Section("Appearance") {
                 Picker("Theme", selection: $store.appearance) { ForEach(Appearance.allCases, id: \.self) { Text($0.rawValue).tag($0) } }
             }
-            Section {
-                TextField("https://your-streaming-service", text: $store.streamingServer).keyboardType(.URL).textInputAutocapitalization(.never).autocorrectionDisabled()
-            } header: { Text("Streaming service") } footer: {
-                Text("Optional. Enter a reachable Stremio service address to play sources that require a server. The Windows service cannot run on iOS. Direct HTTP/HLS streams work without it.")
-            }
             Section("Playback") {
-                Button("Open a video URL", systemImage: "play.rectangle") { store.showOpenStream = true }
-                Text("Native iOS controls provide seeking, AirPlay, fullscreen, and available embedded audio/subtitle tracks. Format and HDR support depend on the source and device.").font(.footnote).foregroundStyle(.secondary)
+                Button("Open video or torrent", systemImage: "play.rectangle") { store.showOpenStream = true }
+                Text("mpv uses native FFmpeg libraries with VideoToolbox hardware decoding. Choose audio tracks, embedded or external subtitles, timing, speed, volume, and video fit in the player's settings.").font(.footnote).foregroundStyle(.secondary)
+                LabeledContent("FFmpeg", value: NativeFFmpeg.version)
+                Text("Torrents download on this device. iOS suspends torrent transfers in the background; return to the app to resume.").font(.footnote).foregroundStyle(.secondary)
             }
             Section("Watch history") {
                 LabeledContent("Saved progress", value: store.progress.count.formatted())

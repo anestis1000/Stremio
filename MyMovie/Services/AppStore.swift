@@ -15,6 +15,7 @@ final class AppStore {
     var pendingAddon: AddonInstallRequest?
     var startupError: String?
     private(set) var isStarting = true
+    let downloads = DownloadManager()
     let client: AddonClient
     @ObservationIgnored private let defaults: UserDefaults
     @ObservationIgnored private var started = false
@@ -44,15 +45,22 @@ final class AppStore {
     func toggleLibrary(_ item: MediaItem) {
         if contains(item) { library.removeAll { $0.key == item.key } } else { library.insert(item, at: 0) }; persist()
     }
-    func saveProgress(item: MediaItem, videoID: String, title: String, url: URL, seconds: Double, duration: Double) {
+    func saveProgress(item: MediaItem, videoID: String, title: String, url: URL, seconds: Double, duration: Double, torrentHash: String? = nil, torrentFileIndex: Int? = nil, headers: [String: String] = [:]) {
         guard seconds.isFinite, duration.isFinite, duration > 0, seconds >= 0 else { return }
         progress.removeAll { $0.item.key == item.key && $0.videoID == videoID }
-        progress.insert(WatchProgress(item: item, videoID: videoID, title: title, url: url, seconds: seconds, duration: duration, updatedAt: .now), at: 0)
+        progress.insert(WatchProgress(item: item, videoID: videoID, title: title, url: url, seconds: seconds, duration: duration, torrentHash: torrentHash, torrentFileIndex: torrentFileIndex, headers: headers, updatedAt: .now), at: 0)
         progress = Array(progress.prefix(200)); persist()
     }
     func removeProgress(_ entry: WatchProgress) { progress.removeAll { $0.id == entry.id }; persist() }
     func play(_ entry: WatchProgress) {
-        playback = PlaybackRequest(url: entry.url, item: entry.item, videoID: entry.videoID, title: entry.title, startTime: entry.seconds)
+        Task {
+            do {
+                let url: URL
+                if let hash = entry.torrentHash { url = try await downloads.playbackURL(hash: hash, index: entry.torrentFileIndex) }
+                else { url = entry.url }
+                playback = PlaybackRequest(url: url, item: entry.item, videoID: entry.videoID, title: entry.title, startTime: entry.seconds, headers: entry.headers ?? [:], torrentHash: entry.torrentHash, torrentFileIndex: entry.torrentFileIndex)
+            } catch { downloads.error = error.localizedDescription }
+        }
     }
     func play(url: URL, item: MediaItem?, videoID: String, title: String) {
         let saved = progress.first { $0.item.key == item?.key && $0.videoID == videoID }

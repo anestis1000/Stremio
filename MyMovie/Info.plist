@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0"><dict>
-    <key>CFBundleURLTypes</key><array><dict><key>CFBundleURLSchemes</key><array><string>stremio</string></array><key>CFBundleURLName</key><string>Addon installation</string></dict></array>
+    <key>CFBundleURLTypes</key><array><dict><key>CFBundleURLSchemes</key><array><string>stremio</string><string>magnet</string></array><key>CFBundleURLName</key><string>Addon installation</string></dict></array>
     <key>NSAppTransportSecurity</key><dict><key>NSAllowsArbitraryLoadsForMedia</key><true/><key>NSAllowsLocalNetworking</key><true/></dict>
-    <key>NSLocalNetworkUsageDescription</key><string>Connect to the streaming service address you enter in Settings to play your media.</string>
+    <key>NSLocalNetworkUsageDescription</key><string>Download torrents and play media through the app’s local streaming connection.</string>
+<key>CFBundleDocumentTypes</key><array><dict><key>CFBundleTypeName</key><string>BitTorrent</string><key>LSItemContentTypes</key><array><string>org.bittorrent.torrent</string></array><key>CFBundleTypeRole</key><string>Viewer</string></dict></array><key>UTImportedTypeDeclarations</key><array><dict><key>UTTypeIdentifier</key><string>org.bittorrent.torrent</string><key>UTTypeConformsTo</key><array><string>public.data</string></array><key>UTTypeTagSpecification</key><dict><key>public.filename-extension</key><array><string>torrent</string></array><key>public.mime-type</key><string>application/x-bittorrent</string></dict></dict></array>
 </dict></plist>
